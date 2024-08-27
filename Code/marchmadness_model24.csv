@@ -1,0 +1,4557 @@
+SEED_1,TEAM_1,SEED_2,TEAM_2,Team1W_Prob
+1.0,Connecticut,1.0,Houston,0.36
+1.0,Connecticut,1.0,North Carolina,0.778
+1.0,Connecticut,1.0,Purdue,0.547
+1.0,Connecticut,2.0,Arizona,0.69
+1.0,Connecticut,2.0,Iowa St.,0.611
+1.0,Connecticut,2.0,Marquette,0.737
+1.0,Connecticut,2.0,Tennessee,0.739
+1.0,Connecticut,3.0,Baylor,0.792
+1.0,Connecticut,3.0,Creighton,0.851
+1.0,Connecticut,3.0,Illinois,0.783
+1.0,Connecticut,3.0,Kentucky,0.853
+1.0,Connecticut,4.0,Alabama,0.788
+1.0,Connecticut,4.0,Auburn,0.658
+1.0,Connecticut,4.0,Duke,0.79
+1.0,Connecticut,4.0,Kansas,0.842
+1.0,Connecticut,5.0,Gonzaga,0.809
+1.0,Connecticut,5.0,Saint Mary's,0.825
+1.0,Connecticut,5.0,San Diego St.,0.861
+1.0,Connecticut,5.0,Wisconsin,0.822
+1.0,Connecticut,6.0,BYU,0.806
+1.0,Connecticut,6.0,Clemson,0.901
+1.0,Connecticut,6.0,South Carolina,0.873
+1.0,Connecticut,6.0,Texas Tech,0.849
+1.0,Connecticut,7.0,Dayton,0.879
+1.0,Connecticut,7.0,Florida,0.828
+1.0,Connecticut,7.0,Texas,0.841
+1.0,Connecticut,7.0,Washington St.,0.888
+1.0,Connecticut,8.0,Florida Atlantic,0.885
+1.0,Connecticut,8.0,Mississippi St.,0.867
+1.0,Connecticut,8.0,Nebraska,0.854
+1.0,Connecticut,8.0,Utah St.,0.889
+1.0,Connecticut,9.0,Michigan St.,0.835
+1.0,Connecticut,9.0,Northwestern,0.86
+1.0,Connecticut,9.0,TCU,0.84
+1.0,Connecticut,9.0,Texas A&M,0.86
+1.0,Connecticut,10.0,Boise St.,0.877
+1.0,Connecticut,10.0,Colorado,0.856
+1.0,Connecticut,10.0,Colorado St.,0.881
+1.0,Connecticut,10.0,Drake,0.89
+1.0,Connecticut,10.0,Nevada,0.855
+1.0,Connecticut,10.0,Virginia,0.891
+1.0,Connecticut,11.0,Duquesne,0.931
+1.0,Connecticut,11.0,New Mexico,0.792
+1.0,Connecticut,11.0,North Carolina St.,0.905
+1.0,Connecticut,11.0,Oregon,0.885
+1.0,Connecticut,12.0,Grand Canyon,0.888
+1.0,Connecticut,12.0,James Madison,0.88
+1.0,Connecticut,12.0,McNeese St.,0.876
+1.0,Connecticut,12.0,UAB,0.954
+1.0,Connecticut,13.0,College of Charleston,0.936
+1.0,Connecticut,13.0,Samford,0.907
+1.0,Connecticut,13.0,Vermont,0.956
+1.0,Connecticut,13.0,Yale,0.937
+1.0,Connecticut,14.0,Akron,0.967
+1.0,Connecticut,14.0,Colgate,0.977
+1.0,Connecticut,14.0,Morehead St.,0.967
+1.0,Connecticut,14.0,Oakland,0.967
+1.0,Connecticut,15.0,Long Beach St.,0.982
+1.0,Connecticut,15.0,Saint Peter's,0.983
+1.0,Connecticut,15.0,South Dakota St.,0.977
+1.0,Connecticut,15.0,Western Kentucky,0.971
+1.0,Connecticut,16.0,Grambling St.,0.991
+1.0,Connecticut,16.0,Howard,0.993
+1.0,Connecticut,16.0,Longwood,0.977
+1.0,Connecticut,16.0,Montana St.,0.99
+1.0,Connecticut,16.0,Stetson,0.988
+1.0,Connecticut,16.0,Wagner,0.994
+1.0,Houston,1.0,Connecticut,0.64
+1.0,Houston,1.0,North Carolina,0.861
+1.0,Houston,1.0,Purdue,0.682
+1.0,Houston,2.0,Arizona,0.798
+1.0,Houston,2.0,Iowa St.,0.737
+1.0,Houston,2.0,Marquette,0.833
+1.0,Houston,2.0,Tennessee,0.834
+1.0,Houston,3.0,Baylor,0.872
+1.0,Houston,3.0,Creighton,0.91
+1.0,Houston,3.0,Illinois,0.865
+1.0,Houston,3.0,Kentucky,0.912
+1.0,Houston,4.0,Alabama,0.869
+1.0,Houston,4.0,Auburn,0.774
+1.0,Houston,4.0,Duke,0.87
+1.0,Houston,4.0,Kansas,0.904
+1.0,Houston,5.0,Gonzaga,0.883
+1.0,Houston,5.0,Saint Mary's,0.894
+1.0,Houston,5.0,San Diego St.,0.916
+1.0,Houston,5.0,Wisconsin,0.892
+1.0,Houston,6.0,BYU,0.881
+1.0,Houston,6.0,Clemson,0.941
+1.0,Houston,6.0,South Carolina,0.925
+1.0,Houston,6.0,Texas Tech,0.909
+1.0,Houston,7.0,Dayton,0.928
+1.0,Houston,7.0,Florida,0.895
+1.0,Houston,7.0,Texas,0.904
+1.0,Houston,7.0,Washington St.,0.934
+1.0,Houston,8.0,Florida Atlantic,0.932
+1.0,Houston,8.0,Mississippi St.,0.92
+1.0,Houston,8.0,Nebraska,0.912
+1.0,Houston,8.0,Utah St.,0.934
+1.0,Houston,9.0,Michigan St.,0.9
+1.0,Houston,9.0,Northwestern,0.916
+1.0,Houston,9.0,TCU,0.903
+1.0,Houston,9.0,Texas A&M,0.916
+1.0,Houston,10.0,Boise St.,0.927
+1.0,Houston,10.0,Colorado,0.913
+1.0,Houston,10.0,Colorado St.,0.929
+1.0,Houston,10.0,Drake,0.935
+1.0,Houston,10.0,Nevada,0.913
+1.0,Houston,10.0,Virginia,0.936
+1.0,Houston,11.0,Duquesne,0.96
+1.0,Houston,11.0,New Mexico,0.871
+1.0,Houston,11.0,North Carolina St.,0.944
+1.0,Houston,11.0,Oregon,0.932
+1.0,Houston,12.0,Grand Canyon,0.934
+1.0,Houston,12.0,James Madison,0.929
+1.0,Houston,12.0,McNeese St.,0.926
+1.0,Houston,12.0,UAB,0.973
+1.0,Houston,13.0,College of Charleston,0.963
+1.0,Houston,13.0,Samford,0.945
+1.0,Houston,13.0,Vermont,0.975
+1.0,Houston,13.0,Yale,0.963
+1.0,Houston,14.0,Akron,0.981
+1.0,Houston,14.0,Colgate,0.987
+1.0,Houston,14.0,Morehead St.,0.981
+1.0,Houston,14.0,Oakland,0.981
+1.0,Houston,15.0,Long Beach St.,0.99
+1.0,Houston,15.0,Saint Peter's,0.99
+1.0,Houston,15.0,South Dakota St.,0.987
+1.0,Houston,15.0,Western Kentucky,0.984
+1.0,Houston,16.0,Grambling St.,0.995
+1.0,Houston,16.0,Howard,0.996
+1.0,Houston,16.0,Longwood,0.987
+1.0,Houston,16.0,Montana St.,0.994
+1.0,Houston,16.0,Stetson,0.993
+1.0,Houston,16.0,Wagner,0.996
+1.0,North Carolina,1.0,Connecticut,0.222
+1.0,North Carolina,1.0,Houston,0.139
+1.0,North Carolina,1.0,Purdue,0.256
+1.0,North Carolina,2.0,Arizona,0.389
+1.0,North Carolina,2.0,Iowa St.,0.31
+1.0,North Carolina,2.0,Marquette,0.445
+1.0,North Carolina,2.0,Tennessee,0.448
+1.0,North Carolina,3.0,Baylor,0.522
+1.0,North Carolina,3.0,Creighton,0.621
+1.0,North Carolina,3.0,Illinois,0.508
+1.0,North Carolina,3.0,Kentucky,0.624
+1.0,North Carolina,4.0,Alabama,0.516
+1.0,North Carolina,4.0,Auburn,0.355
+1.0,North Carolina,4.0,Duke,0.518
+1.0,North Carolina,4.0,Kansas,0.603
+1.0,North Carolina,5.0,Gonzaga,0.548
+1.0,North Carolina,5.0,Saint Mary's,0.575
+1.0,North Carolina,5.0,San Diego St.,0.638
+1.0,North Carolina,5.0,Wisconsin,0.569
+1.0,North Carolina,6.0,BYU,0.543
+1.0,North Carolina,6.0,Clemson,0.721
+1.0,North Carolina,6.0,South Carolina,0.664
+1.0,North Carolina,6.0,Texas Tech,0.617
+1.0,North Carolina,7.0,Dayton,0.674
+1.0,North Carolina,7.0,Florida,0.579
+1.0,North Carolina,7.0,Texas,0.601
+1.0,North Carolina,7.0,Washington St.,0.694
+1.0,North Carolina,8.0,Florida Atlantic,0.688
+1.0,North Carolina,8.0,Mississippi St.,0.65
+1.0,North Carolina,8.0,Nebraska,0.626
+1.0,North Carolina,8.0,Utah St.,0.696
+1.0,North Carolina,9.0,Michigan St.,0.591
+1.0,North Carolina,9.0,Northwestern,0.637
+1.0,North Carolina,9.0,TCU,0.6
+1.0,North Carolina,9.0,Texas A&M,0.637
+1.0,North Carolina,10.0,Boise St.,0.672
+1.0,North Carolina,10.0,Colorado,0.629
+1.0,North Carolina,10.0,Colorado St.,0.679
+1.0,North Carolina,10.0,Drake,0.699
+1.0,North Carolina,10.0,Nevada,0.628
+1.0,North Carolina,10.0,Virginia,0.7
+1.0,North Carolina,11.0,Duquesne,0.795
+1.0,North Carolina,11.0,New Mexico,0.521
+1.0,North Carolina,11.0,North Carolina St.,0.731
+1.0,North Carolina,11.0,Oregon,0.687
+1.0,North Carolina,12.0,Grand Canyon,0.695
+1.0,North Carolina,12.0,James Madison,0.677
+1.0,North Carolina,12.0,McNeese St.,0.669
+1.0,North Carolina,12.0,UAB,0.855
+1.0,North Carolina,13.0,College of Charleston,0.806
+1.0,North Carolina,13.0,Samford,0.736
+1.0,North Carolina,13.0,Vermont,0.862
+1.0,North Carolina,13.0,Yale,0.809
+1.0,North Carolina,14.0,Akron,0.893
+1.0,North Carolina,14.0,Colgate,0.924
+1.0,North Carolina,14.0,Morehead St.,0.893
+1.0,North Carolina,14.0,Oakland,0.892
+1.0,North Carolina,15.0,Long Beach St.,0.939
+1.0,North Carolina,15.0,Saint Peter's,0.943
+1.0,North Carolina,15.0,South Dakota St.,0.924
+1.0,North Carolina,15.0,Western Kentucky,0.906
+1.0,North Carolina,16.0,Grambling St.,0.969
+1.0,North Carolina,16.0,Howard,0.977
+1.0,North Carolina,16.0,Longwood,0.922
+1.0,North Carolina,16.0,Montana St.,0.965
+1.0,North Carolina,16.0,Stetson,0.959
+1.0,North Carolina,16.0,Wagner,0.978
+1.0,Purdue,1.0,Connecticut,0.453
+1.0,Purdue,1.0,Houston,0.318
+1.0,Purdue,1.0,North Carolina,0.744
+1.0,Purdue,2.0,Arizona,0.648
+1.0,Purdue,2.0,Iowa St.,0.566
+1.0,Purdue,2.0,Marquette,0.699
+1.0,Purdue,2.0,Tennessee,0.702
+1.0,Purdue,3.0,Baylor,0.76
+1.0,Purdue,3.0,Creighton,0.826
+1.0,Purdue,3.0,Illinois,0.75
+1.0,Purdue,3.0,Kentucky,0.828
+1.0,Purdue,4.0,Alabama,0.755
+1.0,Purdue,4.0,Auburn,0.615
+1.0,Purdue,4.0,Duke,0.757
+1.0,Purdue,4.0,Kansas,0.815
+1.0,Purdue,5.0,Gonzaga,0.779
+1.0,Purdue,5.0,Saint Mary's,0.797
+1.0,Purdue,5.0,San Diego St.,0.836
+1.0,Purdue,5.0,Wisconsin,0.793
+1.0,Purdue,6.0,BYU,0.775
+1.0,Purdue,6.0,Clemson,0.882
+1.0,Purdue,6.0,South Carolina,0.851
+1.0,Purdue,6.0,Texas Tech,0.823
+1.0,Purdue,7.0,Dayton,0.857
+1.0,Purdue,7.0,Florida,0.799
+1.0,Purdue,7.0,Texas,0.814
+1.0,Purdue,7.0,Washington St.,0.868
+1.0,Purdue,8.0,Florida Atlantic,0.865
+1.0,Purdue,8.0,Mississippi St.,0.843
+1.0,Purdue,8.0,Nebraska,0.829
+1.0,Purdue,8.0,Utah St.,0.869
+1.0,Purdue,9.0,Michigan St.,0.808
+1.0,Purdue,9.0,Northwestern,0.836
+1.0,Purdue,9.0,TCU,0.813
+1.0,Purdue,9.0,Texas A&M,0.836
+1.0,Purdue,10.0,Boise St.,0.856
+1.0,Purdue,10.0,Colorado,0.831
+1.0,Purdue,10.0,Colorado St.,0.86
+1.0,Purdue,10.0,Drake,0.871
+1.0,Purdue,10.0,Nevada,0.83
+1.0,Purdue,10.0,Virginia,0.871
+1.0,Purdue,11.0,Duquesne,0.918
+1.0,Purdue,11.0,New Mexico,0.759
+1.0,Purdue,11.0,North Carolina St.,0.887
+1.0,Purdue,11.0,Oregon,0.864
+1.0,Purdue,12.0,Grand Canyon,0.868
+1.0,Purdue,12.0,James Madison,0.859
+1.0,Purdue,12.0,McNeese St.,0.854
+1.0,Purdue,12.0,UAB,0.945
+1.0,Purdue,13.0,College of Charleston,0.923
+1.0,Purdue,13.0,Samford,0.89
+1.0,Purdue,13.0,Vermont,0.948
+1.0,Purdue,13.0,Yale,0.925
+1.0,Purdue,14.0,Akron,0.96
+1.0,Purdue,14.0,Colgate,0.973
+1.0,Purdue,14.0,Morehead St.,0.96
+1.0,Purdue,14.0,Oakland,0.96
+1.0,Purdue,15.0,Long Beach St.,0.978
+1.0,Purdue,15.0,Saint Peter's,0.98
+1.0,Purdue,15.0,South Dakota St.,0.972
+1.0,Purdue,15.0,Western Kentucky,0.965
+1.0,Purdue,16.0,Grambling St.,0.989
+1.0,Purdue,16.0,Howard,0.992
+1.0,Purdue,16.0,Longwood,0.972
+1.0,Purdue,16.0,Montana St.,0.988
+1.0,Purdue,16.0,Stetson,0.985
+1.0,Purdue,16.0,Wagner,0.992
+2.0,Arizona,1.0,Connecticut,0.31
+2.0,Arizona,1.0,Houston,0.202
+2.0,Arizona,1.0,North Carolina,0.611
+2.0,Arizona,1.0,Purdue,0.352
+2.0,Arizona,2.0,Iowa St.,0.414
+2.0,Arizona,2.0,Marquette,0.557
+2.0,Arizona,2.0,Tennessee,0.561
+2.0,Arizona,3.0,Baylor,0.632
+2.0,Arizona,3.0,Creighton,0.72
+2.0,Arizona,3.0,Illinois,0.619
+2.0,Arizona,3.0,Kentucky,0.723
+2.0,Arizona,4.0,Alabama,0.626
+2.0,Arizona,4.0,Auburn,0.464
+2.0,Arizona,4.0,Duke,0.628
+2.0,Arizona,4.0,Kansas,0.705
+2.0,Arizona,5.0,Gonzaga,0.656
+2.0,Arizona,5.0,Saint Mary's,0.68
+2.0,Arizona,5.0,San Diego St.,0.735
+2.0,Arizona,5.0,Wisconsin,0.675
+2.0,Arizona,6.0,BYU,0.651
+2.0,Arizona,6.0,Clemson,0.803
+2.0,Arizona,6.0,South Carolina,0.756
+2.0,Arizona,6.0,Texas Tech,0.717
+2.0,Arizona,7.0,Dayton,0.765
+2.0,Arizona,7.0,Florida,0.684
+2.0,Arizona,7.0,Texas,0.704
+2.0,Arizona,7.0,Washington St.,0.781
+2.0,Arizona,8.0,Florida Atlantic,0.776
+2.0,Arizona,8.0,Mississippi St.,0.745
+2.0,Arizona,8.0,Nebraska,0.725
+2.0,Arizona,8.0,Utah St.,0.782
+2.0,Arizona,9.0,Michigan St.,0.695
+2.0,Arizona,9.0,Northwestern,0.734
+2.0,Arizona,9.0,TCU,0.702
+2.0,Arizona,9.0,Texas A&M,0.734
+2.0,Arizona,10.0,Boise St.,0.763
+2.0,Arizona,10.0,Colorado,0.728
+2.0,Arizona,10.0,Colorado St.,0.769
+2.0,Arizona,10.0,Drake,0.785
+2.0,Arizona,10.0,Nevada,0.726
+2.0,Arizona,10.0,Virginia,0.786
+2.0,Arizona,11.0,Duquesne,0.859
+2.0,Arizona,11.0,New Mexico,0.631
+2.0,Arizona,11.0,North Carolina St.,0.811
+2.0,Arizona,11.0,Oregon,0.775
+2.0,Arizona,12.0,Grand Canyon,0.782
+2.0,Arizona,12.0,James Madison,0.767
+2.0,Arizona,12.0,McNeese St.,0.761
+2.0,Arizona,12.0,UAB,0.903
+2.0,Arizona,13.0,College of Charleston,0.867
+2.0,Arizona,13.0,Samford,0.815
+2.0,Arizona,13.0,Vermont,0.908
+2.0,Arizona,13.0,Yale,0.869
+2.0,Arizona,14.0,Akron,0.929
+2.0,Arizona,14.0,Colgate,0.951
+2.0,Arizona,14.0,Morehead St.,0.929
+2.0,Arizona,14.0,Oakland,0.929
+2.0,Arizona,15.0,Long Beach St.,0.96
+2.0,Arizona,15.0,Saint Peter's,0.963
+2.0,Arizona,15.0,South Dakota St.,0.95
+2.0,Arizona,15.0,Western Kentucky,0.938
+2.0,Arizona,16.0,Grambling St.,0.98
+2.0,Arizona,16.0,Howard,0.985
+2.0,Arizona,16.0,Longwood,0.949
+2.0,Arizona,16.0,Montana St.,0.978
+2.0,Arizona,16.0,Stetson,0.973
+2.0,Arizona,16.0,Wagner,0.986
+2.0,Iowa St.,1.0,Connecticut,0.389
+2.0,Iowa St.,1.0,Houston,0.263
+2.0,Iowa St.,1.0,North Carolina,0.69
+2.0,Iowa St.,1.0,Purdue,0.434
+2.0,Iowa St.,2.0,Arizona,0.586
+2.0,Iowa St.,2.0,Marquette,0.64
+2.0,Iowa St.,2.0,Tennessee,0.643
+2.0,Iowa St.,3.0,Baylor,0.708
+2.0,Iowa St.,3.0,Creighton,0.784
+2.0,Iowa St.,3.0,Illinois,0.697
+2.0,Iowa St.,3.0,Kentucky,0.787
+2.0,Iowa St.,4.0,Alabama,0.703
+2.0,Iowa St.,4.0,Auburn,0.55
+2.0,Iowa St.,4.0,Duke,0.705
+2.0,Iowa St.,4.0,Kansas,0.772
+2.0,Iowa St.,5.0,Gonzaga,0.729
+2.0,Iowa St.,5.0,Saint Mary's,0.75
+2.0,Iowa St.,5.0,San Diego St.,0.797
+2.0,Iowa St.,5.0,Wisconsin,0.746
+2.0,Iowa St.,6.0,BYU,0.725
+2.0,Iowa St.,6.0,Clemson,0.852
+2.0,Iowa St.,6.0,South Carolina,0.814
+2.0,Iowa St.,6.0,Texas Tech,0.781
+2.0,Iowa St.,7.0,Dayton,0.822
+2.0,Iowa St.,7.0,Florida,0.753
+2.0,Iowa St.,7.0,Texas,0.77
+2.0,Iowa St.,7.0,Washington St.,0.834
+2.0,Iowa St.,8.0,Florida Atlantic,0.831
+2.0,Iowa St.,8.0,Mississippi St.,0.805
+2.0,Iowa St.,8.0,Nebraska,0.788
+2.0,Iowa St.,8.0,Utah St.,0.835
+2.0,Iowa St.,9.0,Michigan St.,0.763
+2.0,Iowa St.,9.0,Northwestern,0.796
+2.0,Iowa St.,9.0,TCU,0.769
+2.0,Iowa St.,9.0,Texas A&M,0.796
+2.0,Iowa St.,10.0,Boise St.,0.82
+2.0,Iowa St.,10.0,Colorado,0.791
+2.0,Iowa St.,10.0,Colorado St.,0.825
+2.0,Iowa St.,10.0,Drake,0.838
+2.0,Iowa St.,10.0,Nevada,0.789
+2.0,Iowa St.,10.0,Virginia,0.839
+2.0,Iowa St.,11.0,Duquesne,0.896
+2.0,Iowa St.,11.0,New Mexico,0.707
+2.0,Iowa St.,11.0,North Carolina St.,0.858
+2.0,Iowa St.,11.0,Oregon,0.83
+2.0,Iowa St.,12.0,Grand Canyon,0.835
+2.0,Iowa St.,12.0,James Madison,0.823
+2.0,Iowa St.,12.0,McNeese St.,0.818
+2.0,Iowa St.,12.0,UAB,0.929
+2.0,Iowa St.,13.0,College of Charleston,0.902
+2.0,Iowa St.,13.0,Samford,0.861
+2.0,Iowa St.,13.0,Vermont,0.933
+2.0,Iowa St.,13.0,Yale,0.904
+2.0,Iowa St.,14.0,Akron,0.949
+2.0,Iowa St.,14.0,Colgate,0.965
+2.0,Iowa St.,14.0,Morehead St.,0.949
+2.0,Iowa St.,14.0,Oakland,0.948
+2.0,Iowa St.,15.0,Long Beach St.,0.971
+2.0,Iowa St.,15.0,Saint Peter's,0.974
+2.0,Iowa St.,15.0,South Dakota St.,0.964
+2.0,Iowa St.,15.0,Western Kentucky,0.955
+2.0,Iowa St.,16.0,Grambling St.,0.986
+2.0,Iowa St.,16.0,Howard,0.99
+2.0,Iowa St.,16.0,Longwood,0.964
+2.0,Iowa St.,16.0,Montana St.,0.984
+2.0,Iowa St.,16.0,Stetson,0.981
+2.0,Iowa St.,16.0,Wagner,0.99
+2.0,Marquette,1.0,Connecticut,0.263
+2.0,Marquette,1.0,Houston,0.167
+2.0,Marquette,1.0,North Carolina,0.555
+2.0,Marquette,1.0,Purdue,0.301
+2.0,Marquette,2.0,Arizona,0.443
+2.0,Marquette,2.0,Iowa St.,0.36
+2.0,Marquette,2.0,Tennessee,0.503
+2.0,Marquette,3.0,Baylor,0.577
+2.0,Marquette,3.0,Creighton,0.671
+2.0,Marquette,3.0,Illinois,0.563
+2.0,Marquette,3.0,Kentucky,0.675
+2.0,Marquette,4.0,Alabama,0.571
+2.0,Marquette,4.0,Auburn,0.408
+2.0,Marquette,4.0,Duke,0.573
+2.0,Marquette,4.0,Kansas,0.655
+2.0,Marquette,5.0,Gonzaga,0.602
+2.0,Marquette,5.0,Saint Mary's,0.628
+2.0,Marquette,5.0,San Diego St.,0.688
+2.0,Marquette,5.0,Wisconsin,0.623
+2.0,Marquette,6.0,BYU,0.597
+2.0,Marquette,6.0,Clemson,0.764
+2.0,Marquette,6.0,South Carolina,0.711
+2.0,Marquette,6.0,Texas Tech,0.668
+2.0,Marquette,7.0,Dayton,0.721
+2.0,Marquette,7.0,Florida,0.632
+2.0,Marquette,7.0,Texas,0.653
+2.0,Marquette,7.0,Washington St.,0.739
+2.0,Marquette,8.0,Florida Atlantic,0.734
+2.0,Marquette,8.0,Mississippi St.,0.699
+2.0,Marquette,8.0,Nebraska,0.676
+2.0,Marquette,8.0,Utah St.,0.741
+2.0,Marquette,9.0,Michigan St.,0.644
+2.0,Marquette,9.0,Northwestern,0.687
+2.0,Marquette,9.0,TCU,0.652
+2.0,Marquette,9.0,Texas A&M,0.687
+2.0,Marquette,10.0,Boise St.,0.719
+2.0,Marquette,10.0,Colorado,0.68
+2.0,Marquette,10.0,Colorado St.,0.726
+2.0,Marquette,10.0,Drake,0.744
+2.0,Marquette,10.0,Nevada,0.678
+2.0,Marquette,10.0,Virginia,0.745
+2.0,Marquette,11.0,Duquesne,0.829
+2.0,Marquette,11.0,New Mexico,0.576
+2.0,Marquette,11.0,North Carolina St.,0.773
+2.0,Marquette,11.0,Oregon,0.732
+2.0,Marquette,12.0,Grand Canyon,0.74
+2.0,Marquette,12.0,James Madison,0.724
+2.0,Marquette,12.0,McNeese St.,0.716
+2.0,Marquette,12.0,UAB,0.881
+2.0,Marquette,13.0,College of Charleston,0.838
+2.0,Marquette,13.0,Samford,0.777
+2.0,Marquette,13.0,Vermont,0.886
+2.0,Marquette,13.0,Yale,0.841
+2.0,Marquette,14.0,Akron,0.912
+2.0,Marquette,14.0,Colgate,0.939
+2.0,Marquette,14.0,Morehead St.,0.912
+2.0,Marquette,14.0,Oakland,0.912
+2.0,Marquette,15.0,Long Beach St.,0.95
+2.0,Marquette,15.0,Saint Peter's,0.954
+2.0,Marquette,15.0,South Dakota St.,0.938
+2.0,Marquette,15.0,Western Kentucky,0.923
+2.0,Marquette,16.0,Grambling St.,0.975
+2.0,Marquette,16.0,Howard,0.982
+2.0,Marquette,16.0,Longwood,0.937
+2.0,Marquette,16.0,Montana St.,0.972
+2.0,Marquette,16.0,Stetson,0.967
+2.0,Marquette,16.0,Wagner,0.982
+2.0,Tennessee,1.0,Connecticut,0.261
+2.0,Tennessee,1.0,Houston,0.166
+2.0,Tennessee,1.0,North Carolina,0.552
+2.0,Tennessee,1.0,Purdue,0.298
+2.0,Tennessee,2.0,Arizona,0.439
+2.0,Tennessee,2.0,Iowa St.,0.357
+2.0,Tennessee,2.0,Marquette,0.497
+2.0,Tennessee,3.0,Baylor,0.574
+2.0,Tennessee,3.0,Creighton,0.668
+2.0,Tennessee,3.0,Illinois,0.56
+2.0,Tennessee,3.0,Kentucky,0.672
+2.0,Tennessee,4.0,Alabama,0.568
+2.0,Tennessee,4.0,Auburn,0.404
+2.0,Tennessee,4.0,Duke,0.57
+2.0,Tennessee,4.0,Kansas,0.652
+2.0,Tennessee,5.0,Gonzaga,0.599
+2.0,Tennessee,5.0,Saint Mary's,0.625
+2.0,Tennessee,5.0,San Diego St.,0.685
+2.0,Tennessee,5.0,Wisconsin,0.62
+2.0,Tennessee,6.0,BYU,0.594
+2.0,Tennessee,6.0,Clemson,0.761
+2.0,Tennessee,6.0,South Carolina,0.709
+2.0,Tennessee,6.0,Texas Tech,0.665
+2.0,Tennessee,7.0,Dayton,0.719
+2.0,Tennessee,7.0,Florida,0.629
+2.0,Tennessee,7.0,Texas,0.65
+2.0,Tennessee,7.0,Washington St.,0.736
+2.0,Tennessee,8.0,Florida Atlantic,0.731
+2.0,Tennessee,8.0,Mississippi St.,0.696
+2.0,Tennessee,8.0,Nebraska,0.673
+2.0,Tennessee,8.0,Utah St.,0.738
+2.0,Tennessee,9.0,Michigan St.,0.641
+2.0,Tennessee,9.0,Northwestern,0.684
+2.0,Tennessee,9.0,TCU,0.649
+2.0,Tennessee,9.0,Texas A&M,0.684
+2.0,Tennessee,10.0,Boise St.,0.716
+2.0,Tennessee,10.0,Colorado,0.677
+2.0,Tennessee,10.0,Colorado St.,0.723
+2.0,Tennessee,10.0,Drake,0.741
+2.0,Tennessee,10.0,Nevada,0.675
+2.0,Tennessee,10.0,Virginia,0.742
+2.0,Tennessee,11.0,Duquesne,0.827
+2.0,Tennessee,11.0,New Mexico,0.573
+2.0,Tennessee,11.0,North Carolina St.,0.77
+2.0,Tennessee,11.0,Oregon,0.73
+2.0,Tennessee,12.0,Grand Canyon,0.737
+2.0,Tennessee,12.0,James Madison,0.721
+2.0,Tennessee,12.0,McNeese St.,0.714
+2.0,Tennessee,12.0,UAB,0.879
+2.0,Tennessee,13.0,College of Charleston,0.836
+2.0,Tennessee,13.0,Samford,0.775
+2.0,Tennessee,13.0,Vermont,0.885
+2.0,Tennessee,13.0,Yale,0.839
+2.0,Tennessee,14.0,Akron,0.911
+2.0,Tennessee,14.0,Colgate,0.938
+2.0,Tennessee,14.0,Morehead St.,0.911
+2.0,Tennessee,14.0,Oakland,0.911
+2.0,Tennessee,15.0,Long Beach St.,0.95
+2.0,Tennessee,15.0,Saint Peter's,0.953
+2.0,Tennessee,15.0,South Dakota St.,0.937
+2.0,Tennessee,15.0,Western Kentucky,0.922
+2.0,Tennessee,16.0,Grambling St.,0.975
+2.0,Tennessee,16.0,Howard,0.981
+2.0,Tennessee,16.0,Longwood,0.936
+2.0,Tennessee,16.0,Montana St.,0.972
+2.0,Tennessee,16.0,Stetson,0.966
+2.0,Tennessee,16.0,Wagner,0.982
+3.0,Baylor,1.0,Connecticut,0.208
+3.0,Baylor,1.0,Houston,0.128
+3.0,Baylor,1.0,North Carolina,0.478
+3.0,Baylor,1.0,Purdue,0.24
+3.0,Baylor,2.0,Arizona,0.368
+3.0,Baylor,2.0,Iowa St.,0.292
+3.0,Baylor,2.0,Marquette,0.423
+3.0,Baylor,2.0,Tennessee,0.426
+3.0,Baylor,3.0,Creighton,0.6
+3.0,Baylor,3.0,Illinois,0.486
+3.0,Baylor,3.0,Kentucky,0.604
+3.0,Baylor,4.0,Alabama,0.494
+3.0,Baylor,4.0,Auburn,0.335
+3.0,Baylor,4.0,Duke,0.496
+3.0,Baylor,4.0,Kansas,0.582
+3.0,Baylor,5.0,Gonzaga,0.526
+3.0,Baylor,5.0,Saint Mary's,0.553
+3.0,Baylor,5.0,San Diego St.,0.618
+3.0,Baylor,5.0,Wisconsin,0.548
+3.0,Baylor,6.0,BYU,0.521
+3.0,Baylor,6.0,Clemson,0.703
+3.0,Baylor,6.0,South Carolina,0.644
+3.0,Baylor,6.0,Texas Tech,0.596
+3.0,Baylor,7.0,Dayton,0.655
+3.0,Baylor,7.0,Florida,0.557
+3.0,Baylor,7.0,Texas,0.58
+3.0,Baylor,7.0,Washington St.,0.675
+3.0,Baylor,8.0,Florida Atlantic,0.669
+3.0,Baylor,8.0,Mississippi St.,0.63
+3.0,Baylor,8.0,Nebraska,0.605
+3.0,Baylor,8.0,Utah St.,0.677
+3.0,Baylor,9.0,Michigan St.,0.57
+3.0,Baylor,9.0,Northwestern,0.617
+3.0,Baylor,9.0,TCU,0.579
+3.0,Baylor,9.0,Texas A&M,0.617
+3.0,Baylor,10.0,Boise St.,0.652
+3.0,Baylor,10.0,Colorado,0.609
+3.0,Baylor,10.0,Colorado St.,0.66
+3.0,Baylor,10.0,Drake,0.68
+3.0,Baylor,10.0,Nevada,0.607
+3.0,Baylor,10.0,Virginia,0.682
+3.0,Baylor,11.0,Duquesne,0.78
+3.0,Baylor,11.0,New Mexico,0.499
+3.0,Baylor,11.0,North Carolina St.,0.714
+3.0,Baylor,11.0,Oregon,0.668
+3.0,Baylor,12.0,Grand Canyon,0.676
+3.0,Baylor,12.0,James Madison,0.658
+3.0,Baylor,12.0,McNeese St.,0.65
+3.0,Baylor,12.0,UAB,0.844
+3.0,Baylor,13.0,College of Charleston,0.792
+3.0,Baylor,13.0,Samford,0.719
+3.0,Baylor,13.0,Vermont,0.851
+3.0,Baylor,13.0,Yale,0.795
+3.0,Baylor,14.0,Akron,0.884
+3.0,Baylor,14.0,Colgate,0.918
+3.0,Baylor,14.0,Morehead St.,0.884
+3.0,Baylor,14.0,Oakland,0.883
+3.0,Baylor,15.0,Long Beach St.,0.933
+3.0,Baylor,15.0,Saint Peter's,0.938
+3.0,Baylor,15.0,South Dakota St.,0.917
+3.0,Baylor,15.0,Western Kentucky,0.898
+3.0,Baylor,16.0,Grambling St.,0.967
+3.0,Baylor,16.0,Howard,0.975
+3.0,Baylor,16.0,Longwood,0.916
+3.0,Baylor,16.0,Montana St.,0.962
+3.0,Baylor,16.0,Stetson,0.955
+3.0,Baylor,16.0,Wagner,0.976
+3.0,Creighton,1.0,Connecticut,0.149
+3.0,Creighton,1.0,Houston,0.09
+3.0,Creighton,1.0,North Carolina,0.379
+3.0,Creighton,1.0,Purdue,0.174
+3.0,Creighton,2.0,Arizona,0.28
+3.0,Creighton,2.0,Iowa St.,0.216
+3.0,Creighton,2.0,Marquette,0.329
+3.0,Creighton,2.0,Tennessee,0.332
+3.0,Creighton,3.0,Baylor,0.4
+3.0,Creighton,3.0,Illinois,0.387
+3.0,Creighton,3.0,Kentucky,0.504
+3.0,Creighton,4.0,Alabama,0.394
+3.0,Creighton,4.0,Auburn,0.252
+3.0,Creighton,4.0,Duke,0.397
+3.0,Creighton,4.0,Kansas,0.482
+3.0,Creighton,5.0,Gonzaga,0.426
+3.0,Creighton,5.0,Saint Mary's,0.452
+3.0,Creighton,5.0,San Diego St.,0.519
+3.0,Creighton,5.0,Wisconsin,0.447
+3.0,Creighton,6.0,BYU,0.421
+3.0,Creighton,6.0,Clemson,0.613
+3.0,Creighton,6.0,South Carolina,0.547
+3.0,Creighton,6.0,Texas Tech,0.496
+3.0,Creighton,7.0,Dayton,0.559
+3.0,Creighton,7.0,Florida,0.457
+3.0,Creighton,7.0,Texas,0.48
+3.0,Creighton,7.0,Washington St.,0.581
+3.0,Creighton,8.0,Florida Atlantic,0.574
+3.0,Creighton,8.0,Mississippi St.,0.532
+3.0,Creighton,8.0,Nebraska,0.505
+3.0,Creighton,8.0,Utah St.,0.583
+3.0,Creighton,9.0,Michigan St.,0.469
+3.0,Creighton,9.0,Northwestern,0.518
+3.0,Creighton,9.0,TCU,0.478
+3.0,Creighton,9.0,Texas A&M,0.518
+3.0,Creighton,10.0,Boise St.,0.556
+3.0,Creighton,10.0,Colorado,0.509
+3.0,Creighton,10.0,Colorado St.,0.564
+3.0,Creighton,10.0,Drake,0.587
+3.0,Creighton,10.0,Nevada,0.508
+3.0,Creighton,10.0,Virginia,0.588
+3.0,Creighton,11.0,Duquesne,0.703
+3.0,Creighton,11.0,New Mexico,0.399
+3.0,Creighton,11.0,North Carolina St.,0.625
+3.0,Creighton,11.0,Oregon,0.573
+3.0,Creighton,12.0,Grand Canyon,0.582
+3.0,Creighton,12.0,James Madison,0.562
+3.0,Creighton,12.0,McNeese St.,0.553
+3.0,Creighton,12.0,UAB,0.783
+3.0,Creighton,13.0,College of Charleston,0.717
+3.0,Creighton,13.0,Samford,0.63
+3.0,Creighton,13.0,Vermont,0.792
+3.0,Creighton,13.0,Yale,0.721
+3.0,Creighton,14.0,Akron,0.836
+3.0,Creighton,14.0,Colgate,0.882
+3.0,Creighton,14.0,Morehead St.,0.836
+3.0,Creighton,14.0,Oakland,0.835
+3.0,Creighton,15.0,Long Beach St.,0.903
+3.0,Creighton,15.0,Saint Peter's,0.91
+3.0,Creighton,15.0,South Dakota St.,0.881
+3.0,Creighton,15.0,Western Kentucky,0.855
+3.0,Creighton,16.0,Grambling St.,0.951
+3.0,Creighton,16.0,Howard,0.963
+3.0,Creighton,16.0,Longwood,0.879
+3.0,Creighton,16.0,Montana St.,0.945
+3.0,Creighton,16.0,Stetson,0.934
+3.0,Creighton,16.0,Wagner,0.964
+3.0,Illinois,1.0,Connecticut,0.217
+3.0,Illinois,1.0,Houston,0.135
+3.0,Illinois,1.0,North Carolina,0.492
+3.0,Illinois,1.0,Purdue,0.25
+3.0,Illinois,2.0,Arizona,0.381
+3.0,Illinois,2.0,Iowa St.,0.303
+3.0,Illinois,2.0,Marquette,0.437
+3.0,Illinois,2.0,Tennessee,0.44
+3.0,Illinois,3.0,Baylor,0.514
+3.0,Illinois,3.0,Creighton,0.613
+3.0,Illinois,3.0,Kentucky,0.617
+3.0,Illinois,4.0,Alabama,0.508
+3.0,Illinois,4.0,Auburn,0.348
+3.0,Illinois,4.0,Duke,0.51
+3.0,Illinois,4.0,Kansas,0.595
+3.0,Illinois,5.0,Gonzaga,0.54
+3.0,Illinois,5.0,Saint Mary's,0.567
+3.0,Illinois,5.0,San Diego St.,0.631
+3.0,Illinois,5.0,Wisconsin,0.561
+3.0,Illinois,6.0,BYU,0.535
+3.0,Illinois,6.0,Clemson,0.715
+3.0,Illinois,6.0,South Carolina,0.656
+3.0,Illinois,6.0,Texas Tech,0.609
+3.0,Illinois,7.0,Dayton,0.667
+3.0,Illinois,7.0,Florida,0.571
+3.0,Illinois,7.0,Texas,0.594
+3.0,Illinois,7.0,Washington St.,0.687
+3.0,Illinois,8.0,Florida Atlantic,0.681
+3.0,Illinois,8.0,Mississippi St.,0.643
+3.0,Illinois,8.0,Nebraska,0.618
+3.0,Illinois,8.0,Utah St.,0.689
+3.0,Illinois,9.0,Michigan St.,0.583
+3.0,Illinois,9.0,Northwestern,0.63
+3.0,Illinois,9.0,TCU,0.592
+3.0,Illinois,9.0,Texas A&M,0.629
+3.0,Illinois,10.0,Boise St.,0.664
+3.0,Illinois,10.0,Colorado,0.622
+3.0,Illinois,10.0,Colorado St.,0.672
+3.0,Illinois,10.0,Drake,0.692
+3.0,Illinois,10.0,Nevada,0.62
+3.0,Illinois,10.0,Virginia,0.693
+3.0,Illinois,11.0,Duquesne,0.79
+3.0,Illinois,11.0,New Mexico,0.512
+3.0,Illinois,11.0,North Carolina St.,0.725
+3.0,Illinois,11.0,Oregon,0.68
+3.0,Illinois,12.0,Grand Canyon,0.688
+3.0,Illinois,12.0,James Madison,0.67
+3.0,Illinois,12.0,McNeese St.,0.662
+3.0,Illinois,12.0,UAB,0.851
+3.0,Illinois,13.0,College of Charleston,0.801
+3.0,Illinois,13.0,Samford,0.73
+3.0,Illinois,13.0,Vermont,0.858
+3.0,Illinois,13.0,Yale,0.804
+3.0,Illinois,14.0,Akron,0.89
+3.0,Illinois,14.0,Colgate,0.922
+3.0,Illinois,14.0,Morehead St.,0.89
+3.0,Illinois,14.0,Oakland,0.889
+3.0,Illinois,15.0,Long Beach St.,0.937
+3.0,Illinois,15.0,Saint Peter's,0.941
+3.0,Illinois,15.0,South Dakota St.,0.921
+3.0,Illinois,15.0,Western Kentucky,0.903
+3.0,Illinois,16.0,Grambling St.,0.968
+3.0,Illinois,16.0,Howard,0.976
+3.0,Illinois,16.0,Longwood,0.92
+3.0,Illinois,16.0,Montana St.,0.964
+3.0,Illinois,16.0,Stetson,0.957
+3.0,Illinois,16.0,Wagner,0.977
+3.0,Kentucky,1.0,Connecticut,0.147
+3.0,Kentucky,1.0,Houston,0.088
+3.0,Kentucky,1.0,North Carolina,0.376
+3.0,Kentucky,1.0,Purdue,0.172
+3.0,Kentucky,2.0,Arizona,0.277
+3.0,Kentucky,2.0,Iowa St.,0.213
+3.0,Kentucky,2.0,Marquette,0.325
+3.0,Kentucky,2.0,Tennessee,0.328
+3.0,Kentucky,3.0,Baylor,0.396
+3.0,Kentucky,3.0,Creighton,0.496
+3.0,Kentucky,3.0,Illinois,0.383
+3.0,Kentucky,4.0,Alabama,0.39
+3.0,Kentucky,4.0,Auburn,0.249
+3.0,Kentucky,4.0,Duke,0.393
+3.0,Kentucky,4.0,Kansas,0.477
+3.0,Kentucky,5.0,Gonzaga,0.422
+3.0,Kentucky,5.0,Saint Mary's,0.448
+3.0,Kentucky,5.0,San Diego St.,0.515
+3.0,Kentucky,5.0,Wisconsin,0.443
+3.0,Kentucky,6.0,BYU,0.417
+3.0,Kentucky,6.0,Clemson,0.609
+3.0,Kentucky,6.0,South Carolina,0.543
+3.0,Kentucky,6.0,Texas Tech,0.492
+3.0,Kentucky,7.0,Dayton,0.555
+3.0,Kentucky,7.0,Florida,0.452
+3.0,Kentucky,7.0,Texas,0.476
+3.0,Kentucky,7.0,Washington St.,0.577
+3.0,Kentucky,8.0,Florida Atlantic,0.57
+3.0,Kentucky,8.0,Mississippi St.,0.528
+3.0,Kentucky,8.0,Nebraska,0.501
+3.0,Kentucky,8.0,Utah St.,0.579
+3.0,Kentucky,9.0,Michigan St.,0.465
+3.0,Kentucky,9.0,Northwestern,0.514
+3.0,Kentucky,9.0,TCU,0.474
+3.0,Kentucky,9.0,Texas A&M,0.513
+3.0,Kentucky,10.0,Boise St.,0.552
+3.0,Kentucky,10.0,Colorado,0.505
+3.0,Kentucky,10.0,Colorado St.,0.56
+3.0,Kentucky,10.0,Drake,0.583
+3.0,Kentucky,10.0,Nevada,0.503
+3.0,Kentucky,10.0,Virginia,0.584
+3.0,Kentucky,11.0,Duquesne,0.7
+3.0,Kentucky,11.0,New Mexico,0.395
+3.0,Kentucky,11.0,North Carolina St.,0.621
+3.0,Kentucky,11.0,Oregon,0.569
+3.0,Kentucky,12.0,Grand Canyon,0.578
+3.0,Kentucky,12.0,James Madison,0.558
+3.0,Kentucky,12.0,McNeese St.,0.549
+3.0,Kentucky,12.0,UAB,0.78
+3.0,Kentucky,13.0,College of Charleston,0.714
+3.0,Kentucky,13.0,Samford,0.627
+3.0,Kentucky,13.0,Vermont,0.79
+3.0,Kentucky,13.0,Yale,0.718
+3.0,Kentucky,14.0,Akron,0.834
+3.0,Kentucky,14.0,Colgate,0.88
+3.0,Kentucky,14.0,Morehead St.,0.833
+3.0,Kentucky,14.0,Oakland,0.833
+3.0,Kentucky,15.0,Long Beach St.,0.902
+3.0,Kentucky,15.0,Saint Peter's,0.909
+3.0,Kentucky,15.0,South Dakota St.,0.879
+3.0,Kentucky,15.0,Western Kentucky,0.853
+3.0,Kentucky,16.0,Grambling St.,0.95
+3.0,Kentucky,16.0,Howard,0.962
+3.0,Kentucky,16.0,Longwood,0.877
+3.0,Kentucky,16.0,Montana St.,0.944
+3.0,Kentucky,16.0,Stetson,0.933
+3.0,Kentucky,16.0,Wagner,0.964
+4.0,Alabama,1.0,Connecticut,0.212
+4.0,Alabama,1.0,Houston,0.131
+4.0,Alabama,1.0,North Carolina,0.484
+4.0,Alabama,1.0,Purdue,0.245
+4.0,Alabama,2.0,Arizona,0.374
+4.0,Alabama,2.0,Iowa St.,0.297
+4.0,Alabama,2.0,Marquette,0.429
+4.0,Alabama,2.0,Tennessee,0.432
+4.0,Alabama,3.0,Baylor,0.506
+4.0,Alabama,3.0,Creighton,0.606
+4.0,Alabama,3.0,Illinois,0.492
+4.0,Alabama,3.0,Kentucky,0.61
+4.0,Alabama,4.0,Auburn,0.341
+4.0,Alabama,4.0,Duke,0.502
+4.0,Alabama,4.0,Kansas,0.588
+4.0,Alabama,5.0,Gonzaga,0.532
+4.0,Alabama,5.0,Saint Mary's,0.559
+4.0,Alabama,5.0,San Diego St.,0.624
+4.0,Alabama,5.0,Wisconsin,0.554
+4.0,Alabama,6.0,BYU,0.527
+4.0,Alabama,6.0,Clemson,0.708
+4.0,Alabama,6.0,South Carolina,0.65
+4.0,Alabama,6.0,Texas Tech,0.602
+4.0,Alabama,7.0,Dayton,0.66
+4.0,Alabama,7.0,Florida,0.563
+4.0,Alabama,7.0,Texas,0.586
+4.0,Alabama,7.0,Washington St.,0.68
+4.0,Alabama,8.0,Florida Atlantic,0.675
+4.0,Alabama,8.0,Mississippi St.,0.636
+4.0,Alabama,8.0,Nebraska,0.611
+4.0,Alabama,8.0,Utah St.,0.682
+4.0,Alabama,9.0,Michigan St.,0.576
+4.0,Alabama,9.0,Northwestern,0.623
+4.0,Alabama,9.0,TCU,0.585
+4.0,Alabama,9.0,Texas A&M,0.622
+4.0,Alabama,10.0,Boise St.,0.658
+4.0,Alabama,10.0,Colorado,0.615
+4.0,Alabama,10.0,Colorado St.,0.666
+4.0,Alabama,10.0,Drake,0.686
+4.0,Alabama,10.0,Nevada,0.613
+4.0,Alabama,10.0,Virginia,0.687
+4.0,Alabama,11.0,Duquesne,0.784
+4.0,Alabama,11.0,New Mexico,0.505
+4.0,Alabama,11.0,North Carolina St.,0.719
+4.0,Alabama,11.0,Oregon,0.673
+4.0,Alabama,12.0,Grand Canyon,0.681
+4.0,Alabama,12.0,James Madison,0.663
+4.0,Alabama,12.0,McNeese St.,0.655
+4.0,Alabama,12.0,UAB,0.847
+4.0,Alabama,13.0,College of Charleston,0.796
+4.0,Alabama,13.0,Samford,0.724
+4.0,Alabama,13.0,Vermont,0.854
+4.0,Alabama,13.0,Yale,0.799
+4.0,Alabama,14.0,Akron,0.887
+4.0,Alabama,14.0,Colgate,0.92
+4.0,Alabama,14.0,Morehead St.,0.887
+4.0,Alabama,14.0,Oakland,0.886
+4.0,Alabama,15.0,Long Beach St.,0.935
+4.0,Alabama,15.0,Saint Peter's,0.94
+4.0,Alabama,15.0,South Dakota St.,0.919
+4.0,Alabama,15.0,Western Kentucky,0.9
+4.0,Alabama,16.0,Grambling St.,0.967
+4.0,Alabama,16.0,Howard,0.976
+4.0,Alabama,16.0,Longwood,0.918
+4.0,Alabama,16.0,Montana St.,0.963
+4.0,Alabama,16.0,Stetson,0.956
+4.0,Alabama,16.0,Wagner,0.976
+4.0,Auburn,1.0,Connecticut,0.342
+4.0,Auburn,1.0,Houston,0.226
+4.0,Auburn,1.0,North Carolina,0.645
+4.0,Auburn,1.0,Purdue,0.385
+4.0,Auburn,2.0,Arizona,0.536
+4.0,Auburn,2.0,Iowa St.,0.45
+4.0,Auburn,2.0,Marquette,0.592
+4.0,Auburn,2.0,Tennessee,0.596
+4.0,Auburn,3.0,Baylor,0.665
+4.0,Auburn,3.0,Creighton,0.748
+4.0,Auburn,3.0,Illinois,0.652
+4.0,Auburn,3.0,Kentucky,0.751
+4.0,Auburn,4.0,Alabama,0.659
+4.0,Auburn,4.0,Duke,0.661
+4.0,Auburn,4.0,Kansas,0.734
+4.0,Auburn,5.0,Gonzaga,0.688
+4.0,Auburn,5.0,Saint Mary's,0.71
+4.0,Auburn,5.0,San Diego St.,0.762
+4.0,Auburn,5.0,Wisconsin,0.706
+4.0,Auburn,6.0,BYU,0.683
+4.0,Auburn,6.0,Clemson,0.824
+4.0,Auburn,6.0,South Carolina,0.782
+4.0,Auburn,6.0,Texas Tech,0.745
+4.0,Auburn,7.0,Dayton,0.79
+4.0,Auburn,7.0,Florida,0.714
+4.0,Auburn,7.0,Texas,0.733
+4.0,Auburn,7.0,Washington St.,0.804
+4.0,Auburn,8.0,Florida Atlantic,0.8
+4.0,Auburn,8.0,Mississippi St.,0.771
+4.0,Auburn,8.0,Nebraska,0.752
+4.0,Auburn,8.0,Utah St.,0.806
+4.0,Auburn,9.0,Michigan St.,0.724
+4.0,Auburn,9.0,Northwestern,0.761
+4.0,Auburn,9.0,TCU,0.731
+4.0,Auburn,9.0,Texas A&M,0.761
+4.0,Auburn,10.0,Boise St.,0.788
+4.0,Auburn,10.0,Colorado,0.755
+4.0,Auburn,10.0,Colorado St.,0.794
+4.0,Auburn,10.0,Drake,0.808
+4.0,Auburn,10.0,Nevada,0.754
+4.0,Auburn,10.0,Virginia,0.809
+4.0,Auburn,11.0,Duquesne,0.876
+4.0,Auburn,11.0,New Mexico,0.664
+4.0,Auburn,11.0,North Carolina St.,0.832
+4.0,Auburn,11.0,Oregon,0.799
+4.0,Auburn,12.0,Grand Canyon,0.805
+4.0,Auburn,12.0,James Madison,0.792
+4.0,Auburn,12.0,McNeese St.,0.786
+4.0,Auburn,12.0,UAB,0.915
+4.0,Auburn,13.0,College of Charleston,0.883
+4.0,Auburn,13.0,Samford,0.835
+4.0,Auburn,13.0,Vermont,0.919
+4.0,Auburn,13.0,Yale,0.885
+4.0,Auburn,14.0,Akron,0.938
+4.0,Auburn,14.0,Colgate,0.957
+4.0,Auburn,14.0,Morehead St.,0.938
+4.0,Auburn,14.0,Oakland,0.938
+4.0,Auburn,15.0,Long Beach St.,0.965
+4.0,Auburn,15.0,Saint Peter's,0.968
+4.0,Auburn,15.0,South Dakota St.,0.956
+4.0,Auburn,15.0,Western Kentucky,0.946
+4.0,Auburn,16.0,Grambling St.,0.983
+4.0,Auburn,16.0,Howard,0.987
+4.0,Auburn,16.0,Longwood,0.956
+4.0,Auburn,16.0,Montana St.,0.981
+4.0,Auburn,16.0,Stetson,0.977
+4.0,Auburn,16.0,Wagner,0.988
+4.0,Duke,1.0,Connecticut,0.21
+4.0,Duke,1.0,Houston,0.13
+4.0,Duke,1.0,North Carolina,0.482
+4.0,Duke,1.0,Purdue,0.243
+4.0,Duke,2.0,Arizona,0.372
+4.0,Duke,2.0,Iowa St.,0.295
+4.0,Duke,2.0,Marquette,0.427
+4.0,Duke,2.0,Tennessee,0.43
+4.0,Duke,3.0,Baylor,0.504
+4.0,Duke,3.0,Creighton,0.603
+4.0,Duke,3.0,Illinois,0.49
+4.0,Duke,3.0,Kentucky,0.607
+4.0,Duke,4.0,Alabama,0.498
+4.0,Duke,4.0,Auburn,0.339
+4.0,Duke,4.0,Kansas,0.586
+4.0,Duke,5.0,Gonzaga,0.53
+4.0,Duke,5.0,Saint Mary's,0.557
+4.0,Duke,5.0,San Diego St.,0.621
+4.0,Duke,5.0,Wisconsin,0.552
+4.0,Duke,6.0,BYU,0.525
+4.0,Duke,6.0,Clemson,0.706
+4.0,Duke,6.0,South Carolina,0.647
+4.0,Duke,6.0,Texas Tech,0.599
+4.0,Duke,7.0,Dayton,0.658
+4.0,Duke,7.0,Florida,0.561
+4.0,Duke,7.0,Texas,0.584
+4.0,Duke,7.0,Washington St.,0.678
+4.0,Duke,8.0,Florida Atlantic,0.673
+4.0,Duke,8.0,Mississippi St.,0.634
+4.0,Duke,8.0,Nebraska,0.609
+4.0,Duke,8.0,Utah St.,0.68
+4.0,Duke,9.0,Michigan St.,0.574
+4.0,Duke,9.0,Northwestern,0.62
+4.0,Duke,9.0,TCU,0.582
+4.0,Duke,9.0,Texas A&M,0.62
+4.0,Duke,10.0,Boise St.,0.655
+4.0,Duke,10.0,Colorado,0.612
+4.0,Duke,10.0,Colorado St.,0.663
+4.0,Duke,10.0,Drake,0.684
+4.0,Duke,10.0,Nevada,0.611
+4.0,Duke,10.0,Virginia,0.685
+4.0,Duke,11.0,Duquesne,0.783
+4.0,Duke,11.0,New Mexico,0.503
+4.0,Duke,11.0,North Carolina St.,0.717
+4.0,Duke,11.0,Oregon,0.671
+4.0,Duke,12.0,Grand Canyon,0.679
+4.0,Duke,12.0,James Madison,0.661
+4.0,Duke,12.0,McNeese St.,0.653
+4.0,Duke,12.0,UAB,0.846
+4.0,Duke,13.0,College of Charleston,0.794
+4.0,Duke,13.0,Samford,0.722
+4.0,Duke,13.0,Vermont,0.853
+4.0,Duke,13.0,Yale,0.798
+4.0,Duke,14.0,Akron,0.886
+4.0,Duke,14.0,Colgate,0.919
+4.0,Duke,14.0,Morehead St.,0.886
+4.0,Duke,14.0,Oakland,0.885
+4.0,Duke,15.0,Long Beach St.,0.934
+4.0,Duke,15.0,Saint Peter's,0.939
+4.0,Duke,15.0,South Dakota St.,0.918
+4.0,Duke,15.0,Western Kentucky,0.9
+4.0,Duke,16.0,Grambling St.,0.967
+4.0,Duke,16.0,Howard,0.975
+4.0,Duke,16.0,Longwood,0.917
+4.0,Duke,16.0,Montana St.,0.963
+4.0,Duke,16.0,Stetson,0.956
+4.0,Duke,16.0,Wagner,0.976
+4.0,Kansas,1.0,Connecticut,0.158
+4.0,Kansas,1.0,Houston,0.096
+4.0,Kansas,1.0,North Carolina,0.397
+4.0,Kansas,1.0,Purdue,0.185
+4.0,Kansas,2.0,Arizona,0.295
+4.0,Kansas,2.0,Iowa St.,0.228
+4.0,Kansas,2.0,Marquette,0.345
+4.0,Kansas,2.0,Tennessee,0.348
+4.0,Kansas,3.0,Baylor,0.418
+4.0,Kansas,3.0,Creighton,0.518
+4.0,Kansas,3.0,Illinois,0.405
+4.0,Kansas,3.0,Kentucky,0.523
+4.0,Kansas,4.0,Alabama,0.412
+4.0,Kansas,4.0,Auburn,0.266
+4.0,Kansas,4.0,Duke,0.414
+4.0,Kansas,5.0,Gonzaga,0.444
+4.0,Kansas,5.0,Saint Mary's,0.471
+4.0,Kansas,5.0,San Diego St.,0.537
+4.0,Kansas,5.0,Wisconsin,0.465
+4.0,Kansas,6.0,BYU,0.439
+4.0,Kansas,6.0,Clemson,0.63
+4.0,Kansas,6.0,South Carolina,0.565
+4.0,Kansas,6.0,Texas Tech,0.514
+4.0,Kansas,7.0,Dayton,0.577
+4.0,Kansas,7.0,Florida,0.475
+4.0,Kansas,7.0,Texas,0.498
+4.0,Kansas,7.0,Washington St.,0.599
+4.0,Kansas,8.0,Florida Atlantic,0.592
+4.0,Kansas,8.0,Mississippi St.,0.55
+4.0,Kansas,8.0,Nebraska,0.524
+4.0,Kansas,8.0,Utah St.,0.601
+4.0,Kansas,9.0,Michigan St.,0.488
+4.0,Kansas,9.0,Northwestern,0.536
+4.0,Kansas,9.0,TCU,0.497
+4.0,Kansas,9.0,Texas A&M,0.536
+4.0,Kansas,10.0,Boise St.,0.574
+4.0,Kansas,10.0,Colorado,0.528
+4.0,Kansas,10.0,Colorado St.,0.582
+4.0,Kansas,10.0,Drake,0.605
+4.0,Kansas,10.0,Nevada,0.526
+4.0,Kansas,10.0,Virginia,0.606
+4.0,Kansas,11.0,Duquesne,0.718
+4.0,Kansas,11.0,New Mexico,0.417
+4.0,Kansas,11.0,North Carolina St.,0.642
+4.0,Kansas,11.0,Oregon,0.591
+4.0,Kansas,12.0,Grand Canyon,0.599
+4.0,Kansas,12.0,James Madison,0.58
+4.0,Kansas,12.0,McNeese St.,0.571
+4.0,Kansas,12.0,UAB,0.795
+4.0,Kansas,13.0,College of Charleston,0.732
+4.0,Kansas,13.0,Samford,0.647
+4.0,Kansas,13.0,Vermont,0.804
+4.0,Kansas,13.0,Yale,0.736
+4.0,Kansas,14.0,Akron,0.846
+4.0,Kansas,14.0,Colgate,0.889
+4.0,Kansas,14.0,Morehead St.,0.846
+4.0,Kansas,14.0,Oakland,0.845
+4.0,Kansas,15.0,Long Beach St.,0.91
+4.0,Kansas,15.0,Saint Peter's,0.916
+4.0,Kansas,15.0,South Dakota St.,0.888
+4.0,Kansas,15.0,Western Kentucky,0.864
+4.0,Kansas,16.0,Grambling St.,0.954
+4.0,Kansas,16.0,Howard,0.966
+4.0,Kansas,16.0,Longwood,0.887
+4.0,Kansas,16.0,Montana St.,0.948
+4.0,Kansas,16.0,Stetson,0.939
+4.0,Kansas,16.0,Wagner,0.967
+5.0,Gonzaga,1.0,Connecticut,0.191
+5.0,Gonzaga,1.0,Houston,0.117
+5.0,Gonzaga,1.0,North Carolina,0.452
+5.0,Gonzaga,1.0,Purdue,0.221
+5.0,Gonzaga,2.0,Arizona,0.344
+5.0,Gonzaga,2.0,Iowa St.,0.271
+5.0,Gonzaga,2.0,Marquette,0.398
+5.0,Gonzaga,2.0,Tennessee,0.401
+5.0,Gonzaga,3.0,Baylor,0.474
+5.0,Gonzaga,3.0,Creighton,0.574
+5.0,Gonzaga,3.0,Illinois,0.46
+5.0,Gonzaga,3.0,Kentucky,0.578
+5.0,Gonzaga,4.0,Alabama,0.468
+5.0,Gonzaga,4.0,Auburn,0.312
+5.0,Gonzaga,4.0,Duke,0.47
+5.0,Gonzaga,4.0,Kansas,0.556
+5.0,Gonzaga,5.0,Saint Mary's,0.527
+5.0,Gonzaga,5.0,San Diego St.,0.593
+5.0,Gonzaga,5.0,Wisconsin,0.522
+5.0,Gonzaga,6.0,BYU,0.495
+5.0,Gonzaga,6.0,Clemson,0.681
+5.0,Gonzaga,6.0,South Carolina,0.619
+5.0,Gonzaga,6.0,Texas Tech,0.57
+5.0,Gonzaga,7.0,Dayton,0.631
+5.0,Gonzaga,7.0,Florida,0.531
+5.0,Gonzaga,7.0,Texas,0.554
+5.0,Gonzaga,7.0,Washington St.,0.651
+5.0,Gonzaga,8.0,Florida Atlantic,0.645
+5.0,Gonzaga,8.0,Mississippi St.,0.605
+5.0,Gonzaga,8.0,Nebraska,0.58
+5.0,Gonzaga,8.0,Utah St.,0.653
+5.0,Gonzaga,9.0,Michigan St.,0.544
+5.0,Gonzaga,9.0,Northwestern,0.592
+5.0,Gonzaga,9.0,TCU,0.553
+5.0,Gonzaga,9.0,Texas A&M,0.591
+5.0,Gonzaga,10.0,Boise St.,0.628
+5.0,Gonzaga,10.0,Colorado,0.583
+5.0,Gonzaga,10.0,Colorado St.,0.636
+5.0,Gonzaga,10.0,Drake,0.657
+5.0,Gonzaga,10.0,Nevada,0.582
+5.0,Gonzaga,10.0,Virginia,0.658
+5.0,Gonzaga,11.0,Duquesne,0.762
+5.0,Gonzaga,11.0,New Mexico,0.472
+5.0,Gonzaga,11.0,North Carolina St.,0.692
+5.0,Gonzaga,11.0,Oregon,0.644
+5.0,Gonzaga,12.0,Grand Canyon,0.652
+5.0,Gonzaga,12.0,James Madison,0.633
+5.0,Gonzaga,12.0,McNeese St.,0.625
+5.0,Gonzaga,12.0,UAB,0.829
+5.0,Gonzaga,13.0,College of Charleston,0.774
+5.0,Gonzaga,13.0,Samford,0.697
+5.0,Gonzaga,13.0,Vermont,0.837
+5.0,Gonzaga,13.0,Yale,0.777
+5.0,Gonzaga,14.0,Akron,0.873
+5.0,Gonzaga,14.0,Colgate,0.91
+5.0,Gonzaga,14.0,Morehead St.,0.873
+5.0,Gonzaga,14.0,Oakland,0.872
+5.0,Gonzaga,15.0,Long Beach St.,0.926
+5.0,Gonzaga,15.0,Saint Peter's,0.932
+5.0,Gonzaga,15.0,South Dakota St.,0.909
+5.0,Gonzaga,15.0,Western Kentucky,0.888
+5.0,Gonzaga,16.0,Grambling St.,0.963
+5.0,Gonzaga,16.0,Howard,0.972
+5.0,Gonzaga,16.0,Longwood,0.907
+5.0,Gonzaga,16.0,Montana St.,0.958
+5.0,Gonzaga,16.0,Stetson,0.95
+5.0,Gonzaga,16.0,Wagner,0.973
+5.0,Saint Mary's,1.0,Connecticut,0.175
+5.0,Saint Mary's,1.0,Houston,0.106
+5.0,Saint Mary's,1.0,North Carolina,0.425
+5.0,Saint Mary's,1.0,Purdue,0.203
+5.0,Saint Mary's,2.0,Arizona,0.32
+5.0,Saint Mary's,2.0,Iowa St.,0.25
+5.0,Saint Mary's,2.0,Marquette,0.372
+5.0,Saint Mary's,2.0,Tennessee,0.375
+5.0,Saint Mary's,3.0,Baylor,0.447
+5.0,Saint Mary's,3.0,Creighton,0.548
+5.0,Saint Mary's,3.0,Illinois,0.433
+5.0,Saint Mary's,3.0,Kentucky,0.552
+5.0,Saint Mary's,4.0,Alabama,0.441
+5.0,Saint Mary's,4.0,Auburn,0.29
+5.0,Saint Mary's,4.0,Duke,0.443
+5.0,Saint Mary's,4.0,Kansas,0.529
+5.0,Saint Mary's,5.0,Gonzaga,0.473
+5.0,Saint Mary's,5.0,San Diego St.,0.566
+5.0,Saint Mary's,5.0,Wisconsin,0.495
+5.0,Saint Mary's,6.0,BYU,0.468
+5.0,Saint Mary's,6.0,Clemson,0.657
+5.0,Saint Mary's,6.0,South Carolina,0.594
+5.0,Saint Mary's,6.0,Texas Tech,0.544
+5.0,Saint Mary's,7.0,Dayton,0.605
+5.0,Saint Mary's,7.0,Florida,0.504
+5.0,Saint Mary's,7.0,Texas,0.528
+5.0,Saint Mary's,7.0,Washington St.,0.627
+5.0,Saint Mary's,8.0,Florida Atlantic,0.62
+5.0,Saint Mary's,8.0,Mississippi St.,0.579
+5.0,Saint Mary's,8.0,Nebraska,0.553
+5.0,Saint Mary's,8.0,Utah St.,0.628
+5.0,Saint Mary's,9.0,Michigan St.,0.517
+5.0,Saint Mary's,9.0,Northwestern,0.565
+5.0,Saint Mary's,9.0,TCU,0.526
+5.0,Saint Mary's,9.0,Texas A&M,0.565
+5.0,Saint Mary's,10.0,Boise St.,0.602
+5.0,Saint Mary's,10.0,Colorado,0.557
+5.0,Saint Mary's,10.0,Colorado St.,0.611
+5.0,Saint Mary's,10.0,Drake,0.632
+5.0,Saint Mary's,10.0,Nevada,0.555
+5.0,Saint Mary's,10.0,Virginia,0.634
+5.0,Saint Mary's,11.0,Duquesne,0.742
+5.0,Saint Mary's,11.0,New Mexico,0.446
+5.0,Saint Mary's,11.0,North Carolina St.,0.668
+5.0,Saint Mary's,11.0,Oregon,0.619
+5.0,Saint Mary's,12.0,Grand Canyon,0.627
+5.0,Saint Mary's,12.0,James Madison,0.608
+5.0,Saint Mary's,12.0,McNeese St.,0.6
+5.0,Saint Mary's,12.0,UAB,0.814
+5.0,Saint Mary's,13.0,College of Charleston,0.754
+5.0,Saint Mary's,13.0,Samford,0.674
+5.0,Saint Mary's,13.0,Vermont,0.822
+5.0,Saint Mary's,13.0,Yale,0.758
+5.0,Saint Mary's,14.0,Akron,0.861
+5.0,Saint Mary's,14.0,Colgate,0.9
+5.0,Saint Mary's,14.0,Morehead St.,0.86
+5.0,Saint Mary's,14.0,Oakland,0.86
+5.0,Saint Mary's,15.0,Long Beach St.,0.919
+5.0,Saint Mary's,15.0,Saint Peter's,0.925
+5.0,Saint Mary's,15.0,South Dakota St.,0.9
+5.0,Saint Mary's,15.0,Western Kentucky,0.877
+5.0,Saint Mary's,16.0,Grambling St.,0.959
+5.0,Saint Mary's,16.0,Howard,0.969
+5.0,Saint Mary's,16.0,Longwood,0.898
+5.0,Saint Mary's,16.0,Montana St.,0.954
+5.0,Saint Mary's,16.0,Stetson,0.945
+5.0,Saint Mary's,16.0,Wagner,0.97
+5.0,San Diego St.,1.0,Connecticut,0.139
+5.0,San Diego St.,1.0,Houston,0.084
+5.0,San Diego St.,1.0,North Carolina,0.362
+5.0,San Diego St.,1.0,Purdue,0.164
+5.0,San Diego St.,2.0,Arizona,0.265
+5.0,San Diego St.,2.0,Iowa St.,0.203
+5.0,San Diego St.,2.0,Marquette,0.312
+5.0,San Diego St.,2.0,Tennessee,0.315
+5.0,San Diego St.,3.0,Baylor,0.382
+5.0,San Diego St.,3.0,Creighton,0.481
+5.0,San Diego St.,3.0,Illinois,0.369
+5.0,San Diego St.,3.0,Kentucky,0.485
+5.0,San Diego St.,4.0,Alabama,0.376
+5.0,San Diego St.,4.0,Auburn,0.238
+5.0,San Diego St.,4.0,Duke,0.379
+5.0,San Diego St.,4.0,Kansas,0.463
+5.0,San Diego St.,5.0,Gonzaga,0.407
+5.0,San Diego St.,5.0,Saint Mary's,0.434
+5.0,San Diego St.,5.0,Wisconsin,0.428
+5.0,San Diego St.,6.0,BYU,0.402
+5.0,San Diego St.,6.0,Clemson,0.595
+5.0,San Diego St.,6.0,South Carolina,0.528
+5.0,San Diego St.,6.0,Texas Tech,0.477
+5.0,San Diego St.,7.0,Dayton,0.54
+5.0,San Diego St.,7.0,Florida,0.438
+5.0,San Diego St.,7.0,Texas,0.461
+5.0,San Diego St.,7.0,Washington St.,0.562
+5.0,San Diego St.,8.0,Florida Atlantic,0.556
+5.0,San Diego St.,8.0,Mississippi St.,0.513
+5.0,San Diego St.,8.0,Nebraska,0.487
+5.0,San Diego St.,8.0,Utah St.,0.564
+5.0,San Diego St.,9.0,Michigan St.,0.451
+5.0,San Diego St.,9.0,Northwestern,0.499
+5.0,San Diego St.,9.0,TCU,0.459
+5.0,San Diego St.,9.0,Texas A&M,0.499
+5.0,San Diego St.,10.0,Boise St.,0.537
+5.0,San Diego St.,10.0,Colorado,0.491
+5.0,San Diego St.,10.0,Colorado St.,0.546
+5.0,San Diego St.,10.0,Drake,0.568
+5.0,San Diego St.,10.0,Nevada,0.489
+5.0,San Diego St.,10.0,Virginia,0.57
+5.0,San Diego St.,11.0,Duquesne,0.687
+5.0,San Diego St.,11.0,New Mexico,0.381
+5.0,San Diego St.,11.0,North Carolina St.,0.607
+5.0,San Diego St.,11.0,Oregon,0.554
+5.0,San Diego St.,12.0,Grand Canyon,0.563
+5.0,San Diego St.,12.0,James Madison,0.543
+5.0,San Diego St.,12.0,McNeese St.,0.534
+5.0,San Diego St.,12.0,UAB,0.77
+5.0,San Diego St.,13.0,College of Charleston,0.702
+5.0,San Diego St.,13.0,Samford,0.613
+5.0,San Diego St.,13.0,Vermont,0.78
+5.0,San Diego St.,13.0,Yale,0.706
+5.0,San Diego St.,14.0,Akron,0.825
+5.0,San Diego St.,14.0,Colgate,0.874
+5.0,San Diego St.,14.0,Morehead St.,0.825
+5.0,San Diego St.,14.0,Oakland,0.824
+5.0,San Diego St.,15.0,Long Beach St.,0.897
+5.0,San Diego St.,15.0,Saint Peter's,0.904
+5.0,San Diego St.,15.0,South Dakota St.,0.873
+5.0,San Diego St.,15.0,Western Kentucky,0.845
+5.0,San Diego St.,16.0,Grambling St.,0.947
+5.0,San Diego St.,16.0,Howard,0.96
+5.0,San Diego St.,16.0,Longwood,0.871
+5.0,San Diego St.,16.0,Montana St.,0.941
+5.0,San Diego St.,16.0,Stetson,0.929
+5.0,San Diego St.,16.0,Wagner,0.962
+5.0,Wisconsin,1.0,Connecticut,0.178
+5.0,Wisconsin,1.0,Houston,0.108
+5.0,Wisconsin,1.0,North Carolina,0.431
+5.0,Wisconsin,1.0,Purdue,0.207
+5.0,Wisconsin,2.0,Arizona,0.325
+5.0,Wisconsin,2.0,Iowa St.,0.254
+5.0,Wisconsin,2.0,Marquette,0.377
+5.0,Wisconsin,2.0,Tennessee,0.38
+5.0,Wisconsin,3.0,Baylor,0.452
+5.0,Wisconsin,3.0,Creighton,0.553
+5.0,Wisconsin,3.0,Illinois,0.439
+5.0,Wisconsin,3.0,Kentucky,0.557
+5.0,Wisconsin,4.0,Alabama,0.446
+5.0,Wisconsin,4.0,Auburn,0.294
+5.0,Wisconsin,4.0,Duke,0.448
+5.0,Wisconsin,4.0,Kansas,0.535
+5.0,Wisconsin,5.0,Gonzaga,0.478
+5.0,Wisconsin,5.0,Saint Mary's,0.505
+5.0,Wisconsin,5.0,San Diego St.,0.572
+5.0,Wisconsin,6.0,BYU,0.473
+5.0,Wisconsin,6.0,Clemson,0.662
+5.0,Wisconsin,6.0,South Carolina,0.599
+5.0,Wisconsin,6.0,Texas Tech,0.549
+5.0,Wisconsin,7.0,Dayton,0.61
+5.0,Wisconsin,7.0,Florida,0.51
+5.0,Wisconsin,7.0,Texas,0.533
+5.0,Wisconsin,7.0,Washington St.,0.632
+5.0,Wisconsin,8.0,Florida Atlantic,0.625
+5.0,Wisconsin,8.0,Mississippi St.,0.584
+5.0,Wisconsin,8.0,Nebraska,0.558
+5.0,Wisconsin,8.0,Utah St.,0.633
+5.0,Wisconsin,9.0,Michigan St.,0.522
+5.0,Wisconsin,9.0,Northwestern,0.57
+5.0,Wisconsin,9.0,TCU,0.531
+5.0,Wisconsin,9.0,Texas A&M,0.57
+5.0,Wisconsin,10.0,Boise St.,0.607
+5.0,Wisconsin,10.0,Colorado,0.562
+5.0,Wisconsin,10.0,Colorado St.,0.616
+5.0,Wisconsin,10.0,Drake,0.637
+5.0,Wisconsin,10.0,Nevada,0.56
+5.0,Wisconsin,10.0,Virginia,0.639
+5.0,Wisconsin,11.0,Duquesne,0.746
+5.0,Wisconsin,11.0,New Mexico,0.451
+5.0,Wisconsin,11.0,North Carolina St.,0.673
+5.0,Wisconsin,11.0,Oregon,0.624
+5.0,Wisconsin,12.0,Grand Canyon,0.632
+5.0,Wisconsin,12.0,James Madison,0.613
+5.0,Wisconsin,12.0,McNeese St.,0.605
+5.0,Wisconsin,12.0,UAB,0.817
+5.0,Wisconsin,13.0,College of Charleston,0.758
+5.0,Wisconsin,13.0,Samford,0.678
+5.0,Wisconsin,13.0,Vermont,0.825
+5.0,Wisconsin,13.0,Yale,0.762
+5.0,Wisconsin,14.0,Akron,0.863
+5.0,Wisconsin,14.0,Colgate,0.902
+5.0,Wisconsin,14.0,Morehead St.,0.863
+5.0,Wisconsin,14.0,Oakland,0.862
+5.0,Wisconsin,15.0,Long Beach St.,0.92
+5.0,Wisconsin,15.0,Saint Peter's,0.926
+5.0,Wisconsin,15.0,South Dakota St.,0.901
+5.0,Wisconsin,15.0,Western Kentucky,0.879
+5.0,Wisconsin,16.0,Grambling St.,0.96
+5.0,Wisconsin,16.0,Howard,0.97
+5.0,Wisconsin,16.0,Longwood,0.9
+5.0,Wisconsin,16.0,Montana St.,0.955
+5.0,Wisconsin,16.0,Stetson,0.946
+5.0,Wisconsin,16.0,Wagner,0.971
+6.0,BYU,1.0,Connecticut,0.194
+6.0,BYU,1.0,Houston,0.119
+6.0,BYU,1.0,North Carolina,0.457
+6.0,BYU,1.0,Purdue,0.225
+6.0,BYU,2.0,Arizona,0.349
+6.0,BYU,2.0,Iowa St.,0.275
+6.0,BYU,2.0,Marquette,0.403
+6.0,BYU,2.0,Tennessee,0.406
+6.0,BYU,3.0,Baylor,0.479
+6.0,BYU,3.0,Creighton,0.579
+6.0,BYU,3.0,Illinois,0.465
+6.0,BYU,3.0,Kentucky,0.583
+6.0,BYU,4.0,Alabama,0.473
+6.0,BYU,4.0,Auburn,0.317
+6.0,BYU,4.0,Duke,0.475
+6.0,BYU,4.0,Kansas,0.561
+6.0,BYU,5.0,Gonzaga,0.505
+6.0,BYU,5.0,Saint Mary's,0.532
+6.0,BYU,5.0,San Diego St.,0.598
+6.0,BYU,5.0,Wisconsin,0.527
+6.0,BYU,6.0,Clemson,0.686
+6.0,BYU,6.0,South Carolina,0.624
+6.0,BYU,6.0,Texas Tech,0.575
+6.0,BYU,7.0,Dayton,0.636
+6.0,BYU,7.0,Florida,0.537
+6.0,BYU,7.0,Texas,0.56
+6.0,BYU,7.0,Washington St.,0.656
+6.0,BYU,8.0,Florida Atlantic,0.65
+6.0,BYU,8.0,Mississippi St.,0.61
+6.0,BYU,8.0,Nebraska,0.585
+6.0,BYU,8.0,Utah St.,0.658
+6.0,BYU,9.0,Michigan St.,0.549
+6.0,BYU,9.0,Northwestern,0.597
+6.0,BYU,9.0,TCU,0.558
+6.0,BYU,9.0,Texas A&M,0.596
+6.0,BYU,10.0,Boise St.,0.633
+6.0,BYU,10.0,Colorado,0.589
+6.0,BYU,10.0,Colorado St.,0.641
+6.0,BYU,10.0,Drake,0.662
+6.0,BYU,10.0,Nevada,0.587
+6.0,BYU,10.0,Virginia,0.663
+6.0,BYU,11.0,Duquesne,0.766
+6.0,BYU,11.0,New Mexico,0.478
+6.0,BYU,11.0,North Carolina St.,0.696
+6.0,BYU,11.0,Oregon,0.649
+6.0,BYU,12.0,Grand Canyon,0.657
+6.0,BYU,12.0,James Madison,0.638
+6.0,BYU,12.0,McNeese St.,0.63
+6.0,BYU,12.0,UAB,0.832
+6.0,BYU,13.0,College of Charleston,0.778
+6.0,BYU,13.0,Samford,0.702
+6.0,BYU,13.0,Vermont,0.84
+6.0,BYU,13.0,Yale,0.781
+6.0,BYU,14.0,Akron,0.875
+6.0,BYU,14.0,Colgate,0.911
+6.0,BYU,14.0,Morehead St.,0.875
+6.0,BYU,14.0,Oakland,0.874
+6.0,BYU,15.0,Long Beach St.,0.928
+6.0,BYU,15.0,Saint Peter's,0.933
+6.0,BYU,15.0,South Dakota St.,0.911
+6.0,BYU,15.0,Western Kentucky,0.89
+6.0,BYU,16.0,Grambling St.,0.964
+6.0,BYU,16.0,Howard,0.973
+6.0,BYU,16.0,Longwood,0.909
+6.0,BYU,16.0,Montana St.,0.959
+6.0,BYU,16.0,Stetson,0.951
+6.0,BYU,16.0,Wagner,0.974
+6.0,Clemson,1.0,Connecticut,0.099
+6.0,Clemson,1.0,Houston,0.059
+6.0,Clemson,1.0,North Carolina,0.279
+6.0,Clemson,1.0,Purdue,0.118
+6.0,Clemson,2.0,Arizona,0.197
+6.0,Clemson,2.0,Iowa St.,0.148
+6.0,Clemson,2.0,Marquette,0.236
+6.0,Clemson,2.0,Tennessee,0.239
+6.0,Clemson,3.0,Baylor,0.297
+6.0,Clemson,3.0,Creighton,0.387
+6.0,Clemson,3.0,Illinois,0.285
+6.0,Clemson,3.0,Kentucky,0.391
+6.0,Clemson,4.0,Alabama,0.292
+6.0,Clemson,4.0,Auburn,0.176
+6.0,Clemson,4.0,Duke,0.294
+6.0,Clemson,4.0,Kansas,0.37
+6.0,Clemson,5.0,Gonzaga,0.319
+6.0,Clemson,5.0,Saint Mary's,0.343
+6.0,Clemson,5.0,San Diego St.,0.405
+6.0,Clemson,5.0,Wisconsin,0.338
+6.0,Clemson,6.0,BYU,0.314
+6.0,Clemson,6.0,South Carolina,0.433
+6.0,Clemson,6.0,Texas Tech,0.383
+6.0,Clemson,7.0,Dayton,0.445
+6.0,Clemson,7.0,Florida,0.347
+6.0,Clemson,7.0,Texas,0.368
+6.0,Clemson,7.0,Washington St.,0.467
+6.0,Clemson,8.0,Florida Atlantic,0.46
+6.0,Clemson,8.0,Mississippi St.,0.418
+6.0,Clemson,8.0,Nebraska,0.393
+6.0,Clemson,8.0,Utah St.,0.469
+6.0,Clemson,9.0,Michigan St.,0.359
+6.0,Clemson,9.0,Northwestern,0.404
+6.0,Clemson,9.0,TCU,0.367
+6.0,Clemson,9.0,Texas A&M,0.404
+6.0,Clemson,10.0,Boise St.,0.441
+6.0,Clemson,10.0,Colorado,0.396
+6.0,Clemson,10.0,Colorado St.,0.45
+6.0,Clemson,10.0,Drake,0.473
+6.0,Clemson,10.0,Nevada,0.394
+6.0,Clemson,10.0,Virginia,0.474
+6.0,Clemson,11.0,Duquesne,0.6
+6.0,Clemson,11.0,New Mexico,0.296
+6.0,Clemson,11.0,North Carolina St.,0.512
+6.0,Clemson,11.0,Oregon,0.459
+6.0,Clemson,12.0,Grand Canyon,0.468
+6.0,Clemson,12.0,James Madison,0.448
+6.0,Clemson,12.0,McNeese St.,0.439
+6.0,Clemson,12.0,UAB,0.695
+6.0,Clemson,13.0,College of Charleston,0.616
+6.0,Clemson,13.0,Samford,0.519
+6.0,Clemson,13.0,Vermont,0.707
+6.0,Clemson,13.0,Yale,0.621
+6.0,Clemson,14.0,Akron,0.763
+6.0,Clemson,14.0,Colgate,0.825
+6.0,Clemson,14.0,Morehead St.,0.763
+6.0,Clemson,14.0,Oakland,0.762
+6.0,Clemson,15.0,Long Beach St.,0.855
+6.0,Clemson,15.0,Saint Peter's,0.865
+6.0,Clemson,15.0,South Dakota St.,0.824
+6.0,Clemson,15.0,Western Kentucky,0.788
+6.0,Clemson,16.0,Grambling St.,0.925
+6.0,Clemson,16.0,Howard,0.943
+6.0,Clemson,16.0,Longwood,0.821
+6.0,Clemson,16.0,Montana St.,0.915
+6.0,Clemson,16.0,Stetson,0.9
+6.0,Clemson,16.0,Wagner,0.945
+6.0,South Carolina,1.0,Connecticut,0.126
+6.0,South Carolina,1.0,Houston,0.075
+6.0,South Carolina,1.0,North Carolina,0.336
+6.0,South Carolina,1.0,Purdue,0.149
+6.0,South Carolina,2.0,Arizona,0.244
+6.0,South Carolina,2.0,Iowa St.,0.186
+6.0,South Carolina,2.0,Marquette,0.289
+6.0,South Carolina,2.0,Tennessee,0.291
+6.0,South Carolina,3.0,Baylor,0.356
+6.0,South Carolina,3.0,Creighton,0.453
+6.0,South Carolina,3.0,Illinois,0.344
+6.0,South Carolina,3.0,Kentucky,0.457
+6.0,South Carolina,4.0,Alabama,0.35
+6.0,South Carolina,4.0,Auburn,0.218
+6.0,South Carolina,4.0,Duke,0.353
+6.0,South Carolina,4.0,Kansas,0.435
+6.0,South Carolina,5.0,Gonzaga,0.381
+6.0,South Carolina,5.0,Saint Mary's,0.406
+6.0,South Carolina,5.0,San Diego St.,0.472
+6.0,South Carolina,5.0,Wisconsin,0.401
+6.0,South Carolina,6.0,BYU,0.376
+6.0,South Carolina,6.0,Clemson,0.567
+6.0,South Carolina,6.0,Texas Tech,0.449
+6.0,South Carolina,7.0,Dayton,0.512
+6.0,South Carolina,7.0,Florida,0.41
+6.0,South Carolina,7.0,Texas,0.433
+6.0,South Carolina,7.0,Washington St.,0.535
+6.0,South Carolina,8.0,Florida Atlantic,0.528
+6.0,South Carolina,8.0,Mississippi St.,0.485
+6.0,South Carolina,8.0,Nebraska,0.459
+6.0,South Carolina,8.0,Utah St.,0.536
+6.0,South Carolina,9.0,Michigan St.,0.423
+6.0,South Carolina,9.0,Northwestern,0.471
+6.0,South Carolina,9.0,TCU,0.432
+6.0,South Carolina,9.0,Texas A&M,0.471
+6.0,South Carolina,10.0,Boise St.,0.509
+6.0,South Carolina,10.0,Colorado,0.463
+6.0,South Carolina,10.0,Colorado St.,0.518
+6.0,South Carolina,10.0,Drake,0.541
+6.0,South Carolina,10.0,Nevada,0.461
+6.0,South Carolina,10.0,Virginia,0.542
+6.0,South Carolina,11.0,Duquesne,0.663
+6.0,South Carolina,11.0,New Mexico,0.355
+6.0,South Carolina,11.0,North Carolina St.,0.58
+6.0,South Carolina,11.0,Oregon,0.526
+6.0,South Carolina,12.0,Grand Canyon,0.535
+6.0,South Carolina,12.0,James Madison,0.515
+6.0,South Carolina,12.0,McNeese St.,0.506
+6.0,South Carolina,12.0,UAB,0.749
+6.0,South Carolina,13.0,College of Charleston,0.678
+6.0,South Carolina,13.0,Samford,0.586
+6.0,South Carolina,13.0,Vermont,0.76
+6.0,South Carolina,13.0,Yale,0.682
+6.0,South Carolina,14.0,Akron,0.808
+6.0,South Carolina,14.0,Colgate,0.861
+6.0,South Carolina,14.0,Morehead St.,0.808
+6.0,South Carolina,14.0,Oakland,0.807
+6.0,South Carolina,15.0,Long Beach St.,0.886
+6.0,South Carolina,15.0,Saint Peter's,0.894
+6.0,South Carolina,15.0,South Dakota St.,0.86
+6.0,South Carolina,15.0,Western Kentucky,0.83
+6.0,South Carolina,16.0,Grambling St.,0.941
+6.0,South Carolina,16.0,Howard,0.956
+6.0,South Carolina,16.0,Longwood,0.858
+6.0,South Carolina,16.0,Montana St.,0.934
+6.0,South Carolina,16.0,Stetson,0.922
+6.0,South Carolina,16.0,Wagner,0.957
+6.0,Texas Tech,1.0,Connecticut,0.151
+6.0,Texas Tech,1.0,Houston,0.091
+6.0,Texas Tech,1.0,North Carolina,0.383
+6.0,Texas Tech,1.0,Purdue,0.177
+6.0,Texas Tech,2.0,Arizona,0.283
+6.0,Texas Tech,2.0,Iowa St.,0.219
+6.0,Texas Tech,2.0,Marquette,0.332
+6.0,Texas Tech,2.0,Tennessee,0.335
+6.0,Texas Tech,3.0,Baylor,0.404
+6.0,Texas Tech,3.0,Creighton,0.504
+6.0,Texas Tech,3.0,Illinois,0.391
+6.0,Texas Tech,3.0,Kentucky,0.508
+6.0,Texas Tech,4.0,Alabama,0.398
+6.0,Texas Tech,4.0,Auburn,0.255
+6.0,Texas Tech,4.0,Duke,0.401
+6.0,Texas Tech,4.0,Kansas,0.486
+6.0,Texas Tech,5.0,Gonzaga,0.43
+6.0,Texas Tech,5.0,Saint Mary's,0.456
+6.0,Texas Tech,5.0,San Diego St.,0.523
+6.0,Texas Tech,5.0,Wisconsin,0.451
+6.0,Texas Tech,6.0,BYU,0.425
+6.0,Texas Tech,6.0,Clemson,0.617
+6.0,Texas Tech,6.0,South Carolina,0.551
+6.0,Texas Tech,7.0,Dayton,0.563
+6.0,Texas Tech,7.0,Florida,0.461
+6.0,Texas Tech,7.0,Texas,0.484
+6.0,Texas Tech,7.0,Washington St.,0.585
+6.0,Texas Tech,8.0,Florida Atlantic,0.579
+6.0,Texas Tech,8.0,Mississippi St.,0.536
+6.0,Texas Tech,8.0,Nebraska,0.51
+6.0,Texas Tech,8.0,Utah St.,0.587
+6.0,Texas Tech,9.0,Michigan St.,0.474
+6.0,Texas Tech,9.0,Northwestern,0.522
+6.0,Texas Tech,9.0,TCU,0.482
+6.0,Texas Tech,9.0,Texas A&M,0.522
+6.0,Texas Tech,10.0,Boise St.,0.56
+6.0,Texas Tech,10.0,Colorado,0.514
+6.0,Texas Tech,10.0,Colorado St.,0.568
+6.0,Texas Tech,10.0,Drake,0.591
+6.0,Texas Tech,10.0,Nevada,0.512
+6.0,Texas Tech,10.0,Virginia,0.592
+6.0,Texas Tech,11.0,Duquesne,0.707
+6.0,Texas Tech,11.0,New Mexico,0.403
+6.0,Texas Tech,11.0,North Carolina St.,0.628
+6.0,Texas Tech,11.0,Oregon,0.577
+6.0,Texas Tech,12.0,Grand Canyon,0.586
+6.0,Texas Tech,12.0,James Madison,0.566
+6.0,Texas Tech,12.0,McNeese St.,0.557
+6.0,Texas Tech,12.0,UAB,0.786
+6.0,Texas Tech,13.0,College of Charleston,0.721
+6.0,Texas Tech,13.0,Samford,0.634
+6.0,Texas Tech,13.0,Vermont,0.795
+6.0,Texas Tech,13.0,Yale,0.725
+6.0,Texas Tech,14.0,Akron,0.838
+6.0,Texas Tech,14.0,Colgate,0.884
+6.0,Texas Tech,14.0,Morehead St.,0.838
+6.0,Texas Tech,14.0,Oakland,0.837
+6.0,Texas Tech,15.0,Long Beach St.,0.905
+6.0,Texas Tech,15.0,Saint Peter's,0.912
+6.0,Texas Tech,15.0,South Dakota St.,0.883
+6.0,Texas Tech,15.0,Western Kentucky,0.857
+6.0,Texas Tech,16.0,Grambling St.,0.952
+6.0,Texas Tech,16.0,Howard,0.964
+6.0,Texas Tech,16.0,Longwood,0.881
+6.0,Texas Tech,16.0,Montana St.,0.946
+6.0,Texas Tech,16.0,Stetson,0.935
+6.0,Texas Tech,16.0,Wagner,0.965
+7.0,Dayton,1.0,Connecticut,0.121
+7.0,Dayton,1.0,Houston,0.072
+7.0,Dayton,1.0,North Carolina,0.326
+7.0,Dayton,1.0,Purdue,0.143
+7.0,Dayton,2.0,Arizona,0.235
+7.0,Dayton,2.0,Iowa St.,0.178
+7.0,Dayton,2.0,Marquette,0.279
+7.0,Dayton,2.0,Tennessee,0.281
+7.0,Dayton,3.0,Baylor,0.345
+7.0,Dayton,3.0,Creighton,0.441
+7.0,Dayton,3.0,Illinois,0.333
+7.0,Dayton,3.0,Kentucky,0.445
+7.0,Dayton,4.0,Alabama,0.34
+7.0,Dayton,4.0,Auburn,0.21
+7.0,Dayton,4.0,Duke,0.342
+7.0,Dayton,4.0,Kansas,0.423
+7.0,Dayton,5.0,Gonzaga,0.369
+7.0,Dayton,5.0,Saint Mary's,0.395
+7.0,Dayton,5.0,San Diego St.,0.46
+7.0,Dayton,5.0,Wisconsin,0.39
+7.0,Dayton,6.0,BYU,0.364
+7.0,Dayton,6.0,Clemson,0.555
+7.0,Dayton,6.0,South Carolina,0.488
+7.0,Dayton,6.0,Texas Tech,0.437
+7.0,Dayton,7.0,Florida,0.399
+7.0,Dayton,7.0,Texas,0.421
+7.0,Dayton,7.0,Washington St.,0.523
+7.0,Dayton,8.0,Florida Atlantic,0.516
+7.0,Dayton,8.0,Mississippi St.,0.473
+7.0,Dayton,8.0,Nebraska,0.447
+7.0,Dayton,8.0,Utah St.,0.525
+7.0,Dayton,9.0,Michigan St.,0.411
+7.0,Dayton,9.0,Northwestern,0.459
+7.0,Dayton,9.0,TCU,0.42
+7.0,Dayton,9.0,Texas A&M,0.459
+7.0,Dayton,10.0,Boise St.,0.497
+7.0,Dayton,10.0,Colorado,0.451
+7.0,Dayton,10.0,Colorado St.,0.506
+7.0,Dayton,10.0,Drake,0.529
+7.0,Dayton,10.0,Nevada,0.449
+7.0,Dayton,10.0,Virginia,0.53
+7.0,Dayton,11.0,Duquesne,0.652
+7.0,Dayton,11.0,New Mexico,0.344
+7.0,Dayton,11.0,North Carolina St.,0.568
+7.0,Dayton,11.0,Oregon,0.514
+7.0,Dayton,12.0,Grand Canyon,0.523
+7.0,Dayton,12.0,James Madison,0.503
+7.0,Dayton,12.0,McNeese St.,0.494
+7.0,Dayton,12.0,UAB,0.74
+7.0,Dayton,13.0,College of Charleston,0.667
+7.0,Dayton,13.0,Samford,0.574
+7.0,Dayton,13.0,Vermont,0.751
+7.0,Dayton,13.0,Yale,0.672
+7.0,Dayton,14.0,Akron,0.801
+7.0,Dayton,14.0,Colgate,0.855
+7.0,Dayton,14.0,Morehead St.,0.801
+7.0,Dayton,14.0,Oakland,0.8
+7.0,Dayton,15.0,Long Beach St.,0.881
+7.0,Dayton,15.0,Saint Peter's,0.889
+7.0,Dayton,15.0,South Dakota St.,0.854
+7.0,Dayton,15.0,Western Kentucky,0.823
+7.0,Dayton,16.0,Grambling St.,0.939
+7.0,Dayton,16.0,Howard,0.954
+7.0,Dayton,16.0,Longwood,0.852
+7.0,Dayton,16.0,Montana St.,0.931
+7.0,Dayton,16.0,Stetson,0.918
+7.0,Dayton,16.0,Wagner,0.955
+7.0,Florida,1.0,Connecticut,0.172
+7.0,Florida,1.0,Houston,0.105
+7.0,Florida,1.0,North Carolina,0.421
+7.0,Florida,1.0,Purdue,0.201
+7.0,Florida,2.0,Arizona,0.316
+7.0,Florida,2.0,Iowa St.,0.247
+7.0,Florida,2.0,Marquette,0.368
+7.0,Florida,2.0,Tennessee,0.371
+7.0,Florida,3.0,Baylor,0.443
+7.0,Florida,3.0,Creighton,0.543
+7.0,Florida,3.0,Illinois,0.429
+7.0,Florida,3.0,Kentucky,0.547
+7.0,Florida,4.0,Alabama,0.437
+7.0,Florida,4.0,Auburn,0.286
+7.0,Florida,4.0,Duke,0.439
+7.0,Florida,4.0,Kansas,0.525
+7.0,Florida,5.0,Gonzaga,0.469
+7.0,Florida,5.0,Saint Mary's,0.496
+7.0,Florida,5.0,San Diego St.,0.562
+7.0,Florida,5.0,Wisconsin,0.49
+7.0,Florida,6.0,BYU,0.463
+7.0,Florida,6.0,Clemson,0.653
+7.0,Florida,6.0,South Carolina,0.59
+7.0,Florida,6.0,Texas Tech,0.539
+7.0,Florida,7.0,Dayton,0.601
+7.0,Florida,7.0,Texas,0.523
+7.0,Florida,7.0,Washington St.,0.623
+7.0,Florida,8.0,Florida Atlantic,0.616
+7.0,Florida,8.0,Mississippi St.,0.575
+7.0,Florida,8.0,Nebraska,0.549
+7.0,Florida,8.0,Utah St.,0.624
+7.0,Florida,9.0,Michigan St.,0.513
+7.0,Florida,9.0,Northwestern,0.561
+7.0,Florida,9.0,TCU,0.522
+7.0,Florida,9.0,Texas A&M,0.561
+7.0,Florida,10.0,Boise St.,0.598
+7.0,Florida,10.0,Colorado,0.553
+7.0,Florida,10.0,Colorado St.,0.607
+7.0,Florida,10.0,Drake,0.628
+7.0,Florida,10.0,Nevada,0.551
+7.0,Florida,10.0,Virginia,0.63
+7.0,Florida,11.0,Duquesne,0.738
+7.0,Florida,11.0,New Mexico,0.441
+7.0,Florida,11.0,North Carolina St.,0.664
+7.0,Florida,11.0,Oregon,0.615
+7.0,Florida,12.0,Grand Canyon,0.623
+7.0,Florida,12.0,James Madison,0.604
+7.0,Florida,12.0,McNeese St.,0.595
+7.0,Florida,12.0,UAB,0.811
+7.0,Florida,13.0,College of Charleston,0.751
+7.0,Florida,13.0,Samford,0.67
+7.0,Florida,13.0,Vermont,0.82
+7.0,Florida,13.0,Yale,0.755
+7.0,Florida,14.0,Akron,0.858
+7.0,Florida,14.0,Colgate,0.899
+7.0,Florida,14.0,Morehead St.,0.858
+7.0,Florida,14.0,Oakland,0.857
+7.0,Florida,15.0,Long Beach St.,0.917
+7.0,Florida,15.0,Saint Peter's,0.924
+7.0,Florida,15.0,South Dakota St.,0.898
+7.0,Florida,15.0,Western Kentucky,0.875
+7.0,Florida,16.0,Grambling St.,0.958
+7.0,Florida,16.0,Howard,0.969
+7.0,Florida,16.0,Longwood,0.896
+7.0,Florida,16.0,Montana St.,0.953
+7.0,Florida,16.0,Stetson,0.944
+7.0,Florida,16.0,Wagner,0.97
+7.0,Texas,1.0,Connecticut,0.159
+7.0,Texas,1.0,Houston,0.096
+7.0,Texas,1.0,North Carolina,0.399
+7.0,Texas,1.0,Purdue,0.186
+7.0,Texas,2.0,Arizona,0.296
+7.0,Texas,2.0,Iowa St.,0.23
+7.0,Texas,2.0,Marquette,0.347
+7.0,Texas,2.0,Tennessee,0.35
+7.0,Texas,3.0,Baylor,0.42
+7.0,Texas,3.0,Creighton,0.52
+7.0,Texas,3.0,Illinois,0.406
+7.0,Texas,3.0,Kentucky,0.524
+7.0,Texas,4.0,Alabama,0.414
+7.0,Texas,4.0,Auburn,0.267
+7.0,Texas,4.0,Duke,0.416
+7.0,Texas,4.0,Kansas,0.502
+7.0,Texas,5.0,Gonzaga,0.446
+7.0,Texas,5.0,Saint Mary's,0.472
+7.0,Texas,5.0,San Diego St.,0.539
+7.0,Texas,5.0,Wisconsin,0.467
+7.0,Texas,6.0,BYU,0.44
+7.0,Texas,6.0,Clemson,0.632
+7.0,Texas,6.0,South Carolina,0.567
+7.0,Texas,6.0,Texas Tech,0.516
+7.0,Texas,7.0,Dayton,0.579
+7.0,Texas,7.0,Florida,0.477
+7.0,Texas,7.0,Washington St.,0.6
+7.0,Texas,8.0,Florida Atlantic,0.594
+7.0,Texas,8.0,Mississippi St.,0.552
+7.0,Texas,8.0,Nebraska,0.526
+7.0,Texas,8.0,Utah St.,0.602
+7.0,Texas,9.0,Michigan St.,0.49
+7.0,Texas,9.0,Northwestern,0.538
+7.0,Texas,9.0,TCU,0.498
+7.0,Texas,9.0,Texas A&M,0.538
+7.0,Texas,10.0,Boise St.,0.575
+7.0,Texas,10.0,Colorado,0.53
+7.0,Texas,10.0,Colorado St.,0.584
+7.0,Texas,10.0,Drake,0.606
+7.0,Texas,10.0,Nevada,0.528
+7.0,Texas,10.0,Virginia,0.608
+7.0,Texas,11.0,Duquesne,0.72
+7.0,Texas,11.0,New Mexico,0.419
+7.0,Texas,11.0,North Carolina St.,0.643
+7.0,Texas,11.0,Oregon,0.592
+7.0,Texas,12.0,Grand Canyon,0.601
+7.0,Texas,12.0,James Madison,0.582
+7.0,Texas,12.0,McNeese St.,0.573
+7.0,Texas,12.0,UAB,0.796
+7.0,Texas,13.0,College of Charleston,0.733
+7.0,Texas,13.0,Samford,0.649
+7.0,Texas,13.0,Vermont,0.805
+7.0,Texas,13.0,Yale,0.737
+7.0,Texas,14.0,Akron,0.847
+7.0,Texas,14.0,Colgate,0.89
+7.0,Texas,14.0,Morehead St.,0.847
+7.0,Texas,14.0,Oakland,0.846
+7.0,Texas,15.0,Long Beach St.,0.91
+7.0,Texas,15.0,Saint Peter's,0.917
+7.0,Texas,15.0,South Dakota St.,0.889
+7.0,Texas,15.0,Western Kentucky,0.864
+7.0,Texas,16.0,Grambling St.,0.955
+7.0,Texas,16.0,Howard,0.966
+7.0,Texas,16.0,Longwood,0.887
+7.0,Texas,16.0,Montana St.,0.949
+7.0,Texas,16.0,Stetson,0.939
+7.0,Texas,16.0,Wagner,0.967
+7.0,Washington St.,1.0,Connecticut,0.112
+7.0,Washington St.,1.0,Houston,0.066
+7.0,Washington St.,1.0,North Carolina,0.306
+7.0,Washington St.,1.0,Purdue,0.132
+7.0,Washington St.,2.0,Arizona,0.219
+7.0,Washington St.,2.0,Iowa St.,0.166
+7.0,Washington St.,2.0,Marquette,0.261
+7.0,Washington St.,2.0,Tennessee,0.264
+7.0,Washington St.,3.0,Baylor,0.325
+7.0,Washington St.,3.0,Creighton,0.419
+7.0,Washington St.,3.0,Illinois,0.313
+7.0,Washington St.,3.0,Kentucky,0.423
+7.0,Washington St.,4.0,Alabama,0.32
+7.0,Washington St.,4.0,Auburn,0.196
+7.0,Washington St.,4.0,Duke,0.322
+7.0,Washington St.,4.0,Kansas,0.401
+7.0,Washington St.,5.0,Gonzaga,0.349
+7.0,Washington St.,5.0,Saint Mary's,0.373
+7.0,Washington St.,5.0,San Diego St.,0.438
+7.0,Washington St.,5.0,Wisconsin,0.368
+7.0,Washington St.,6.0,BYU,0.344
+7.0,Washington St.,6.0,Clemson,0.533
+7.0,Washington St.,6.0,South Carolina,0.465
+7.0,Washington St.,6.0,Texas Tech,0.415
+7.0,Washington St.,7.0,Dayton,0.477
+7.0,Washington St.,7.0,Florida,0.377
+7.0,Washington St.,7.0,Texas,0.4
+7.0,Washington St.,8.0,Florida Atlantic,0.493
+7.0,Washington St.,8.0,Mississippi St.,0.451
+7.0,Washington St.,8.0,Nebraska,0.425
+7.0,Washington St.,8.0,Utah St.,0.502
+7.0,Washington St.,9.0,Michigan St.,0.39
+7.0,Washington St.,9.0,Northwestern,0.437
+7.0,Washington St.,9.0,TCU,0.398
+7.0,Washington St.,9.0,Texas A&M,0.436
+7.0,Washington St.,10.0,Boise St.,0.474
+7.0,Washington St.,10.0,Colorado,0.428
+7.0,Washington St.,10.0,Colorado St.,0.483
+7.0,Washington St.,10.0,Drake,0.506
+7.0,Washington St.,10.0,Nevada,0.427
+7.0,Washington St.,10.0,Virginia,0.508
+7.0,Washington St.,11.0,Duquesne,0.631
+7.0,Washington St.,11.0,New Mexico,0.324
+7.0,Washington St.,11.0,North Carolina St.,0.545
+7.0,Washington St.,11.0,Oregon,0.492
+7.0,Washington St.,12.0,Grand Canyon,0.501
+7.0,Washington St.,12.0,James Madison,0.481
+7.0,Washington St.,12.0,McNeese St.,0.472
+7.0,Washington St.,12.0,UAB,0.722
+7.0,Washington St.,13.0,College of Charleston,0.647
+7.0,Washington St.,13.0,Samford,0.552
+7.0,Washington St.,13.0,Vermont,0.734
+7.0,Washington St.,13.0,Yale,0.651
+7.0,Washington St.,14.0,Akron,0.786
+7.0,Washington St.,14.0,Colgate,0.844
+7.0,Washington St.,14.0,Morehead St.,0.786
+7.0,Washington St.,14.0,Oakland,0.785
+7.0,Washington St.,15.0,Long Beach St.,0.871
+7.0,Washington St.,15.0,Saint Peter's,0.88
+7.0,Washington St.,15.0,South Dakota St.,0.842
+7.0,Washington St.,15.0,Western Kentucky,0.809
+7.0,Washington St.,16.0,Grambling St.,0.933
+7.0,Washington St.,16.0,Howard,0.95
+7.0,Washington St.,16.0,Longwood,0.84
+7.0,Washington St.,16.0,Montana St.,0.925
+7.0,Washington St.,16.0,Stetson,0.911
+7.0,Washington St.,16.0,Wagner,0.951
+8.0,Florida Atlantic,1.0,Connecticut,0.115
+8.0,Florida Atlantic,1.0,Houston,0.068
+8.0,Florida Atlantic,1.0,North Carolina,0.312
+8.0,Florida Atlantic,1.0,Purdue,0.135
+8.0,Florida Atlantic,2.0,Arizona,0.224
+8.0,Florida Atlantic,2.0,Iowa St.,0.169
+8.0,Florida Atlantic,2.0,Marquette,0.266
+8.0,Florida Atlantic,2.0,Tennessee,0.269
+8.0,Florida Atlantic,3.0,Baylor,0.331
+8.0,Florida Atlantic,3.0,Creighton,0.426
+8.0,Florida Atlantic,3.0,Illinois,0.319
+8.0,Florida Atlantic,3.0,Kentucky,0.43
+8.0,Florida Atlantic,4.0,Alabama,0.325
+8.0,Florida Atlantic,4.0,Auburn,0.2
+8.0,Florida Atlantic,4.0,Duke,0.327
+8.0,Florida Atlantic,4.0,Kansas,0.408
+8.0,Florida Atlantic,5.0,Gonzaga,0.355
+8.0,Florida Atlantic,5.0,Saint Mary's,0.38
+8.0,Florida Atlantic,5.0,San Diego St.,0.444
+8.0,Florida Atlantic,5.0,Wisconsin,0.375
+8.0,Florida Atlantic,6.0,BYU,0.35
+8.0,Florida Atlantic,6.0,Clemson,0.54
+8.0,Florida Atlantic,6.0,South Carolina,0.472
+8.0,Florida Atlantic,6.0,Texas Tech,0.421
+8.0,Florida Atlantic,7.0,Dayton,0.484
+8.0,Florida Atlantic,7.0,Florida,0.384
+8.0,Florida Atlantic,7.0,Texas,0.406
+8.0,Florida Atlantic,7.0,Washington St.,0.507
+8.0,Florida Atlantic,8.0,Mississippi St.,0.457
+8.0,Florida Atlantic,8.0,Nebraska,0.431
+8.0,Florida Atlantic,8.0,Utah St.,0.509
+8.0,Florida Atlantic,9.0,Michigan St.,0.396
+8.0,Florida Atlantic,9.0,Northwestern,0.443
+8.0,Florida Atlantic,9.0,TCU,0.404
+8.0,Florida Atlantic,9.0,Texas A&M,0.443
+8.0,Florida Atlantic,10.0,Boise St.,0.481
+8.0,Florida Atlantic,10.0,Colorado,0.435
+8.0,Florida Atlantic,10.0,Colorado St.,0.49
+8.0,Florida Atlantic,10.0,Drake,0.513
+8.0,Florida Atlantic,10.0,Nevada,0.433
+8.0,Florida Atlantic,10.0,Virginia,0.514
+8.0,Florida Atlantic,11.0,Duquesne,0.637
+8.0,Florida Atlantic,11.0,New Mexico,0.33
+8.0,Florida Atlantic,11.0,North Carolina St.,0.552
+8.0,Florida Atlantic,11.0,Oregon,0.498
+8.0,Florida Atlantic,12.0,Grand Canyon,0.507
+8.0,Florida Atlantic,12.0,James Madison,0.487
+8.0,Florida Atlantic,12.0,McNeese St.,0.478
+8.0,Florida Atlantic,12.0,UAB,0.728
+8.0,Florida Atlantic,13.0,College of Charleston,0.653
+8.0,Florida Atlantic,13.0,Samford,0.558
+8.0,Florida Atlantic,13.0,Vermont,0.739
+8.0,Florida Atlantic,13.0,Yale,0.657
+8.0,Florida Atlantic,14.0,Akron,0.791
+8.0,Florida Atlantic,14.0,Colgate,0.847
+8.0,Florida Atlantic,14.0,Morehead St.,0.79
+8.0,Florida Atlantic,14.0,Oakland,0.789
+8.0,Florida Atlantic,15.0,Long Beach St.,0.874
+8.0,Florida Atlantic,15.0,Saint Peter's,0.883
+8.0,Florida Atlantic,15.0,South Dakota St.,0.846
+8.0,Florida Atlantic,15.0,Western Kentucky,0.813
+8.0,Florida Atlantic,16.0,Grambling St.,0.935
+8.0,Florida Atlantic,16.0,Howard,0.951
+8.0,Florida Atlantic,16.0,Longwood,0.843
+8.0,Florida Atlantic,16.0,Montana St.,0.927
+8.0,Florida Atlantic,16.0,Stetson,0.913
+8.0,Florida Atlantic,16.0,Wagner,0.952
+8.0,Mississippi St.,1.0,Connecticut,0.133
+8.0,Mississippi St.,1.0,Houston,0.08
+8.0,Mississippi St.,1.0,North Carolina,0.35
+8.0,Mississippi St.,1.0,Purdue,0.157
+8.0,Mississippi St.,2.0,Arizona,0.255
+8.0,Mississippi St.,2.0,Iowa St.,0.195
+8.0,Mississippi St.,2.0,Marquette,0.301
+8.0,Mississippi St.,2.0,Tennessee,0.304
+8.0,Mississippi St.,3.0,Baylor,0.37
+8.0,Mississippi St.,3.0,Creighton,0.468
+8.0,Mississippi St.,3.0,Illinois,0.357
+8.0,Mississippi St.,3.0,Kentucky,0.472
+8.0,Mississippi St.,4.0,Alabama,0.364
+8.0,Mississippi St.,4.0,Auburn,0.229
+8.0,Mississippi St.,4.0,Duke,0.366
+8.0,Mississippi St.,4.0,Kansas,0.45
+8.0,Mississippi St.,5.0,Gonzaga,0.395
+8.0,Mississippi St.,5.0,Saint Mary's,0.421
+8.0,Mississippi St.,5.0,San Diego St.,0.487
+8.0,Mississippi St.,5.0,Wisconsin,0.416
+8.0,Mississippi St.,6.0,BYU,0.39
+8.0,Mississippi St.,6.0,Clemson,0.582
+8.0,Mississippi St.,6.0,South Carolina,0.515
+8.0,Mississippi St.,6.0,Texas Tech,0.464
+8.0,Mississippi St.,7.0,Dayton,0.527
+8.0,Mississippi St.,7.0,Florida,0.425
+8.0,Mississippi St.,7.0,Texas,0.448
+8.0,Mississippi St.,7.0,Washington St.,0.549
+8.0,Mississippi St.,8.0,Florida Atlantic,0.543
+8.0,Mississippi St.,8.0,Nebraska,0.474
+8.0,Mississippi St.,8.0,Utah St.,0.551
+8.0,Mississippi St.,9.0,Michigan St.,0.438
+8.0,Mississippi St.,9.0,Northwestern,0.486
+8.0,Mississippi St.,9.0,TCU,0.446
+8.0,Mississippi St.,9.0,Texas A&M,0.486
+8.0,Mississippi St.,10.0,Boise St.,0.524
+8.0,Mississippi St.,10.0,Colorado,0.478
+8.0,Mississippi St.,10.0,Colorado St.,0.533
+8.0,Mississippi St.,10.0,Drake,0.555
+8.0,Mississippi St.,10.0,Nevada,0.476
+8.0,Mississippi St.,10.0,Virginia,0.557
+8.0,Mississippi St.,11.0,Duquesne,0.676
+8.0,Mississippi St.,11.0,New Mexico,0.369
+8.0,Mississippi St.,11.0,North Carolina St.,0.594
+8.0,Mississippi St.,11.0,Oregon,0.541
+8.0,Mississippi St.,12.0,Grand Canyon,0.55
+8.0,Mississippi St.,12.0,James Madison,0.53
+8.0,Mississippi St.,12.0,McNeese St.,0.521
+8.0,Mississippi St.,12.0,UAB,0.76
+8.0,Mississippi St.,13.0,College of Charleston,0.691
+8.0,Mississippi St.,13.0,Samford,0.6
+8.0,Mississippi St.,13.0,Vermont,0.77
+8.0,Mississippi St.,13.0,Yale,0.695
+8.0,Mississippi St.,14.0,Akron,0.818
+8.0,Mississippi St.,14.0,Colgate,0.868
+8.0,Mississippi St.,14.0,Morehead St.,0.817
+8.0,Mississippi St.,14.0,Oakland,0.816
+8.0,Mississippi St.,15.0,Long Beach St.,0.892
+8.0,Mississippi St.,15.0,Saint Peter's,0.899
+8.0,Mississippi St.,15.0,South Dakota St.,0.867
+8.0,Mississippi St.,15.0,Western Kentucky,0.838
+8.0,Mississippi St.,16.0,Grambling St.,0.945
+8.0,Mississippi St.,16.0,Howard,0.958
+8.0,Mississippi St.,16.0,Longwood,0.865
+8.0,Mississippi St.,16.0,Montana St.,0.938
+8.0,Mississippi St.,16.0,Stetson,0.926
+8.0,Mississippi St.,16.0,Wagner,0.96
+8.0,Nebraska,1.0,Connecticut,0.146
+8.0,Nebraska,1.0,Houston,0.088
+8.0,Nebraska,1.0,North Carolina,0.374
+8.0,Nebraska,1.0,Purdue,0.171
+8.0,Nebraska,2.0,Arizona,0.275
+8.0,Nebraska,2.0,Iowa St.,0.212
+8.0,Nebraska,2.0,Marquette,0.324
+8.0,Nebraska,2.0,Tennessee,0.327
+8.0,Nebraska,3.0,Baylor,0.395
+8.0,Nebraska,3.0,Creighton,0.494
+8.0,Nebraska,3.0,Illinois,0.382
+8.0,Nebraska,3.0,Kentucky,0.499
+8.0,Nebraska,4.0,Alabama,0.389
+8.0,Nebraska,4.0,Auburn,0.248
+8.0,Nebraska,4.0,Duke,0.391
+8.0,Nebraska,4.0,Kansas,0.476
+8.0,Nebraska,5.0,Gonzaga,0.42
+8.0,Nebraska,5.0,Saint Mary's,0.447
+8.0,Nebraska,5.0,San Diego St.,0.513
+8.0,Nebraska,5.0,Wisconsin,0.442
+8.0,Nebraska,6.0,BYU,0.415
+8.0,Nebraska,6.0,Clemson,0.607
+8.0,Nebraska,6.0,South Carolina,0.541
+8.0,Nebraska,6.0,Texas Tech,0.49
+8.0,Nebraska,7.0,Dayton,0.553
+8.0,Nebraska,7.0,Florida,0.451
+8.0,Nebraska,7.0,Texas,0.474
+8.0,Nebraska,7.0,Washington St.,0.575
+8.0,Nebraska,8.0,Florida Atlantic,0.569
+8.0,Nebraska,8.0,Mississippi St.,0.526
+8.0,Nebraska,8.0,Utah St.,0.577
+8.0,Nebraska,9.0,Michigan St.,0.464
+8.0,Nebraska,9.0,Northwestern,0.512
+8.0,Nebraska,9.0,TCU,0.473
+8.0,Nebraska,9.0,Texas A&M,0.512
+8.0,Nebraska,10.0,Boise St.,0.55
+8.0,Nebraska,10.0,Colorado,0.504
+8.0,Nebraska,10.0,Colorado St.,0.559
+8.0,Nebraska,10.0,Drake,0.581
+8.0,Nebraska,10.0,Nevada,0.502
+8.0,Nebraska,10.0,Virginia,0.583
+8.0,Nebraska,11.0,Duquesne,0.699
+8.0,Nebraska,11.0,New Mexico,0.394
+8.0,Nebraska,11.0,North Carolina St.,0.619
+8.0,Nebraska,11.0,Oregon,0.567
+8.0,Nebraska,12.0,Grand Canyon,0.576
+8.0,Nebraska,12.0,James Madison,0.556
+8.0,Nebraska,12.0,McNeese St.,0.548
+8.0,Nebraska,12.0,UAB,0.779
+8.0,Nebraska,13.0,College of Charleston,0.713
+8.0,Nebraska,13.0,Samford,0.625
+8.0,Nebraska,13.0,Vermont,0.789
+8.0,Nebraska,13.0,Yale,0.717
+8.0,Nebraska,14.0,Akron,0.833
+8.0,Nebraska,14.0,Colgate,0.88
+8.0,Nebraska,14.0,Morehead St.,0.833
+8.0,Nebraska,14.0,Oakland,0.832
+8.0,Nebraska,15.0,Long Beach St.,0.901
+8.0,Nebraska,15.0,Saint Peter's,0.909
+8.0,Nebraska,15.0,South Dakota St.,0.879
+8.0,Nebraska,15.0,Western Kentucky,0.852
+8.0,Nebraska,16.0,Grambling St.,0.95
+8.0,Nebraska,16.0,Howard,0.962
+8.0,Nebraska,16.0,Longwood,0.877
+8.0,Nebraska,16.0,Montana St.,0.944
+8.0,Nebraska,16.0,Stetson,0.933
+8.0,Nebraska,16.0,Wagner,0.963
+8.0,Utah St.,1.0,Connecticut,0.111
+8.0,Utah St.,1.0,Houston,0.066
+8.0,Utah St.,1.0,North Carolina,0.304
+8.0,Utah St.,1.0,Purdue,0.131
+8.0,Utah St.,2.0,Arizona,0.218
+8.0,Utah St.,2.0,Iowa St.,0.165
+8.0,Utah St.,2.0,Marquette,0.259
+8.0,Utah St.,2.0,Tennessee,0.262
+8.0,Utah St.,3.0,Baylor,0.323
+8.0,Utah St.,3.0,Creighton,0.417
+8.0,Utah St.,3.0,Illinois,0.311
+8.0,Utah St.,3.0,Kentucky,0.421
+8.0,Utah St.,4.0,Alabama,0.318
+8.0,Utah St.,4.0,Auburn,0.194
+8.0,Utah St.,4.0,Duke,0.32
+8.0,Utah St.,4.0,Kansas,0.399
+8.0,Utah St.,5.0,Gonzaga,0.347
+8.0,Utah St.,5.0,Saint Mary's,0.372
+8.0,Utah St.,5.0,San Diego St.,0.436
+8.0,Utah St.,5.0,Wisconsin,0.367
+8.0,Utah St.,6.0,BYU,0.342
+8.0,Utah St.,6.0,Clemson,0.531
+8.0,Utah St.,6.0,South Carolina,0.463
+8.0,Utah St.,6.0,Texas Tech,0.413
+8.0,Utah St.,7.0,Dayton,0.475
+8.0,Utah St.,7.0,Florida,0.376
+8.0,Utah St.,7.0,Texas,0.398
+8.0,Utah St.,7.0,Washington St.,0.498
+8.0,Utah St.,8.0,Florida Atlantic,0.491
+8.0,Utah St.,8.0,Mississippi St.,0.449
+8.0,Utah St.,8.0,Nebraska,0.423
+8.0,Utah St.,9.0,Michigan St.,0.388
+8.0,Utah St.,9.0,Northwestern,0.435
+8.0,Utah St.,9.0,TCU,0.396
+8.0,Utah St.,9.0,Texas A&M,0.434
+8.0,Utah St.,10.0,Boise St.,0.472
+8.0,Utah St.,10.0,Colorado,0.426
+8.0,Utah St.,10.0,Colorado St.,0.481
+8.0,Utah St.,10.0,Drake,0.504
+8.0,Utah St.,10.0,Nevada,0.425
+8.0,Utah St.,10.0,Virginia,0.506
+8.0,Utah St.,11.0,Duquesne,0.629
+8.0,Utah St.,11.0,New Mexico,0.322
+8.0,Utah St.,11.0,North Carolina St.,0.544
+8.0,Utah St.,11.0,Oregon,0.49
+8.0,Utah St.,12.0,Grand Canyon,0.499
+8.0,Utah St.,12.0,James Madison,0.479
+8.0,Utah St.,12.0,McNeese St.,0.47
+8.0,Utah St.,12.0,UAB,0.721
+8.0,Utah St.,13.0,College of Charleston,0.645
+8.0,Utah St.,13.0,Samford,0.55
+8.0,Utah St.,13.0,Vermont,0.732
+8.0,Utah St.,13.0,Yale,0.65
+8.0,Utah St.,14.0,Akron,0.785
+8.0,Utah St.,14.0,Colgate,0.843
+8.0,Utah St.,14.0,Morehead St.,0.785
+8.0,Utah St.,14.0,Oakland,0.783
+8.0,Utah St.,15.0,Long Beach St.,0.87
+8.0,Utah St.,15.0,Saint Peter's,0.879
+8.0,Utah St.,15.0,South Dakota St.,0.841
+8.0,Utah St.,15.0,Western Kentucky,0.808
+8.0,Utah St.,16.0,Grambling St.,0.933
+8.0,Utah St.,16.0,Howard,0.949
+8.0,Utah St.,16.0,Longwood,0.839
+8.0,Utah St.,16.0,Montana St.,0.924
+8.0,Utah St.,16.0,Stetson,0.91
+8.0,Utah St.,16.0,Wagner,0.951
+9.0,Michigan St.,1.0,Connecticut,0.165
+9.0,Michigan St.,1.0,Houston,0.1
+9.0,Michigan St.,1.0,North Carolina,0.409
+9.0,Michigan St.,1.0,Purdue,0.192
+9.0,Michigan St.,2.0,Arizona,0.305
+9.0,Michigan St.,2.0,Iowa St.,0.237
+9.0,Michigan St.,2.0,Marquette,0.356
+9.0,Michigan St.,2.0,Tennessee,0.359
+9.0,Michigan St.,3.0,Baylor,0.43
+9.0,Michigan St.,3.0,Creighton,0.531
+9.0,Michigan St.,3.0,Illinois,0.417
+9.0,Michigan St.,3.0,Kentucky,0.535
+9.0,Michigan St.,4.0,Alabama,0.424
+9.0,Michigan St.,4.0,Auburn,0.276
+9.0,Michigan St.,4.0,Duke,0.426
+9.0,Michigan St.,4.0,Kansas,0.512
+9.0,Michigan St.,5.0,Gonzaga,0.456
+9.0,Michigan St.,5.0,Saint Mary's,0.483
+9.0,Michigan St.,5.0,San Diego St.,0.549
+9.0,Michigan St.,5.0,Wisconsin,0.478
+9.0,Michigan St.,6.0,BYU,0.451
+9.0,Michigan St.,6.0,Clemson,0.641
+9.0,Michigan St.,6.0,South Carolina,0.577
+9.0,Michigan St.,6.0,Texas Tech,0.526
+9.0,Michigan St.,7.0,Dayton,0.589
+9.0,Michigan St.,7.0,Florida,0.487
+9.0,Michigan St.,7.0,Texas,0.51
+9.0,Michigan St.,7.0,Washington St.,0.61
+9.0,Michigan St.,8.0,Florida Atlantic,0.604
+9.0,Michigan St.,8.0,Mississippi St.,0.562
+9.0,Michigan St.,8.0,Nebraska,0.536
+9.0,Michigan St.,8.0,Utah St.,0.612
+9.0,Michigan St.,9.0,Northwestern,0.548
+9.0,Michigan St.,9.0,TCU,0.509
+9.0,Michigan St.,9.0,Texas A&M,0.548
+9.0,Michigan St.,10.0,Boise St.,0.586
+9.0,Michigan St.,10.0,Colorado,0.54
+9.0,Michigan St.,10.0,Colorado St.,0.594
+9.0,Michigan St.,10.0,Drake,0.616
+9.0,Michigan St.,10.0,Nevada,0.538
+9.0,Michigan St.,10.0,Virginia,0.618
+9.0,Michigan St.,11.0,Duquesne,0.728
+9.0,Michigan St.,11.0,New Mexico,0.429
+9.0,Michigan St.,11.0,North Carolina St.,0.653
+9.0,Michigan St.,11.0,Oregon,0.602
+9.0,Michigan St.,12.0,Grand Canyon,0.611
+9.0,Michigan St.,12.0,James Madison,0.592
+9.0,Michigan St.,12.0,McNeese St.,0.583
+9.0,Michigan St.,12.0,UAB,0.803
+9.0,Michigan St.,13.0,College of Charleston,0.741
+9.0,Michigan St.,13.0,Samford,0.659
+9.0,Michigan St.,13.0,Vermont,0.812
+9.0,Michigan St.,13.0,Yale,0.745
+9.0,Michigan St.,14.0,Akron,0.852
+9.0,Michigan St.,14.0,Colgate,0.894
+9.0,Michigan St.,14.0,Morehead St.,0.852
+9.0,Michigan St.,14.0,Oakland,0.851
+9.0,Michigan St.,15.0,Long Beach St.,0.914
+9.0,Michigan St.,15.0,Saint Peter's,0.92
+9.0,Michigan St.,15.0,South Dakota St.,0.893
+9.0,Michigan St.,15.0,Western Kentucky,0.869
+9.0,Michigan St.,16.0,Grambling St.,0.956
+9.0,Michigan St.,16.0,Howard,0.967
+9.0,Michigan St.,16.0,Longwood,0.892
+9.0,Michigan St.,16.0,Montana St.,0.951
+9.0,Michigan St.,16.0,Stetson,0.941
+9.0,Michigan St.,16.0,Wagner,0.968
+9.0,Northwestern,1.0,Connecticut,0.14
+9.0,Northwestern,1.0,Houston,0.084
+9.0,Northwestern,1.0,North Carolina,0.363
+9.0,Northwestern,1.0,Purdue,0.164
+9.0,Northwestern,2.0,Arizona,0.266
+9.0,Northwestern,2.0,Iowa St.,0.204
+9.0,Northwestern,2.0,Marquette,0.313
+9.0,Northwestern,2.0,Tennessee,0.316
+9.0,Northwestern,3.0,Baylor,0.383
+9.0,Northwestern,3.0,Creighton,0.482
+9.0,Northwestern,3.0,Illinois,0.37
+9.0,Northwestern,3.0,Kentucky,0.486
+9.0,Northwestern,4.0,Alabama,0.377
+9.0,Northwestern,4.0,Auburn,0.239
+9.0,Northwestern,4.0,Duke,0.38
+9.0,Northwestern,4.0,Kansas,0.464
+9.0,Northwestern,5.0,Gonzaga,0.408
+9.0,Northwestern,5.0,Saint Mary's,0.435
+9.0,Northwestern,5.0,San Diego St.,0.501
+9.0,Northwestern,5.0,Wisconsin,0.429
+9.0,Northwestern,6.0,BYU,0.403
+9.0,Northwestern,6.0,Clemson,0.596
+9.0,Northwestern,6.0,South Carolina,0.529
+9.0,Northwestern,6.0,Texas Tech,0.478
+9.0,Northwestern,7.0,Dayton,0.541
+9.0,Northwestern,7.0,Florida,0.439
+9.0,Northwestern,7.0,Texas,0.462
+9.0,Northwestern,7.0,Washington St.,0.563
+9.0,Northwestern,8.0,Florida Atlantic,0.557
+9.0,Northwestern,8.0,Mississippi St.,0.514
+9.0,Northwestern,8.0,Nebraska,0.488
+9.0,Northwestern,8.0,Utah St.,0.565
+9.0,Northwestern,9.0,Michigan St.,0.452
+9.0,Northwestern,9.0,TCU,0.46
+9.0,Northwestern,9.0,Texas A&M,0.5
+9.0,Northwestern,10.0,Boise St.,0.538
+9.0,Northwestern,10.0,Colorado,0.492
+9.0,Northwestern,10.0,Colorado St.,0.547
+9.0,Northwestern,10.0,Drake,0.569
+9.0,Northwestern,10.0,Nevada,0.49
+9.0,Northwestern,10.0,Virginia,0.571
+9.0,Northwestern,11.0,Duquesne,0.688
+9.0,Northwestern,11.0,New Mexico,0.382
+9.0,Northwestern,11.0,North Carolina St.,0.608
+9.0,Northwestern,11.0,Oregon,0.555
+9.0,Northwestern,12.0,Grand Canyon,0.564
+9.0,Northwestern,12.0,James Madison,0.544
+9.0,Northwestern,12.0,McNeese St.,0.535
+9.0,Northwestern,12.0,UAB,0.771
+9.0,Northwestern,13.0,College of Charleston,0.703
+9.0,Northwestern,13.0,Samford,0.614
+9.0,Northwestern,13.0,Vermont,0.78
+9.0,Northwestern,13.0,Yale,0.707
+9.0,Northwestern,14.0,Akron,0.826
+9.0,Northwestern,14.0,Colgate,0.874
+9.0,Northwestern,14.0,Morehead St.,0.826
+9.0,Northwestern,14.0,Oakland,0.825
+9.0,Northwestern,15.0,Long Beach St.,0.897
+9.0,Northwestern,15.0,Saint Peter's,0.904
+9.0,Northwestern,15.0,South Dakota St.,0.873
+9.0,Northwestern,15.0,Western Kentucky,0.846
+9.0,Northwestern,16.0,Grambling St.,0.948
+9.0,Northwestern,16.0,Howard,0.96
+9.0,Northwestern,16.0,Longwood,0.871
+9.0,Northwestern,16.0,Montana St.,0.941
+9.0,Northwestern,16.0,Stetson,0.93
+9.0,Northwestern,16.0,Wagner,0.962
+9.0,TCU,1.0,Connecticut,0.16
+9.0,TCU,1.0,Houston,0.097
+9.0,TCU,1.0,North Carolina,0.4
+9.0,TCU,1.0,Purdue,0.187
+9.0,TCU,2.0,Arizona,0.298
+9.0,TCU,2.0,Iowa St.,0.231
+9.0,TCU,2.0,Marquette,0.348
+9.0,TCU,2.0,Tennessee,0.351
+9.0,TCU,3.0,Baylor,0.421
+9.0,TCU,3.0,Creighton,0.522
+9.0,TCU,3.0,Illinois,0.408
+9.0,TCU,3.0,Kentucky,0.526
+9.0,TCU,4.0,Alabama,0.415
+9.0,TCU,4.0,Auburn,0.269
+9.0,TCU,4.0,Duke,0.418
+9.0,TCU,4.0,Kansas,0.503
+9.0,TCU,5.0,Gonzaga,0.447
+9.0,TCU,5.0,Saint Mary's,0.474
+9.0,TCU,5.0,San Diego St.,0.541
+9.0,TCU,5.0,Wisconsin,0.469
+9.0,TCU,6.0,BYU,0.442
+9.0,TCU,6.0,Clemson,0.633
+9.0,TCU,6.0,South Carolina,0.568
+9.0,TCU,6.0,Texas Tech,0.518
+9.0,TCU,7.0,Dayton,0.58
+9.0,TCU,7.0,Florida,0.478
+9.0,TCU,7.0,Texas,0.502
+9.0,TCU,7.0,Washington St.,0.602
+9.0,TCU,8.0,Florida Atlantic,0.596
+9.0,TCU,8.0,Mississippi St.,0.554
+9.0,TCU,8.0,Nebraska,0.527
+9.0,TCU,8.0,Utah St.,0.604
+9.0,TCU,9.0,Michigan St.,0.491
+9.0,TCU,9.0,Northwestern,0.54
+9.0,TCU,9.0,Texas A&M,0.539
+9.0,TCU,10.0,Boise St.,0.577
+9.0,TCU,10.0,Colorado,0.531
+9.0,TCU,10.0,Colorado St.,0.586
+9.0,TCU,10.0,Drake,0.608
+9.0,TCU,10.0,Nevada,0.529
+9.0,TCU,10.0,Virginia,0.609
+9.0,TCU,11.0,Duquesne,0.721
+9.0,TCU,11.0,New Mexico,0.42
+9.0,TCU,11.0,North Carolina St.,0.645
+9.0,TCU,11.0,Oregon,0.594
+9.0,TCU,12.0,Grand Canyon,0.603
+9.0,TCU,12.0,James Madison,0.583
+9.0,TCU,12.0,McNeese St.,0.574
+9.0,TCU,12.0,UAB,0.797
+9.0,TCU,13.0,College of Charleston,0.735
+9.0,TCU,13.0,Samford,0.651
+9.0,TCU,13.0,Vermont,0.806
+9.0,TCU,13.0,Yale,0.739
+9.0,TCU,14.0,Akron,0.848
+9.0,TCU,14.0,Colgate,0.891
+9.0,TCU,14.0,Morehead St.,0.847
+9.0,TCU,14.0,Oakland,0.846
+9.0,TCU,15.0,Long Beach St.,0.911
+9.0,TCU,15.0,Saint Peter's,0.917
+9.0,TCU,15.0,South Dakota St.,0.89
+9.0,TCU,15.0,Western Kentucky,0.865
+9.0,TCU,16.0,Grambling St.,0.955
+9.0,TCU,16.0,Howard,0.966
+9.0,TCU,16.0,Longwood,0.888
+9.0,TCU,16.0,Montana St.,0.949
+9.0,TCU,16.0,Stetson,0.939
+9.0,TCU,16.0,Wagner,0.967
+9.0,Texas A&M,1.0,Connecticut,0.14
+9.0,Texas A&M,1.0,Houston,0.084
+9.0,Texas A&M,1.0,North Carolina,0.363
+9.0,Texas A&M,1.0,Purdue,0.164
+9.0,Texas A&M,2.0,Arizona,0.266
+9.0,Texas A&M,2.0,Iowa St.,0.204
+9.0,Texas A&M,2.0,Marquette,0.313
+9.0,Texas A&M,2.0,Tennessee,0.316
+9.0,Texas A&M,3.0,Baylor,0.383
+9.0,Texas A&M,3.0,Creighton,0.482
+9.0,Texas A&M,3.0,Illinois,0.371
+9.0,Texas A&M,3.0,Kentucky,0.487
+9.0,Texas A&M,4.0,Alabama,0.378
+9.0,Texas A&M,4.0,Auburn,0.239
+9.0,Texas A&M,4.0,Duke,0.38
+9.0,Texas A&M,4.0,Kansas,0.464
+9.0,Texas A&M,5.0,Gonzaga,0.409
+9.0,Texas A&M,5.0,Saint Mary's,0.435
+9.0,Texas A&M,5.0,San Diego St.,0.501
+9.0,Texas A&M,5.0,Wisconsin,0.43
+9.0,Texas A&M,6.0,BYU,0.404
+9.0,Texas A&M,6.0,Clemson,0.596
+9.0,Texas A&M,6.0,South Carolina,0.529
+9.0,Texas A&M,6.0,Texas Tech,0.478
+9.0,Texas A&M,7.0,Dayton,0.541
+9.0,Texas A&M,7.0,Florida,0.439
+9.0,Texas A&M,7.0,Texas,0.462
+9.0,Texas A&M,7.0,Washington St.,0.564
+9.0,Texas A&M,8.0,Florida Atlantic,0.557
+9.0,Texas A&M,8.0,Mississippi St.,0.514
+9.0,Texas A&M,8.0,Nebraska,0.488
+9.0,Texas A&M,8.0,Utah St.,0.566
+9.0,Texas A&M,9.0,Michigan St.,0.452
+9.0,Texas A&M,9.0,Northwestern,0.5
+9.0,Texas A&M,9.0,TCU,0.461
+9.0,Texas A&M,10.0,Boise St.,0.538
+9.0,Texas A&M,10.0,Colorado,0.492
+9.0,Texas A&M,10.0,Colorado St.,0.547
+9.0,Texas A&M,10.0,Drake,0.57
+9.0,Texas A&M,10.0,Nevada,0.49
+9.0,Texas A&M,10.0,Virginia,0.571
+9.0,Texas A&M,11.0,Duquesne,0.688
+9.0,Texas A&M,11.0,New Mexico,0.382
+9.0,Texas A&M,11.0,North Carolina St.,0.608
+9.0,Texas A&M,11.0,Oregon,0.555
+9.0,Texas A&M,12.0,Grand Canyon,0.564
+9.0,Texas A&M,12.0,James Madison,0.544
+9.0,Texas A&M,12.0,McNeese St.,0.536
+9.0,Texas A&M,12.0,UAB,0.771
+9.0,Texas A&M,13.0,College of Charleston,0.703
+9.0,Texas A&M,13.0,Samford,0.614
+9.0,Texas A&M,13.0,Vermont,0.781
+9.0,Texas A&M,13.0,Yale,0.707
+9.0,Texas A&M,14.0,Akron,0.826
+9.0,Texas A&M,14.0,Colgate,0.875
+9.0,Texas A&M,14.0,Morehead St.,0.826
+9.0,Texas A&M,14.0,Oakland,0.825
+9.0,Texas A&M,15.0,Long Beach St.,0.897
+9.0,Texas A&M,15.0,Saint Peter's,0.905
+9.0,Texas A&M,15.0,South Dakota St.,0.873
+9.0,Texas A&M,15.0,Western Kentucky,0.846
+9.0,Texas A&M,16.0,Grambling St.,0.948
+9.0,Texas A&M,16.0,Howard,0.96
+9.0,Texas A&M,16.0,Longwood,0.871
+9.0,Texas A&M,16.0,Montana St.,0.941
+9.0,Texas A&M,16.0,Stetson,0.93
+9.0,Texas A&M,16.0,Wagner,0.962
+10.0,Boise St.,1.0,Connecticut,0.123
+10.0,Boise St.,1.0,Houston,0.073
+10.0,Boise St.,1.0,North Carolina,0.328
+10.0,Boise St.,1.0,Purdue,0.144
+10.0,Boise St.,2.0,Arizona,0.237
+10.0,Boise St.,2.0,Iowa St.,0.18
+10.0,Boise St.,2.0,Marquette,0.281
+10.0,Boise St.,2.0,Tennessee,0.284
+10.0,Boise St.,3.0,Baylor,0.348
+10.0,Boise St.,3.0,Creighton,0.444
+10.0,Boise St.,3.0,Illinois,0.336
+10.0,Boise St.,3.0,Kentucky,0.448
+10.0,Boise St.,4.0,Alabama,0.342
+10.0,Boise St.,4.0,Auburn,0.212
+10.0,Boise St.,4.0,Duke,0.345
+10.0,Boise St.,4.0,Kansas,0.426
+10.0,Boise St.,5.0,Gonzaga,0.372
+10.0,Boise St.,5.0,Saint Mary's,0.398
+10.0,Boise St.,5.0,San Diego St.,0.463
+10.0,Boise St.,5.0,Wisconsin,0.393
+10.0,Boise St.,6.0,BYU,0.367
+10.0,Boise St.,6.0,Clemson,0.559
+10.0,Boise St.,6.0,South Carolina,0.491
+10.0,Boise St.,6.0,Texas Tech,0.44
+10.0,Boise St.,7.0,Dayton,0.503
+10.0,Boise St.,7.0,Florida,0.402
+10.0,Boise St.,7.0,Texas,0.425
+10.0,Boise St.,7.0,Washington St.,0.526
+10.0,Boise St.,8.0,Florida Atlantic,0.519
+10.0,Boise St.,8.0,Mississippi St.,0.476
+10.0,Boise St.,8.0,Nebraska,0.45
+10.0,Boise St.,8.0,Utah St.,0.528
+10.0,Boise St.,9.0,Michigan St.,0.414
+10.0,Boise St.,9.0,Northwestern,0.462
+10.0,Boise St.,9.0,TCU,0.423
+10.0,Boise St.,9.0,Texas A&M,0.462
+10.0,Boise St.,10.0,Colorado,0.454
+10.0,Boise St.,10.0,Colorado St.,0.509
+10.0,Boise St.,10.0,Drake,0.532
+10.0,Boise St.,10.0,Nevada,0.452
+10.0,Boise St.,10.0,Virginia,0.533
+10.0,Boise St.,11.0,Duquesne,0.655
+10.0,Boise St.,11.0,New Mexico,0.347
+10.0,Boise St.,11.0,North Carolina St.,0.571
+10.0,Boise St.,11.0,Oregon,0.517
+10.0,Boise St.,12.0,Grand Canyon,0.526
+10.0,Boise St.,12.0,James Madison,0.506
+10.0,Boise St.,12.0,McNeese St.,0.497
+10.0,Boise St.,12.0,UAB,0.743
+10.0,Boise St.,13.0,College of Charleston,0.67
+10.0,Boise St.,13.0,Samford,0.577
+10.0,Boise St.,13.0,Vermont,0.753
+10.0,Boise St.,13.0,Yale,0.674
+10.0,Boise St.,14.0,Akron,0.803
+10.0,Boise St.,14.0,Colgate,0.857
+10.0,Boise St.,14.0,Morehead St.,0.803
+10.0,Boise St.,14.0,Oakland,0.802
+10.0,Boise St.,15.0,Long Beach St.,0.882
+10.0,Boise St.,15.0,Saint Peter's,0.89
+10.0,Boise St.,15.0,South Dakota St.,0.855
+10.0,Boise St.,15.0,Western Kentucky,0.825
+10.0,Boise St.,16.0,Grambling St.,0.939
+10.0,Boise St.,16.0,Howard,0.954
+10.0,Boise St.,16.0,Longwood,0.853
+10.0,Boise St.,16.0,Montana St.,0.932
+10.0,Boise St.,16.0,Stetson,0.919
+10.0,Boise St.,16.0,Wagner,0.956
+10.0,Colorado,1.0,Connecticut,0.144
+10.0,Colorado,1.0,Houston,0.087
+10.0,Colorado,1.0,North Carolina,0.371
+10.0,Colorado,1.0,Purdue,0.169
+10.0,Colorado,2.0,Arizona,0.272
+10.0,Colorado,2.0,Iowa St.,0.209
+10.0,Colorado,2.0,Marquette,0.32
+10.0,Colorado,2.0,Tennessee,0.323
+10.0,Colorado,3.0,Baylor,0.391
+10.0,Colorado,3.0,Creighton,0.491
+10.0,Colorado,3.0,Illinois,0.378
+10.0,Colorado,3.0,Kentucky,0.495
+10.0,Colorado,4.0,Alabama,0.385
+10.0,Colorado,4.0,Auburn,0.245
+10.0,Colorado,4.0,Duke,0.388
+10.0,Colorado,4.0,Kansas,0.472
+10.0,Colorado,5.0,Gonzaga,0.417
+10.0,Colorado,5.0,Saint Mary's,0.443
+10.0,Colorado,5.0,San Diego St.,0.509
+10.0,Colorado,5.0,Wisconsin,0.438
+10.0,Colorado,6.0,BYU,0.411
+10.0,Colorado,6.0,Clemson,0.604
+10.0,Colorado,6.0,South Carolina,0.537
+10.0,Colorado,6.0,Texas Tech,0.486
+10.0,Colorado,7.0,Dayton,0.549
+10.0,Colorado,7.0,Florida,0.447
+10.0,Colorado,7.0,Texas,0.47
+10.0,Colorado,7.0,Washington St.,0.572
+10.0,Colorado,8.0,Florida Atlantic,0.565
+10.0,Colorado,8.0,Mississippi St.,0.522
+10.0,Colorado,8.0,Nebraska,0.496
+10.0,Colorado,8.0,Utah St.,0.574
+10.0,Colorado,9.0,Michigan St.,0.46
+10.0,Colorado,9.0,Northwestern,0.508
+10.0,Colorado,9.0,TCU,0.469
+10.0,Colorado,9.0,Texas A&M,0.508
+10.0,Colorado,10.0,Boise St.,0.546
+10.0,Colorado,10.0,Colorado St.,0.555
+10.0,Colorado,10.0,Drake,0.578
+10.0,Colorado,10.0,Nevada,0.498
+10.0,Colorado,10.0,Virginia,0.579
+10.0,Colorado,11.0,Duquesne,0.695
+10.0,Colorado,11.0,New Mexico,0.39
+10.0,Colorado,11.0,North Carolina St.,0.616
+10.0,Colorado,11.0,Oregon,0.563
+10.0,Colorado,12.0,Grand Canyon,0.572
+10.0,Colorado,12.0,James Madison,0.552
+10.0,Colorado,12.0,McNeese St.,0.544
+10.0,Colorado,12.0,UAB,0.776
+10.0,Colorado,13.0,College of Charleston,0.71
+10.0,Colorado,13.0,Samford,0.622
+10.0,Colorado,13.0,Vermont,0.786
+10.0,Colorado,13.0,Yale,0.714
+10.0,Colorado,14.0,Akron,0.831
+10.0,Colorado,14.0,Colgate,0.878
+10.0,Colorado,14.0,Morehead St.,0.83
+10.0,Colorado,14.0,Oakland,0.829
+10.0,Colorado,15.0,Long Beach St.,0.9
+10.0,Colorado,15.0,Saint Peter's,0.907
+10.0,Colorado,15.0,South Dakota St.,0.877
+10.0,Colorado,15.0,Western Kentucky,0.85
+10.0,Colorado,16.0,Grambling St.,0.949
+10.0,Colorado,16.0,Howard,0.962
+10.0,Colorado,16.0,Longwood,0.875
+10.0,Colorado,16.0,Montana St.,0.943
+10.0,Colorado,16.0,Stetson,0.932
+10.0,Colorado,16.0,Wagner,0.963
+10.0,Colorado St.,1.0,Connecticut,0.119
+10.0,Colorado St.,1.0,Houston,0.071
+10.0,Colorado St.,1.0,North Carolina,0.321
+10.0,Colorado St.,1.0,Purdue,0.14
+10.0,Colorado St.,2.0,Arizona,0.231
+10.0,Colorado St.,2.0,Iowa St.,0.175
+10.0,Colorado St.,2.0,Marquette,0.274
+10.0,Colorado St.,2.0,Tennessee,0.277
+10.0,Colorado St.,3.0,Baylor,0.34
+10.0,Colorado St.,3.0,Creighton,0.436
+10.0,Colorado St.,3.0,Illinois,0.328
+10.0,Colorado St.,3.0,Kentucky,0.44
+10.0,Colorado St.,4.0,Alabama,0.334
+10.0,Colorado St.,4.0,Auburn,0.206
+10.0,Colorado St.,4.0,Duke,0.337
+10.0,Colorado St.,4.0,Kansas,0.418
+10.0,Colorado St.,5.0,Gonzaga,0.364
+10.0,Colorado St.,5.0,Saint Mary's,0.389
+10.0,Colorado St.,5.0,San Diego St.,0.454
+10.0,Colorado St.,5.0,Wisconsin,0.384
+10.0,Colorado St.,6.0,BYU,0.359
+10.0,Colorado St.,6.0,Clemson,0.55
+10.0,Colorado St.,6.0,South Carolina,0.482
+10.0,Colorado St.,6.0,Texas Tech,0.432
+10.0,Colorado St.,7.0,Dayton,0.494
+10.0,Colorado St.,7.0,Florida,0.393
+10.0,Colorado St.,7.0,Texas,0.416
+10.0,Colorado St.,7.0,Washington St.,0.517
+10.0,Colorado St.,8.0,Florida Atlantic,0.51
+10.0,Colorado St.,8.0,Mississippi St.,0.467
+10.0,Colorado St.,8.0,Nebraska,0.441
+10.0,Colorado St.,8.0,Utah St.,0.519
+10.0,Colorado St.,9.0,Michigan St.,0.406
+10.0,Colorado St.,9.0,Northwestern,0.453
+10.0,Colorado St.,9.0,TCU,0.414
+10.0,Colorado St.,9.0,Texas A&M,0.453
+10.0,Colorado St.,10.0,Boise St.,0.491
+10.0,Colorado St.,10.0,Colorado,0.445
+10.0,Colorado St.,10.0,Drake,0.523
+10.0,Colorado St.,10.0,Nevada,0.443
+10.0,Colorado St.,10.0,Virginia,0.524
+10.0,Colorado St.,11.0,Duquesne,0.647
+10.0,Colorado St.,11.0,New Mexico,0.339
+10.0,Colorado St.,11.0,North Carolina St.,0.562
+10.0,Colorado St.,11.0,Oregon,0.508
+10.0,Colorado St.,12.0,Grand Canyon,0.518
+10.0,Colorado St.,12.0,James Madison,0.497
+10.0,Colorado St.,12.0,McNeese St.,0.488
+10.0,Colorado St.,12.0,UAB,0.736
+10.0,Colorado St.,13.0,College of Charleston,0.662
+10.0,Colorado St.,13.0,Samford,0.568
+10.0,Colorado St.,13.0,Vermont,0.746
+10.0,Colorado St.,13.0,Yale,0.666
+10.0,Colorado St.,14.0,Akron,0.797
+10.0,Colorado St.,14.0,Colgate,0.852
+10.0,Colorado St.,14.0,Morehead St.,0.797
+10.0,Colorado St.,14.0,Oakland,0.796
+10.0,Colorado St.,15.0,Long Beach St.,0.878
+10.0,Colorado St.,15.0,Saint Peter's,0.887
+10.0,Colorado St.,15.0,South Dakota St.,0.851
+10.0,Colorado St.,15.0,Western Kentucky,0.82
+10.0,Colorado St.,16.0,Grambling St.,0.937
+10.0,Colorado St.,16.0,Howard,0.953
+10.0,Colorado St.,16.0,Longwood,0.849
+10.0,Colorado St.,16.0,Montana St.,0.929
+10.0,Colorado St.,16.0,Stetson,0.916
+10.0,Colorado St.,16.0,Wagner,0.954
+10.0,Drake,1.0,Connecticut,0.11
+10.0,Drake,1.0,Houston,0.065
+10.0,Drake,1.0,North Carolina,0.301
+10.0,Drake,1.0,Purdue,0.129
+10.0,Drake,2.0,Arizona,0.215
+10.0,Drake,2.0,Iowa St.,0.162
+10.0,Drake,2.0,Marquette,0.256
+10.0,Drake,2.0,Tennessee,0.259
+10.0,Drake,3.0,Baylor,0.32
+10.0,Drake,3.0,Creighton,0.413
+10.0,Drake,3.0,Illinois,0.308
+10.0,Drake,3.0,Kentucky,0.417
+10.0,Drake,4.0,Alabama,0.314
+10.0,Drake,4.0,Auburn,0.192
+10.0,Drake,4.0,Duke,0.316
+10.0,Drake,4.0,Kansas,0.395
+10.0,Drake,5.0,Gonzaga,0.343
+10.0,Drake,5.0,Saint Mary's,0.368
+10.0,Drake,5.0,San Diego St.,0.432
+10.0,Drake,5.0,Wisconsin,0.363
+10.0,Drake,6.0,BYU,0.338
+10.0,Drake,6.0,Clemson,0.527
+10.0,Drake,6.0,South Carolina,0.459
+10.0,Drake,6.0,Texas Tech,0.409
+10.0,Drake,7.0,Dayton,0.471
+10.0,Drake,7.0,Florida,0.372
+10.0,Drake,7.0,Texas,0.394
+10.0,Drake,7.0,Washington St.,0.494
+10.0,Drake,8.0,Florida Atlantic,0.487
+10.0,Drake,8.0,Mississippi St.,0.445
+10.0,Drake,8.0,Nebraska,0.419
+10.0,Drake,8.0,Utah St.,0.496
+10.0,Drake,9.0,Michigan St.,0.384
+10.0,Drake,9.0,Northwestern,0.431
+10.0,Drake,9.0,TCU,0.392
+10.0,Drake,9.0,Texas A&M,0.43
+10.0,Drake,10.0,Boise St.,0.468
+10.0,Drake,10.0,Colorado,0.422
+10.0,Drake,10.0,Colorado St.,0.477
+10.0,Drake,10.0,Nevada,0.421
+10.0,Drake,10.0,Virginia,0.501
+10.0,Drake,11.0,Duquesne,0.625
+10.0,Drake,11.0,New Mexico,0.319
+10.0,Drake,11.0,North Carolina St.,0.539
+10.0,Drake,11.0,Oregon,0.485
+10.0,Drake,12.0,Grand Canyon,0.495
+10.0,Drake,12.0,James Madison,0.474
+10.0,Drake,12.0,McNeese St.,0.466
+10.0,Drake,12.0,UAB,0.717
+10.0,Drake,13.0,College of Charleston,0.641
+10.0,Drake,13.0,Samford,0.546
+10.0,Drake,13.0,Vermont,0.729
+10.0,Drake,13.0,Yale,0.646
+10.0,Drake,14.0,Akron,0.782
+10.0,Drake,14.0,Colgate,0.84
+10.0,Drake,14.0,Morehead St.,0.782
+10.0,Drake,14.0,Oakland,0.781
+10.0,Drake,15.0,Long Beach St.,0.868
+10.0,Drake,15.0,Saint Peter's,0.877
+10.0,Drake,15.0,South Dakota St.,0.839
+10.0,Drake,15.0,Western Kentucky,0.806
+10.0,Drake,16.0,Grambling St.,0.932
+10.0,Drake,16.0,Howard,0.948
+10.0,Drake,16.0,Longwood,0.837
+10.0,Drake,16.0,Montana St.,0.923
+10.0,Drake,16.0,Stetson,0.909
+10.0,Drake,16.0,Wagner,0.95
+10.0,Nevada,1.0,Connecticut,0.145
+10.0,Nevada,1.0,Houston,0.087
+10.0,Nevada,1.0,North Carolina,0.372
+10.0,Nevada,1.0,Purdue,0.17
+10.0,Nevada,2.0,Arizona,0.274
+10.0,Nevada,2.0,Iowa St.,0.211
+10.0,Nevada,2.0,Marquette,0.322
+10.0,Nevada,2.0,Tennessee,0.325
+10.0,Nevada,3.0,Baylor,0.393
+10.0,Nevada,3.0,Creighton,0.492
+10.0,Nevada,3.0,Illinois,0.38
+10.0,Nevada,3.0,Kentucky,0.497
+10.0,Nevada,4.0,Alabama,0.387
+10.0,Nevada,4.0,Auburn,0.246
+10.0,Nevada,4.0,Duke,0.389
+10.0,Nevada,4.0,Kansas,0.474
+10.0,Nevada,5.0,Gonzaga,0.418
+10.0,Nevada,5.0,Saint Mary's,0.445
+10.0,Nevada,5.0,San Diego St.,0.511
+10.0,Nevada,5.0,Wisconsin,0.44
+10.0,Nevada,6.0,BYU,0.413
+10.0,Nevada,6.0,Clemson,0.606
+10.0,Nevada,6.0,South Carolina,0.539
+10.0,Nevada,6.0,Texas Tech,0.488
+10.0,Nevada,7.0,Dayton,0.551
+10.0,Nevada,7.0,Florida,0.449
+10.0,Nevada,7.0,Texas,0.472
+10.0,Nevada,7.0,Washington St.,0.573
+10.0,Nevada,8.0,Florida Atlantic,0.567
+10.0,Nevada,8.0,Mississippi St.,0.524
+10.0,Nevada,8.0,Nebraska,0.498
+10.0,Nevada,8.0,Utah St.,0.575
+10.0,Nevada,9.0,Michigan St.,0.462
+10.0,Nevada,9.0,Northwestern,0.51
+10.0,Nevada,9.0,TCU,0.471
+10.0,Nevada,9.0,Texas A&M,0.51
+10.0,Nevada,10.0,Boise St.,0.548
+10.0,Nevada,10.0,Colorado,0.502
+10.0,Nevada,10.0,Colorado St.,0.557
+10.0,Nevada,10.0,Drake,0.579
+10.0,Nevada,10.0,Virginia,0.581
+10.0,Nevada,11.0,Duquesne,0.697
+10.0,Nevada,11.0,New Mexico,0.392
+10.0,Nevada,11.0,North Carolina St.,0.617
+10.0,Nevada,11.0,Oregon,0.565
+10.0,Nevada,12.0,Grand Canyon,0.574
+10.0,Nevada,12.0,James Madison,0.554
+10.0,Nevada,12.0,McNeese St.,0.545
+10.0,Nevada,12.0,UAB,0.778
+10.0,Nevada,13.0,College of Charleston,0.711
+10.0,Nevada,13.0,Samford,0.623
+10.0,Nevada,13.0,Vermont,0.787
+10.0,Nevada,13.0,Yale,0.715
+10.0,Nevada,14.0,Akron,0.832
+10.0,Nevada,14.0,Colgate,0.879
+10.0,Nevada,14.0,Morehead St.,0.832
+10.0,Nevada,14.0,Oakland,0.831
+10.0,Nevada,15.0,Long Beach St.,0.901
+10.0,Nevada,15.0,Saint Peter's,0.908
+10.0,Nevada,15.0,South Dakota St.,0.878
+10.0,Nevada,15.0,Western Kentucky,0.851
+10.0,Nevada,16.0,Grambling St.,0.95
+10.0,Nevada,16.0,Howard,0.962
+10.0,Nevada,16.0,Longwood,0.876
+10.0,Nevada,16.0,Montana St.,0.943
+10.0,Nevada,16.0,Stetson,0.932
+10.0,Nevada,16.0,Wagner,0.963
+10.0,Virginia,1.0,Connecticut,0.109
+10.0,Virginia,1.0,Houston,0.064
+10.0,Virginia,1.0,North Carolina,0.3
+10.0,Virginia,1.0,Purdue,0.129
+10.0,Virginia,2.0,Arizona,0.214
+10.0,Virginia,2.0,Iowa St.,0.161
+10.0,Virginia,2.0,Marquette,0.255
+10.0,Virginia,2.0,Tennessee,0.258
+10.0,Virginia,3.0,Baylor,0.318
+10.0,Virginia,3.0,Creighton,0.412
+10.0,Virginia,3.0,Illinois,0.307
+10.0,Virginia,3.0,Kentucky,0.416
+10.0,Virginia,4.0,Alabama,0.313
+10.0,Virginia,4.0,Auburn,0.191
+10.0,Virginia,4.0,Duke,0.315
+10.0,Virginia,4.0,Kansas,0.394
+10.0,Virginia,5.0,Gonzaga,0.342
+10.0,Virginia,5.0,Saint Mary's,0.366
+10.0,Virginia,5.0,San Diego St.,0.43
+10.0,Virginia,5.0,Wisconsin,0.361
+10.0,Virginia,6.0,BYU,0.337
+10.0,Virginia,6.0,Clemson,0.525
+10.0,Virginia,6.0,South Carolina,0.458
+10.0,Virginia,6.0,Texas Tech,0.408
+10.0,Virginia,7.0,Dayton,0.47
+10.0,Virginia,7.0,Florida,0.37
+10.0,Virginia,7.0,Texas,0.392
+10.0,Virginia,7.0,Washington St.,0.492
+10.0,Virginia,8.0,Florida Atlantic,0.486
+10.0,Virginia,8.0,Mississippi St.,0.443
+10.0,Virginia,8.0,Nebraska,0.417
+10.0,Virginia,8.0,Utah St.,0.494
+10.0,Virginia,9.0,Michigan St.,0.382
+10.0,Virginia,9.0,Northwestern,0.429
+10.0,Virginia,9.0,TCU,0.391
+10.0,Virginia,9.0,Texas A&M,0.429
+10.0,Virginia,10.0,Boise St.,0.467
+10.0,Virginia,10.0,Colorado,0.421
+10.0,Virginia,10.0,Colorado St.,0.476
+10.0,Virginia,10.0,Drake,0.498
+10.0,Virginia,10.0,Nevada,0.419
+10.0,Virginia,11.0,Duquesne,0.624
+10.0,Virginia,11.0,New Mexico,0.317
+10.0,Virginia,11.0,North Carolina St.,0.538
+10.0,Virginia,11.0,Oregon,0.484
+10.0,Virginia,12.0,Grand Canyon,0.493
+10.0,Virginia,12.0,James Madison,0.473
+10.0,Virginia,12.0,McNeese St.,0.464
+10.0,Virginia,12.0,UAB,0.716
+10.0,Virginia,13.0,College of Charleston,0.64
+10.0,Virginia,13.0,Samford,0.544
+10.0,Virginia,13.0,Vermont,0.728
+10.0,Virginia,13.0,Yale,0.644
+10.0,Virginia,14.0,Akron,0.781
+10.0,Virginia,14.0,Colgate,0.84
+10.0,Virginia,14.0,Morehead St.,0.781
+10.0,Virginia,14.0,Oakland,0.78
+10.0,Virginia,15.0,Long Beach St.,0.867
+10.0,Virginia,15.0,Saint Peter's,0.877
+10.0,Virginia,15.0,South Dakota St.,0.838
+10.0,Virginia,15.0,Western Kentucky,0.805
+10.0,Virginia,16.0,Grambling St.,0.931
+10.0,Virginia,16.0,Howard,0.948
+10.0,Virginia,16.0,Longwood,0.836
+10.0,Virginia,16.0,Montana St.,0.923
+10.0,Virginia,16.0,Stetson,0.909
+10.0,Virginia,16.0,Wagner,0.95
+11.0,Duquesne,1.0,Connecticut,0.069
+11.0,Duquesne,1.0,Houston,0.04
+11.0,Duquesne,1.0,North Carolina,0.205
+11.0,Duquesne,1.0,Purdue,0.082
+11.0,Duquesne,2.0,Arizona,0.141
+11.0,Duquesne,2.0,Iowa St.,0.104
+11.0,Duquesne,2.0,Marquette,0.171
+11.0,Duquesne,2.0,Tennessee,0.173
+11.0,Duquesne,3.0,Baylor,0.22
+11.0,Duquesne,3.0,Creighton,0.297
+11.0,Duquesne,3.0,Illinois,0.21
+11.0,Duquesne,3.0,Kentucky,0.3
+11.0,Duquesne,4.0,Alabama,0.216
+11.0,Duquesne,4.0,Auburn,0.124
+11.0,Duquesne,4.0,Duke,0.217
+11.0,Duquesne,4.0,Kansas,0.282
+11.0,Duquesne,5.0,Gonzaga,0.238
+11.0,Duquesne,5.0,Saint Mary's,0.258
+11.0,Duquesne,5.0,San Diego St.,0.313
+11.0,Duquesne,5.0,Wisconsin,0.254
+11.0,Duquesne,6.0,BYU,0.234
+11.0,Duquesne,6.0,Clemson,0.4
+11.0,Duquesne,6.0,South Carolina,0.337
+11.0,Duquesne,6.0,Texas Tech,0.293
+11.0,Duquesne,7.0,Dayton,0.348
+11.0,Duquesne,7.0,Florida,0.262
+11.0,Duquesne,7.0,Texas,0.28
+11.0,Duquesne,7.0,Washington St.,0.369
+11.0,Duquesne,8.0,Florida Atlantic,0.363
+11.0,Duquesne,8.0,Mississippi St.,0.324
+11.0,Duquesne,8.0,Nebraska,0.301
+11.0,Duquesne,8.0,Utah St.,0.371
+11.0,Duquesne,9.0,Michigan St.,0.272
+11.0,Duquesne,9.0,Northwestern,0.312
+11.0,Duquesne,9.0,TCU,0.279
+11.0,Duquesne,9.0,Texas A&M,0.312
+11.0,Duquesne,10.0,Boise St.,0.345
+11.0,Duquesne,10.0,Colorado,0.305
+11.0,Duquesne,10.0,Colorado St.,0.353
+11.0,Duquesne,10.0,Drake,0.375
+11.0,Duquesne,10.0,Nevada,0.303
+11.0,Duquesne,10.0,Virginia,0.376
+11.0,Duquesne,11.0,New Mexico,0.219
+11.0,Duquesne,11.0,North Carolina St.,0.412
+11.0,Duquesne,11.0,Oregon,0.361
+11.0,Duquesne,12.0,Grand Canyon,0.37
+11.0,Duquesne,12.0,James Madison,0.351
+11.0,Duquesne,12.0,McNeese St.,0.343
+11.0,Duquesne,12.0,UAB,0.603
+11.0,Duquesne,13.0,College of Charleston,0.517
+11.0,Duquesne,13.0,Samford,0.419
+11.0,Duquesne,13.0,Vermont,0.617
+11.0,Duquesne,13.0,Yale,0.522
+11.0,Duquesne,14.0,Akron,0.682
+11.0,Duquesne,14.0,Colgate,0.759
+11.0,Duquesne,14.0,Morehead St.,0.682
+11.0,Duquesne,14.0,Oakland,0.681
+11.0,Duquesne,15.0,Long Beach St.,0.798
+11.0,Duquesne,15.0,Saint Peter's,0.811
+11.0,Duquesne,15.0,South Dakota St.,0.757
+11.0,Duquesne,15.0,Western Kentucky,0.713
+11.0,Duquesne,16.0,Grambling St.,0.891
+11.0,Duquesne,16.0,Howard,0.917
+11.0,Duquesne,16.0,Longwood,0.754
+11.0,Duquesne,16.0,Montana St.,0.878
+11.0,Duquesne,16.0,Stetson,0.857
+11.0,Duquesne,16.0,Wagner,0.919
+11.0,New Mexico,1.0,Connecticut,0.208
+11.0,New Mexico,1.0,Houston,0.129
+11.0,New Mexico,1.0,North Carolina,0.479
+11.0,New Mexico,1.0,Purdue,0.241
+11.0,New Mexico,2.0,Arizona,0.369
+11.0,New Mexico,2.0,Iowa St.,0.293
+11.0,New Mexico,2.0,Marquette,0.424
+11.0,New Mexico,2.0,Tennessee,0.427
+11.0,New Mexico,3.0,Baylor,0.501
+11.0,New Mexico,3.0,Creighton,0.601
+11.0,New Mexico,3.0,Illinois,0.487
+11.0,New Mexico,3.0,Kentucky,0.605
+11.0,New Mexico,4.0,Alabama,0.495
+11.0,New Mexico,4.0,Auburn,0.336
+11.0,New Mexico,4.0,Duke,0.497
+11.0,New Mexico,4.0,Kansas,0.583
+11.0,New Mexico,5.0,Gonzaga,0.528
+11.0,New Mexico,5.0,Saint Mary's,0.554
+11.0,New Mexico,5.0,San Diego St.,0.619
+11.0,New Mexico,5.0,Wisconsin,0.549
+11.0,New Mexico,6.0,BYU,0.522
+11.0,New Mexico,6.0,Clemson,0.704
+11.0,New Mexico,6.0,South Carolina,0.645
+11.0,New Mexico,6.0,Texas Tech,0.597
+11.0,New Mexico,7.0,Dayton,0.656
+11.0,New Mexico,7.0,Florida,0.559
+11.0,New Mexico,7.0,Texas,0.581
+11.0,New Mexico,7.0,Washington St.,0.676
+11.0,New Mexico,8.0,Florida Atlantic,0.67
+11.0,New Mexico,8.0,Mississippi St.,0.631
+11.0,New Mexico,8.0,Nebraska,0.606
+11.0,New Mexico,8.0,Utah St.,0.678
+11.0,New Mexico,9.0,Michigan St.,0.571
+11.0,New Mexico,9.0,Northwestern,0.618
+11.0,New Mexico,9.0,TCU,0.58
+11.0,New Mexico,9.0,Texas A&M,0.618
+11.0,New Mexico,10.0,Boise St.,0.653
+11.0,New Mexico,10.0,Colorado,0.61
+11.0,New Mexico,10.0,Colorado St.,0.661
+11.0,New Mexico,10.0,Drake,0.681
+11.0,New Mexico,10.0,Nevada,0.608
+11.0,New Mexico,10.0,Virginia,0.683
+11.0,New Mexico,11.0,Duquesne,0.781
+11.0,New Mexico,11.0,North Carolina St.,0.715
+11.0,New Mexico,11.0,Oregon,0.669
+11.0,New Mexico,12.0,Grand Canyon,0.677
+11.0,New Mexico,12.0,James Madison,0.659
+11.0,New Mexico,12.0,McNeese St.,0.651
+11.0,New Mexico,12.0,UAB,0.844
+11.0,New Mexico,13.0,College of Charleston,0.793
+11.0,New Mexico,13.0,Samford,0.72
+11.0,New Mexico,13.0,Vermont,0.852
+11.0,New Mexico,13.0,Yale,0.796
+11.0,New Mexico,14.0,Akron,0.885
+11.0,New Mexico,14.0,Colgate,0.918
+11.0,New Mexico,14.0,Morehead St.,0.885
+11.0,New Mexico,14.0,Oakland,0.884
+11.0,New Mexico,15.0,Long Beach St.,0.934
+11.0,New Mexico,15.0,Saint Peter's,0.939
+11.0,New Mexico,15.0,South Dakota St.,0.918
+11.0,New Mexico,15.0,Western Kentucky,0.899
+11.0,New Mexico,16.0,Grambling St.,0.967
+11.0,New Mexico,16.0,Howard,0.975
+11.0,New Mexico,16.0,Longwood,0.916
+11.0,New Mexico,16.0,Montana St.,0.963
+11.0,New Mexico,16.0,Stetson,0.955
+11.0,New Mexico,16.0,Wagner,0.976
+11.0,North Carolina St.,1.0,Connecticut,0.095
+11.0,North Carolina St.,1.0,Houston,0.056
+11.0,North Carolina St.,1.0,North Carolina,0.269
+11.0,North Carolina St.,1.0,Purdue,0.113
+11.0,North Carolina St.,2.0,Arizona,0.189
+11.0,North Carolina St.,2.0,Iowa St.,0.142
+11.0,North Carolina St.,2.0,Marquette,0.227
+11.0,North Carolina St.,2.0,Tennessee,0.23
+11.0,North Carolina St.,3.0,Baylor,0.286
+11.0,North Carolina St.,3.0,Creighton,0.375
+11.0,North Carolina St.,3.0,Illinois,0.275
+11.0,North Carolina St.,3.0,Kentucky,0.379
+11.0,North Carolina St.,4.0,Alabama,0.281
+11.0,North Carolina St.,4.0,Auburn,0.168
+11.0,North Carolina St.,4.0,Duke,0.283
+11.0,North Carolina St.,4.0,Kansas,0.358
+11.0,North Carolina St.,5.0,Gonzaga,0.308
+11.0,North Carolina St.,5.0,Saint Mary's,0.332
+11.0,North Carolina St.,5.0,San Diego St.,0.393
+11.0,North Carolina St.,5.0,Wisconsin,0.327
+11.0,North Carolina St.,6.0,BYU,0.304
+11.0,North Carolina St.,6.0,Clemson,0.488
+11.0,North Carolina St.,6.0,South Carolina,0.42
+11.0,North Carolina St.,6.0,Texas Tech,0.372
+11.0,North Carolina St.,7.0,Dayton,0.432
+11.0,North Carolina St.,7.0,Florida,0.336
+11.0,North Carolina St.,7.0,Texas,0.357
+11.0,North Carolina St.,7.0,Washington St.,0.455
+11.0,North Carolina St.,8.0,Florida Atlantic,0.448
+11.0,North Carolina St.,8.0,Mississippi St.,0.406
+11.0,North Carolina St.,8.0,Nebraska,0.381
+11.0,North Carolina St.,8.0,Utah St.,0.456
+11.0,North Carolina St.,9.0,Michigan St.,0.347
+11.0,North Carolina St.,9.0,Northwestern,0.392
+11.0,North Carolina St.,9.0,TCU,0.355
+11.0,North Carolina St.,9.0,Texas A&M,0.392
+11.0,North Carolina St.,10.0,Boise St.,0.429
+11.0,North Carolina St.,10.0,Colorado,0.384
+11.0,North Carolina St.,10.0,Colorado St.,0.438
+11.0,North Carolina St.,10.0,Drake,0.461
+11.0,North Carolina St.,10.0,Nevada,0.383
+11.0,North Carolina St.,10.0,Virginia,0.462
+11.0,North Carolina St.,11.0,Duquesne,0.588
+11.0,North Carolina St.,11.0,New Mexico,0.285
+11.0,North Carolina St.,11.0,Oregon,0.446
+11.0,North Carolina St.,12.0,Grand Canyon,0.455
+11.0,North Carolina St.,12.0,James Madison,0.435
+11.0,North Carolina St.,12.0,McNeese St.,0.427
+11.0,North Carolina St.,12.0,UAB,0.684
+11.0,North Carolina St.,13.0,College of Charleston,0.604
+11.0,North Carolina St.,13.0,Samford,0.506
+11.0,North Carolina St.,13.0,Vermont,0.696
+11.0,North Carolina St.,13.0,Yale,0.609
+11.0,North Carolina St.,14.0,Akron,0.754
+11.0,North Carolina St.,14.0,Colgate,0.818
+11.0,North Carolina St.,14.0,Morehead St.,0.754
+11.0,North Carolina St.,14.0,Oakland,0.752
+11.0,North Carolina St.,15.0,Long Beach St.,0.849
+11.0,North Carolina St.,15.0,Saint Peter's,0.859
+11.0,North Carolina St.,15.0,South Dakota St.,0.816
+11.0,North Carolina St.,15.0,Western Kentucky,0.78
+11.0,North Carolina St.,16.0,Grambling St.,0.921
+11.0,North Carolina St.,16.0,Howard,0.94
+11.0,North Carolina St.,16.0,Longwood,0.814
+11.0,North Carolina St.,16.0,Montana St.,0.911
+11.0,North Carolina St.,16.0,Stetson,0.895
+11.0,North Carolina St.,16.0,Wagner,0.942
+11.0,Oregon,1.0,Connecticut,0.115
+11.0,Oregon,1.0,Houston,0.068
+11.0,Oregon,1.0,North Carolina,0.313
+11.0,Oregon,1.0,Purdue,0.136
+11.0,Oregon,2.0,Arizona,0.225
+11.0,Oregon,2.0,Iowa St.,0.17
+11.0,Oregon,2.0,Marquette,0.268
+11.0,Oregon,2.0,Tennessee,0.27
+11.0,Oregon,3.0,Baylor,0.332
+11.0,Oregon,3.0,Creighton,0.427
+11.0,Oregon,3.0,Illinois,0.32
+11.0,Oregon,3.0,Kentucky,0.431
+11.0,Oregon,4.0,Alabama,0.327
+11.0,Oregon,4.0,Auburn,0.201
+11.0,Oregon,4.0,Duke,0.329
+11.0,Oregon,4.0,Kansas,0.409
+11.0,Oregon,5.0,Gonzaga,0.356
+11.0,Oregon,5.0,Saint Mary's,0.381
+11.0,Oregon,5.0,San Diego St.,0.446
+11.0,Oregon,5.0,Wisconsin,0.376
+11.0,Oregon,6.0,BYU,0.351
+11.0,Oregon,6.0,Clemson,0.541
+11.0,Oregon,6.0,South Carolina,0.474
+11.0,Oregon,6.0,Texas Tech,0.423
+11.0,Oregon,7.0,Dayton,0.486
+11.0,Oregon,7.0,Florida,0.385
+11.0,Oregon,7.0,Texas,0.408
+11.0,Oregon,7.0,Washington St.,0.508
+11.0,Oregon,8.0,Florida Atlantic,0.502
+11.0,Oregon,8.0,Mississippi St.,0.459
+11.0,Oregon,8.0,Nebraska,0.433
+11.0,Oregon,8.0,Utah St.,0.51
+11.0,Oregon,9.0,Michigan St.,0.398
+11.0,Oregon,9.0,Northwestern,0.445
+11.0,Oregon,9.0,TCU,0.406
+11.0,Oregon,9.0,Texas A&M,0.445
+11.0,Oregon,10.0,Boise St.,0.483
+11.0,Oregon,10.0,Colorado,0.437
+11.0,Oregon,10.0,Colorado St.,0.492
+11.0,Oregon,10.0,Drake,0.514
+11.0,Oregon,10.0,Nevada,0.435
+11.0,Oregon,10.0,Virginia,0.516
+11.0,Oregon,11.0,Duquesne,0.639
+11.0,Oregon,11.0,New Mexico,0.331
+11.0,Oregon,11.0,North Carolina St.,0.554
+11.0,Oregon,12.0,Grand Canyon,0.509
+11.0,Oregon,12.0,James Madison,0.489
+11.0,Oregon,12.0,McNeese St.,0.48
+11.0,Oregon,12.0,UAB,0.729
+11.0,Oregon,13.0,College of Charleston,0.654
+11.0,Oregon,13.0,Samford,0.56
+11.0,Oregon,13.0,Vermont,0.74
+11.0,Oregon,13.0,Yale,0.659
+11.0,Oregon,14.0,Akron,0.792
+11.0,Oregon,14.0,Colgate,0.848
+11.0,Oregon,14.0,Morehead St.,0.792
+11.0,Oregon,14.0,Oakland,0.79
+11.0,Oregon,15.0,Long Beach St.,0.875
+11.0,Oregon,15.0,Saint Peter's,0.884
+11.0,Oregon,15.0,South Dakota St.,0.847
+11.0,Oregon,15.0,Western Kentucky,0.814
+11.0,Oregon,16.0,Grambling St.,0.935
+11.0,Oregon,16.0,Howard,0.951
+11.0,Oregon,16.0,Longwood,0.844
+11.0,Oregon,16.0,Montana St.,0.927
+11.0,Oregon,16.0,Stetson,0.914
+11.0,Oregon,16.0,Wagner,0.953
+12.0,Grand Canyon,1.0,Connecticut,0.112
+12.0,Grand Canyon,1.0,Houston,0.066
+12.0,Grand Canyon,1.0,North Carolina,0.305
+12.0,Grand Canyon,1.0,Purdue,0.132
+12.0,Grand Canyon,2.0,Arizona,0.218
+12.0,Grand Canyon,2.0,Iowa St.,0.165
+12.0,Grand Canyon,2.0,Marquette,0.26
+12.0,Grand Canyon,2.0,Tennessee,0.263
+12.0,Grand Canyon,3.0,Baylor,0.324
+12.0,Grand Canyon,3.0,Creighton,0.418
+12.0,Grand Canyon,3.0,Illinois,0.312
+12.0,Grand Canyon,3.0,Kentucky,0.422
+12.0,Grand Canyon,4.0,Alabama,0.319
+12.0,Grand Canyon,4.0,Auburn,0.195
+12.0,Grand Canyon,4.0,Duke,0.321
+12.0,Grand Canyon,4.0,Kansas,0.401
+12.0,Grand Canyon,5.0,Gonzaga,0.348
+12.0,Grand Canyon,5.0,Saint Mary's,0.373
+12.0,Grand Canyon,5.0,San Diego St.,0.437
+12.0,Grand Canyon,5.0,Wisconsin,0.368
+12.0,Grand Canyon,6.0,BYU,0.343
+12.0,Grand Canyon,6.0,Clemson,0.532
+12.0,Grand Canyon,6.0,South Carolina,0.465
+12.0,Grand Canyon,6.0,Texas Tech,0.414
+12.0,Grand Canyon,7.0,Dayton,0.477
+12.0,Grand Canyon,7.0,Florida,0.377
+12.0,Grand Canyon,7.0,Texas,0.399
+12.0,Grand Canyon,7.0,Washington St.,0.499
+12.0,Grand Canyon,8.0,Florida Atlantic,0.493
+12.0,Grand Canyon,8.0,Mississippi St.,0.45
+12.0,Grand Canyon,8.0,Nebraska,0.424
+12.0,Grand Canyon,8.0,Utah St.,0.501
+12.0,Grand Canyon,9.0,Michigan St.,0.389
+12.0,Grand Canyon,9.0,Northwestern,0.436
+12.0,Grand Canyon,9.0,TCU,0.397
+12.0,Grand Canyon,9.0,Texas A&M,0.436
+12.0,Grand Canyon,10.0,Boise St.,0.474
+12.0,Grand Canyon,10.0,Colorado,0.428
+12.0,Grand Canyon,10.0,Colorado St.,0.482
+12.0,Grand Canyon,10.0,Drake,0.505
+12.0,Grand Canyon,10.0,Nevada,0.426
+12.0,Grand Canyon,10.0,Virginia,0.507
+12.0,Grand Canyon,11.0,Duquesne,0.63
+12.0,Grand Canyon,11.0,New Mexico,0.323
+12.0,Grand Canyon,11.0,North Carolina St.,0.545
+12.0,Grand Canyon,11.0,Oregon,0.491
+12.0,Grand Canyon,12.0,James Madison,0.48
+12.0,Grand Canyon,12.0,McNeese St.,0.471
+12.0,Grand Canyon,12.0,UAB,0.722
+12.0,Grand Canyon,13.0,College of Charleston,0.646
+12.0,Grand Canyon,13.0,Samford,0.551
+12.0,Grand Canyon,13.0,Vermont,0.733
+12.0,Grand Canyon,13.0,Yale,0.651
+12.0,Grand Canyon,14.0,Akron,0.786
+12.0,Grand Canyon,14.0,Colgate,0.843
+12.0,Grand Canyon,14.0,Morehead St.,0.785
+12.0,Grand Canyon,14.0,Oakland,0.784
+12.0,Grand Canyon,15.0,Long Beach St.,0.87
+12.0,Grand Canyon,15.0,Saint Peter's,0.88
+12.0,Grand Canyon,15.0,South Dakota St.,0.842
+12.0,Grand Canyon,15.0,Western Kentucky,0.809
+12.0,Grand Canyon,16.0,Grambling St.,0.933
+12.0,Grand Canyon,16.0,Howard,0.949
+12.0,Grand Canyon,16.0,Longwood,0.839
+12.0,Grand Canyon,16.0,Montana St.,0.925
+12.0,Grand Canyon,16.0,Stetson,0.911
+12.0,Grand Canyon,16.0,Wagner,0.951
+12.0,James Madison,1.0,Connecticut,0.12
+12.0,James Madison,1.0,Houston,0.071
+12.0,James Madison,1.0,North Carolina,0.323
+12.0,James Madison,1.0,Purdue,0.141
+12.0,James Madison,2.0,Arizona,0.233
+12.0,James Madison,2.0,Iowa St.,0.177
+12.0,James Madison,2.0,Marquette,0.276
+12.0,James Madison,2.0,Tennessee,0.279
+12.0,James Madison,3.0,Baylor,0.342
+12.0,James Madison,3.0,Creighton,0.438
+12.0,James Madison,3.0,Illinois,0.33
+12.0,James Madison,3.0,Kentucky,0.442
+12.0,James Madison,4.0,Alabama,0.337
+12.0,James Madison,4.0,Auburn,0.208
+12.0,James Madison,4.0,Duke,0.339
+12.0,James Madison,4.0,Kansas,0.42
+12.0,James Madison,5.0,Gonzaga,0.366
+12.0,James Madison,5.0,Saint Mary's,0.392
+12.0,James Madison,5.0,San Diego St.,0.457
+12.0,James Madison,5.0,Wisconsin,0.387
+12.0,James Madison,6.0,BYU,0.362
+12.0,James Madison,6.0,Clemson,0.552
+12.0,James Madison,6.0,South Carolina,0.485
+12.0,James Madison,6.0,Texas Tech,0.434
+12.0,James Madison,7.0,Dayton,0.497
+12.0,James Madison,7.0,Florida,0.396
+12.0,James Madison,7.0,Texas,0.418
+12.0,James Madison,7.0,Washington St.,0.519
+12.0,James Madison,8.0,Florida Atlantic,0.513
+12.0,James Madison,8.0,Mississippi St.,0.47
+12.0,James Madison,8.0,Nebraska,0.444
+12.0,James Madison,8.0,Utah St.,0.521
+12.0,James Madison,9.0,Michigan St.,0.408
+12.0,James Madison,9.0,Northwestern,0.456
+12.0,James Madison,9.0,TCU,0.417
+12.0,James Madison,9.0,Texas A&M,0.456
+12.0,James Madison,10.0,Boise St.,0.494
+12.0,James Madison,10.0,Colorado,0.448
+12.0,James Madison,10.0,Colorado St.,0.503
+12.0,James Madison,10.0,Drake,0.526
+12.0,James Madison,10.0,Nevada,0.446
+12.0,James Madison,10.0,Virginia,0.527
+12.0,James Madison,11.0,Duquesne,0.649
+12.0,James Madison,11.0,New Mexico,0.341
+12.0,James Madison,11.0,North Carolina St.,0.565
+12.0,James Madison,11.0,Oregon,0.511
+12.0,James Madison,12.0,Grand Canyon,0.52
+12.0,James Madison,12.0,McNeese St.,0.491
+12.0,James Madison,12.0,UAB,0.738
+12.0,James Madison,13.0,College of Charleston,0.664
+12.0,James Madison,13.0,Samford,0.571
+12.0,James Madison,13.0,Vermont,0.748
+12.0,James Madison,13.0,Yale,0.669
+12.0,James Madison,14.0,Akron,0.799
+12.0,James Madison,14.0,Colgate,0.854
+12.0,James Madison,14.0,Morehead St.,0.799
+12.0,James Madison,14.0,Oakland,0.798
+12.0,James Madison,15.0,Long Beach St.,0.879
+12.0,James Madison,15.0,Saint Peter's,0.888
+12.0,James Madison,15.0,South Dakota St.,0.852
+12.0,James Madison,15.0,Western Kentucky,0.821
+12.0,James Madison,16.0,Grambling St.,0.938
+12.0,James Madison,16.0,Howard,0.953
+12.0,James Madison,16.0,Longwood,0.85
+12.0,James Madison,16.0,Montana St.,0.93
+12.0,James Madison,16.0,Stetson,0.917
+12.0,James Madison,16.0,Wagner,0.955
+12.0,McNeese St.,1.0,Connecticut,0.124
+12.0,McNeese St.,1.0,Houston,0.074
+12.0,McNeese St.,1.0,North Carolina,0.331
+12.0,McNeese St.,1.0,Purdue,0.146
+12.0,McNeese St.,2.0,Arizona,0.239
+12.0,McNeese St.,2.0,Iowa St.,0.182
+12.0,McNeese St.,2.0,Marquette,0.284
+12.0,McNeese St.,2.0,Tennessee,0.286
+12.0,McNeese St.,3.0,Baylor,0.35
+12.0,McNeese St.,3.0,Creighton,0.447
+12.0,McNeese St.,3.0,Illinois,0.338
+12.0,McNeese St.,3.0,Kentucky,0.451
+12.0,McNeese St.,4.0,Alabama,0.345
+12.0,McNeese St.,4.0,Auburn,0.214
+12.0,McNeese St.,4.0,Duke,0.347
+12.0,McNeese St.,4.0,Kansas,0.429
+12.0,McNeese St.,5.0,Gonzaga,0.375
+12.0,McNeese St.,5.0,Saint Mary's,0.4
+12.0,McNeese St.,5.0,San Diego St.,0.466
+12.0,McNeese St.,5.0,Wisconsin,0.395
+12.0,McNeese St.,6.0,BYU,0.37
+12.0,McNeese St.,6.0,Clemson,0.561
+12.0,McNeese St.,6.0,South Carolina,0.494
+12.0,McNeese St.,6.0,Texas Tech,0.443
+12.0,McNeese St.,7.0,Dayton,0.506
+12.0,McNeese St.,7.0,Florida,0.405
+12.0,McNeese St.,7.0,Texas,0.427
+12.0,McNeese St.,7.0,Washington St.,0.528
+12.0,McNeese St.,8.0,Florida Atlantic,0.522
+12.0,McNeese St.,8.0,Mississippi St.,0.479
+12.0,McNeese St.,8.0,Nebraska,0.452
+12.0,McNeese St.,8.0,Utah St.,0.53
+12.0,McNeese St.,9.0,Michigan St.,0.417
+12.0,McNeese St.,9.0,Northwestern,0.465
+12.0,McNeese St.,9.0,TCU,0.426
+12.0,McNeese St.,9.0,Texas A&M,0.464
+12.0,McNeese St.,10.0,Boise St.,0.503
+12.0,McNeese St.,10.0,Colorado,0.456
+12.0,McNeese St.,10.0,Colorado St.,0.512
+12.0,McNeese St.,10.0,Drake,0.534
+12.0,McNeese St.,10.0,Nevada,0.455
+12.0,McNeese St.,10.0,Virginia,0.536
+12.0,McNeese St.,11.0,Duquesne,0.657
+12.0,McNeese St.,11.0,New Mexico,0.349
+12.0,McNeese St.,11.0,North Carolina St.,0.573
+12.0,McNeese St.,11.0,Oregon,0.52
+12.0,McNeese St.,12.0,Grand Canyon,0.529
+12.0,McNeese St.,12.0,James Madison,0.509
+12.0,McNeese St.,12.0,UAB,0.745
+12.0,McNeese St.,13.0,College of Charleston,0.672
+12.0,McNeese St.,13.0,Samford,0.58
+12.0,McNeese St.,13.0,Vermont,0.755
+12.0,McNeese St.,13.0,Yale,0.677
+12.0,McNeese St.,14.0,Akron,0.805
+12.0,McNeese St.,14.0,Colgate,0.858
+12.0,McNeese St.,14.0,Morehead St.,0.804
+12.0,McNeese St.,14.0,Oakland,0.803
+12.0,McNeese St.,15.0,Long Beach St.,0.883
+12.0,McNeese St.,15.0,Saint Peter's,0.892
+12.0,McNeese St.,15.0,South Dakota St.,0.857
+12.0,McNeese St.,15.0,Western Kentucky,0.826
+12.0,McNeese St.,16.0,Grambling St.,0.94
+12.0,McNeese St.,16.0,Howard,0.955
+12.0,McNeese St.,16.0,Longwood,0.855
+12.0,McNeese St.,16.0,Montana St.,0.932
+12.0,McNeese St.,16.0,Stetson,0.92
+12.0,McNeese St.,16.0,Wagner,0.956
+12.0,UAB,1.0,Connecticut,0.046
+12.0,UAB,1.0,Houston,0.027
+12.0,UAB,1.0,North Carolina,0.145
+12.0,UAB,1.0,Purdue,0.055
+12.0,UAB,2.0,Arizona,0.097
+12.0,UAB,2.0,Iowa St.,0.071
+12.0,UAB,2.0,Marquette,0.119
+12.0,UAB,2.0,Tennessee,0.121
+12.0,UAB,3.0,Baylor,0.156
+12.0,UAB,3.0,Creighton,0.217
+12.0,UAB,3.0,Illinois,0.149
+12.0,UAB,3.0,Kentucky,0.22
+12.0,UAB,4.0,Alabama,0.153
+12.0,UAB,4.0,Auburn,0.085
+12.0,UAB,4.0,Duke,0.154
+12.0,UAB,4.0,Kansas,0.205
+12.0,UAB,5.0,Gonzaga,0.171
+12.0,UAB,5.0,Saint Mary's,0.186
+12.0,UAB,5.0,San Diego St.,0.23
+12.0,UAB,5.0,Wisconsin,0.183
+12.0,UAB,6.0,BYU,0.168
+12.0,UAB,6.0,Clemson,0.305
+12.0,UAB,6.0,South Carolina,0.251
+12.0,UAB,6.0,Texas Tech,0.214
+12.0,UAB,7.0,Dayton,0.26
+12.0,UAB,7.0,Florida,0.189
+12.0,UAB,7.0,Texas,0.204
+12.0,UAB,7.0,Washington St.,0.278
+12.0,UAB,8.0,Florida Atlantic,0.272
+12.0,UAB,8.0,Mississippi St.,0.24
+12.0,UAB,8.0,Nebraska,0.221
+12.0,UAB,8.0,Utah St.,0.279
+12.0,UAB,9.0,Michigan St.,0.197
+12.0,UAB,9.0,Northwestern,0.229
+12.0,UAB,9.0,TCU,0.203
+12.0,UAB,9.0,Texas A&M,0.229
+12.0,UAB,10.0,Boise St.,0.257
+12.0,UAB,10.0,Colorado,0.224
+12.0,UAB,10.0,Colorado St.,0.264
+12.0,UAB,10.0,Drake,0.283
+12.0,UAB,10.0,Nevada,0.222
+12.0,UAB,10.0,Virginia,0.284
+12.0,UAB,11.0,Duquesne,0.397
+12.0,UAB,11.0,New Mexico,0.156
+12.0,UAB,11.0,North Carolina St.,0.316
+12.0,UAB,11.0,Oregon,0.271
+12.0,UAB,12.0,Grand Canyon,0.278
+12.0,UAB,12.0,James Madison,0.262
+12.0,UAB,12.0,McNeese St.,0.255
+12.0,UAB,13.0,College of Charleston,0.413
+12.0,UAB,13.0,Samford,0.321
+12.0,UAB,13.0,Vermont,0.514
+12.0,UAB,13.0,Yale,0.418
+12.0,UAB,14.0,Akron,0.586
+12.0,UAB,14.0,Colgate,0.675
+12.0,UAB,14.0,Morehead St.,0.585
+12.0,UAB,14.0,Oakland,0.584
+12.0,UAB,15.0,Long Beach St.,0.722
+12.0,UAB,15.0,Saint Peter's,0.738
+12.0,UAB,15.0,South Dakota St.,0.672
+12.0,UAB,15.0,Western Kentucky,0.62
+12.0,UAB,16.0,Grambling St.,0.843
+12.0,UAB,16.0,Howard,0.878
+12.0,UAB,16.0,Longwood,0.668
+12.0,UAB,16.0,Montana St.,0.826
+12.0,UAB,16.0,Stetson,0.797
+12.0,UAB,16.0,Wagner,0.882
+13.0,College of Charleston,1.0,Connecticut,0.064
+13.0,College of Charleston,1.0,Houston,0.037
+13.0,College of Charleston,1.0,North Carolina,0.194
+13.0,College of Charleston,1.0,Purdue,0.077
+13.0,College of Charleston,2.0,Arizona,0.133
+13.0,College of Charleston,2.0,Iowa St.,0.098
+13.0,College of Charleston,2.0,Marquette,0.162
+13.0,College of Charleston,2.0,Tennessee,0.164
+13.0,College of Charleston,3.0,Baylor,0.208
+13.0,College of Charleston,3.0,Creighton,0.283
+13.0,College of Charleston,3.0,Illinois,0.199
+13.0,College of Charleston,3.0,Kentucky,0.286
+13.0,College of Charleston,4.0,Alabama,0.204
+13.0,College of Charleston,4.0,Auburn,0.117
+13.0,College of Charleston,4.0,Duke,0.206
+13.0,College of Charleston,4.0,Kansas,0.268
+13.0,College of Charleston,5.0,Gonzaga,0.226
+13.0,College of Charleston,5.0,Saint Mary's,0.246
+13.0,College of Charleston,5.0,San Diego St.,0.298
+13.0,College of Charleston,5.0,Wisconsin,0.242
+13.0,College of Charleston,6.0,BYU,0.222
+13.0,College of Charleston,6.0,Clemson,0.384
+13.0,College of Charleston,6.0,South Carolina,0.322
+13.0,College of Charleston,6.0,Texas Tech,0.279
+13.0,College of Charleston,7.0,Dayton,0.333
+13.0,College of Charleston,7.0,Florida,0.249
+13.0,College of Charleston,7.0,Texas,0.267
+13.0,College of Charleston,7.0,Washington St.,0.353
+13.0,College of Charleston,8.0,Florida Atlantic,0.347
+13.0,College of Charleston,8.0,Mississippi St.,0.309
+13.0,College of Charleston,8.0,Nebraska,0.287
+13.0,College of Charleston,8.0,Utah St.,0.355
+13.0,College of Charleston,9.0,Michigan St.,0.259
+13.0,College of Charleston,9.0,Northwestern,0.297
+13.0,College of Charleston,9.0,TCU,0.265
+13.0,College of Charleston,9.0,Texas A&M,0.297
+13.0,College of Charleston,10.0,Boise St.,0.33
+13.0,College of Charleston,10.0,Colorado,0.29
+13.0,College of Charleston,10.0,Colorado St.,0.338
+13.0,College of Charleston,10.0,Drake,0.359
+13.0,College of Charleston,10.0,Nevada,0.289
+13.0,College of Charleston,10.0,Virginia,0.36
+13.0,College of Charleston,11.0,Duquesne,0.483
+13.0,College of Charleston,11.0,New Mexico,0.207
+13.0,College of Charleston,11.0,North Carolina St.,0.396
+13.0,College of Charleston,11.0,Oregon,0.346
+13.0,College of Charleston,12.0,Grand Canyon,0.354
+13.0,College of Charleston,12.0,James Madison,0.336
+13.0,College of Charleston,12.0,McNeese St.,0.328
+13.0,College of Charleston,12.0,UAB,0.587
+13.0,College of Charleston,13.0,Samford,0.402
+13.0,College of Charleston,13.0,Vermont,0.601
+13.0,College of Charleston,13.0,Yale,0.505
+13.0,College of Charleston,14.0,Akron,0.668
+13.0,College of Charleston,14.0,Colgate,0.747
+13.0,College of Charleston,14.0,Morehead St.,0.667
+13.0,College of Charleston,14.0,Oakland,0.666
+13.0,College of Charleston,15.0,Long Beach St.,0.786
+13.0,College of Charleston,15.0,Saint Peter's,0.8
+13.0,College of Charleston,15.0,South Dakota St.,0.745
+13.0,College of Charleston,15.0,Western Kentucky,0.699
+13.0,College of Charleston,16.0,Grambling St.,0.884
+13.0,College of Charleston,16.0,Howard,0.911
+13.0,College of Charleston,16.0,Longwood,0.741
+13.0,College of Charleston,16.0,Montana St.,0.871
+13.0,College of Charleston,16.0,Stetson,0.848
+13.0,College of Charleston,16.0,Wagner,0.914
+13.0,Samford,1.0,Connecticut,0.093
+13.0,Samford,1.0,Houston,0.055
+13.0,Samford,1.0,North Carolina,0.264
+13.0,Samford,1.0,Purdue,0.11
+13.0,Samford,2.0,Arizona,0.185
+13.0,Samford,2.0,Iowa St.,0.139
+13.0,Samford,2.0,Marquette,0.223
+13.0,Samford,2.0,Tennessee,0.225
+13.0,Samford,3.0,Baylor,0.281
+13.0,Samford,3.0,Creighton,0.369
+13.0,Samford,3.0,Illinois,0.27
+13.0,Samford,3.0,Kentucky,0.373
+13.0,Samford,4.0,Alabama,0.276
+13.0,Samford,4.0,Auburn,0.165
+13.0,Samford,4.0,Duke,0.278
+13.0,Samford,4.0,Kansas,0.353
+13.0,Samford,5.0,Gonzaga,0.303
+13.0,Samford,5.0,Saint Mary's,0.326
+13.0,Samford,5.0,San Diego St.,0.387
+13.0,Samford,5.0,Wisconsin,0.321
+13.0,Samford,6.0,BYU,0.298
+13.0,Samford,6.0,Clemson,0.481
+13.0,Samford,6.0,South Carolina,0.414
+13.0,Samford,6.0,Texas Tech,0.366
+13.0,Samford,7.0,Dayton,0.426
+13.0,Samford,7.0,Florida,0.33
+13.0,Samford,7.0,Texas,0.351
+13.0,Samford,7.0,Washington St.,0.448
+13.0,Samford,8.0,Florida Atlantic,0.442
+13.0,Samford,8.0,Mississippi St.,0.4
+13.0,Samford,8.0,Nebraska,0.375
+13.0,Samford,8.0,Utah St.,0.45
+13.0,Samford,9.0,Michigan St.,0.341
+13.0,Samford,9.0,Northwestern,0.386
+13.0,Samford,9.0,TCU,0.349
+13.0,Samford,9.0,Texas A&M,0.386
+13.0,Samford,10.0,Boise St.,0.423
+13.0,Samford,10.0,Colorado,0.378
+13.0,Samford,10.0,Colorado St.,0.432
+13.0,Samford,10.0,Drake,0.454
+13.0,Samford,10.0,Nevada,0.377
+13.0,Samford,10.0,Virginia,0.456
+13.0,Samford,11.0,Duquesne,0.581
+13.0,Samford,11.0,New Mexico,0.28
+13.0,Samford,11.0,North Carolina St.,0.494
+13.0,Samford,11.0,Oregon,0.44
+13.0,Samford,12.0,Grand Canyon,0.449
+13.0,Samford,12.0,James Madison,0.429
+13.0,Samford,12.0,McNeese St.,0.42
+13.0,Samford,12.0,UAB,0.679
+13.0,Samford,13.0,College of Charleston,0.598
+13.0,Samford,13.0,Vermont,0.691
+13.0,Samford,13.0,Yale,0.603
+13.0,Samford,14.0,Akron,0.749
+13.0,Samford,14.0,Colgate,0.814
+13.0,Samford,14.0,Morehead St.,0.749
+13.0,Samford,14.0,Oakland,0.748
+13.0,Samford,15.0,Long Beach St.,0.846
+13.0,Samford,15.0,Saint Peter's,0.856
+13.0,Samford,15.0,South Dakota St.,0.813
+13.0,Samford,15.0,Western Kentucky,0.775
+13.0,Samford,16.0,Grambling St.,0.919
+13.0,Samford,16.0,Howard,0.939
+13.0,Samford,16.0,Longwood,0.81
+13.0,Samford,16.0,Montana St.,0.909
+13.0,Samford,16.0,Stetson,0.893
+13.0,Samford,16.0,Wagner,0.94
+13.0,Vermont,1.0,Connecticut,0.044
+13.0,Vermont,1.0,Houston,0.025
+13.0,Vermont,1.0,North Carolina,0.138
+13.0,Vermont,1.0,Purdue,0.052
+13.0,Vermont,2.0,Arizona,0.092
+13.0,Vermont,2.0,Iowa St.,0.067
+13.0,Vermont,2.0,Marquette,0.114
+13.0,Vermont,2.0,Tennessee,0.115
+13.0,Vermont,3.0,Baylor,0.149
+13.0,Vermont,3.0,Creighton,0.208
+13.0,Vermont,3.0,Illinois,0.142
+13.0,Vermont,3.0,Kentucky,0.21
+13.0,Vermont,4.0,Alabama,0.146
+13.0,Vermont,4.0,Auburn,0.081
+13.0,Vermont,4.0,Duke,0.147
+13.0,Vermont,4.0,Kansas,0.196
+13.0,Vermont,5.0,Gonzaga,0.163
+13.0,Vermont,5.0,Saint Mary's,0.178
+13.0,Vermont,5.0,San Diego St.,0.22
+13.0,Vermont,5.0,Wisconsin,0.175
+13.0,Vermont,6.0,BYU,0.16
+13.0,Vermont,6.0,Clemson,0.293
+13.0,Vermont,6.0,South Carolina,0.24
+13.0,Vermont,6.0,Texas Tech,0.205
+13.0,Vermont,7.0,Dayton,0.249
+13.0,Vermont,7.0,Florida,0.18
+13.0,Vermont,7.0,Texas,0.195
+13.0,Vermont,7.0,Washington St.,0.266
+13.0,Vermont,8.0,Florida Atlantic,0.261
+13.0,Vermont,8.0,Mississippi St.,0.23
+13.0,Vermont,8.0,Nebraska,0.211
+13.0,Vermont,8.0,Utah St.,0.268
+13.0,Vermont,9.0,Michigan St.,0.188
+13.0,Vermont,9.0,Northwestern,0.22
+13.0,Vermont,9.0,TCU,0.194
+13.0,Vermont,9.0,Texas A&M,0.219
+13.0,Vermont,10.0,Boise St.,0.247
+13.0,Vermont,10.0,Colorado,0.214
+13.0,Vermont,10.0,Colorado St.,0.254
+13.0,Vermont,10.0,Drake,0.271
+13.0,Vermont,10.0,Nevada,0.213
+13.0,Vermont,10.0,Virginia,0.272
+13.0,Vermont,11.0,Duquesne,0.383
+13.0,Vermont,11.0,New Mexico,0.148
+13.0,Vermont,11.0,North Carolina St.,0.304
+13.0,Vermont,11.0,Oregon,0.26
+13.0,Vermont,12.0,Grand Canyon,0.267
+13.0,Vermont,12.0,James Madison,0.252
+13.0,Vermont,12.0,McNeese St.,0.245
+13.0,Vermont,12.0,UAB,0.486
+13.0,Vermont,13.0,College of Charleston,0.399
+13.0,Vermont,13.0,Samford,0.309
+13.0,Vermont,13.0,Yale,0.404
+13.0,Vermont,14.0,Akron,0.572
+13.0,Vermont,14.0,Colgate,0.662
+13.0,Vermont,14.0,Morehead St.,0.571
+13.0,Vermont,14.0,Oakland,0.57
+13.0,Vermont,15.0,Long Beach St.,0.71
+13.0,Vermont,15.0,Saint Peter's,0.727
+13.0,Vermont,15.0,South Dakota St.,0.66
+13.0,Vermont,15.0,Western Kentucky,0.607
+13.0,Vermont,16.0,Grambling St.,0.836
+13.0,Vermont,16.0,Howard,0.872
+13.0,Vermont,16.0,Longwood,0.656
+13.0,Vermont,16.0,Montana St.,0.817
+13.0,Vermont,16.0,Stetson,0.788
+13.0,Vermont,16.0,Wagner,0.876
+13.0,Yale,1.0,Connecticut,0.063
+13.0,Yale,1.0,Houston,0.037
+13.0,Yale,1.0,North Carolina,0.191
+13.0,Yale,1.0,Purdue,0.075
+13.0,Yale,2.0,Arizona,0.131
+13.0,Yale,2.0,Iowa St.,0.096
+13.0,Yale,2.0,Marquette,0.159
+13.0,Yale,2.0,Tennessee,0.161
+13.0,Yale,3.0,Baylor,0.205
+13.0,Yale,3.0,Creighton,0.279
+13.0,Yale,3.0,Illinois,0.196
+13.0,Yale,3.0,Kentucky,0.282
+13.0,Yale,4.0,Alabama,0.201
+13.0,Yale,4.0,Auburn,0.115
+13.0,Yale,4.0,Duke,0.202
+13.0,Yale,4.0,Kansas,0.264
+13.0,Yale,5.0,Gonzaga,0.223
+13.0,Yale,5.0,Saint Mary's,0.242
+13.0,Yale,5.0,San Diego St.,0.294
+13.0,Yale,5.0,Wisconsin,0.238
+13.0,Yale,6.0,BYU,0.219
+13.0,Yale,6.0,Clemson,0.379
+13.0,Yale,6.0,South Carolina,0.318
+13.0,Yale,6.0,Texas Tech,0.275
+13.0,Yale,7.0,Dayton,0.328
+13.0,Yale,7.0,Florida,0.245
+13.0,Yale,7.0,Texas,0.263
+13.0,Yale,7.0,Washington St.,0.349
+13.0,Yale,8.0,Florida Atlantic,0.343
+13.0,Yale,8.0,Mississippi St.,0.305
+13.0,Yale,8.0,Nebraska,0.283
+13.0,Yale,8.0,Utah St.,0.35
+13.0,Yale,9.0,Michigan St.,0.255
+13.0,Yale,9.0,Northwestern,0.293
+13.0,Yale,9.0,TCU,0.261
+13.0,Yale,9.0,Texas A&M,0.293
+13.0,Yale,10.0,Boise St.,0.326
+13.0,Yale,10.0,Colorado,0.286
+13.0,Yale,10.0,Colorado St.,0.334
+13.0,Yale,10.0,Drake,0.354
+13.0,Yale,10.0,Nevada,0.285
+13.0,Yale,10.0,Virginia,0.356
+13.0,Yale,11.0,Duquesne,0.478
+13.0,Yale,11.0,New Mexico,0.204
+13.0,Yale,11.0,North Carolina St.,0.391
+13.0,Yale,11.0,Oregon,0.341
+13.0,Yale,12.0,Grand Canyon,0.349
+13.0,Yale,12.0,James Madison,0.331
+13.0,Yale,12.0,McNeese St.,0.323
+13.0,Yale,12.0,UAB,0.582
+13.0,Yale,13.0,College of Charleston,0.495
+13.0,Yale,13.0,Samford,0.397
+13.0,Yale,13.0,Vermont,0.596
+13.0,Yale,14.0,Akron,0.663
+13.0,Yale,14.0,Colgate,0.743
+13.0,Yale,14.0,Morehead St.,0.663
+13.0,Yale,14.0,Oakland,0.661
+13.0,Yale,15.0,Long Beach St.,0.783
+13.0,Yale,15.0,Saint Peter's,0.797
+13.0,Yale,15.0,South Dakota St.,0.741
+13.0,Yale,15.0,Western Kentucky,0.694
+13.0,Yale,16.0,Grambling St.,0.882
+13.0,Yale,16.0,Howard,0.91
+13.0,Yale,16.0,Longwood,0.737
+13.0,Yale,16.0,Montana St.,0.868
+13.0,Yale,16.0,Stetson,0.846
+13.0,Yale,16.0,Wagner,0.912
+14.0,Akron,1.0,Connecticut,0.033
+14.0,Akron,1.0,Houston,0.019
+14.0,Akron,1.0,North Carolina,0.107
+14.0,Akron,1.0,Purdue,0.04
+14.0,Akron,2.0,Arizona,0.071
+14.0,Akron,2.0,Iowa St.,0.051
+14.0,Akron,2.0,Marquette,0.088
+14.0,Akron,2.0,Tennessee,0.089
+14.0,Akron,3.0,Baylor,0.116
+14.0,Akron,3.0,Creighton,0.164
+14.0,Akron,3.0,Illinois,0.11
+14.0,Akron,3.0,Kentucky,0.166
+14.0,Akron,4.0,Alabama,0.113
+14.0,Akron,4.0,Auburn,0.062
+14.0,Akron,4.0,Duke,0.114
+14.0,Akron,4.0,Kansas,0.154
+14.0,Akron,5.0,Gonzaga,0.127
+14.0,Akron,5.0,Saint Mary's,0.139
+14.0,Akron,5.0,San Diego St.,0.175
+14.0,Akron,5.0,Wisconsin,0.137
+14.0,Akron,6.0,BYU,0.125
+14.0,Akron,6.0,Clemson,0.237
+14.0,Akron,6.0,South Carolina,0.192
+14.0,Akron,6.0,Texas Tech,0.162
+14.0,Akron,7.0,Dayton,0.199
+14.0,Akron,7.0,Florida,0.142
+14.0,Akron,7.0,Texas,0.153
+14.0,Akron,7.0,Washington St.,0.214
+14.0,Akron,8.0,Florida Atlantic,0.209
+14.0,Akron,8.0,Mississippi St.,0.182
+14.0,Akron,8.0,Nebraska,0.167
+14.0,Akron,8.0,Utah St.,0.215
+14.0,Akron,9.0,Michigan St.,0.148
+14.0,Akron,9.0,Northwestern,0.174
+14.0,Akron,9.0,TCU,0.152
+14.0,Akron,9.0,Texas A&M,0.174
+14.0,Akron,10.0,Boise St.,0.197
+14.0,Akron,10.0,Colorado,0.169
+14.0,Akron,10.0,Colorado St.,0.203
+14.0,Akron,10.0,Drake,0.218
+14.0,Akron,10.0,Nevada,0.168
+14.0,Akron,10.0,Virginia,0.219
+14.0,Akron,11.0,Duquesne,0.318
+14.0,Akron,11.0,New Mexico,0.115
+14.0,Akron,11.0,North Carolina St.,0.246
+14.0,Akron,11.0,Oregon,0.208
+14.0,Akron,12.0,Grand Canyon,0.214
+14.0,Akron,12.0,James Madison,0.201
+14.0,Akron,12.0,McNeese St.,0.195
+14.0,Akron,12.0,UAB,0.414
+14.0,Akron,13.0,College of Charleston,0.332
+14.0,Akron,13.0,Samford,0.251
+14.0,Akron,13.0,Vermont,0.428
+14.0,Akron,13.0,Yale,0.337
+14.0,Akron,14.0,Colgate,0.595
+14.0,Akron,14.0,Morehead St.,0.5
+14.0,Akron,14.0,Oakland,0.498
+14.0,Akron,15.0,Long Beach St.,0.647
+14.0,Akron,15.0,Saint Peter's,0.666
+14.0,Akron,15.0,South Dakota St.,0.592
+14.0,Akron,15.0,Western Kentucky,0.536
+14.0,Akron,16.0,Grambling St.,0.792
+14.0,Akron,16.0,Howard,0.837
+14.0,Akron,16.0,Longwood,0.588
+14.0,Akron,16.0,Montana St.,0.77
+14.0,Akron,16.0,Stetson,0.736
+14.0,Akron,16.0,Wagner,0.841
+14.0,Colgate,1.0,Connecticut,0.023
+14.0,Colgate,1.0,Houston,0.013
+14.0,Colgate,1.0,North Carolina,0.076
+14.0,Colgate,1.0,Purdue,0.027
+14.0,Colgate,2.0,Arizona,0.049
+14.0,Colgate,2.0,Iowa St.,0.035
+14.0,Colgate,2.0,Marquette,0.061
+14.0,Colgate,2.0,Tennessee,0.062
+14.0,Colgate,3.0,Baylor,0.082
+14.0,Colgate,3.0,Creighton,0.118
+14.0,Colgate,3.0,Illinois,0.078
+14.0,Colgate,3.0,Kentucky,0.12
+14.0,Colgate,4.0,Alabama,0.08
+14.0,Colgate,4.0,Auburn,0.043
+14.0,Colgate,4.0,Duke,0.081
+14.0,Colgate,4.0,Kansas,0.111
+14.0,Colgate,5.0,Gonzaga,0.09
+14.0,Colgate,5.0,Saint Mary's,0.1
+14.0,Colgate,5.0,San Diego St.,0.126
+14.0,Colgate,5.0,Wisconsin,0.098
+14.0,Colgate,6.0,BYU,0.089
+14.0,Colgate,6.0,Clemson,0.175
+14.0,Colgate,6.0,South Carolina,0.139
+14.0,Colgate,6.0,Texas Tech,0.116
+14.0,Colgate,7.0,Dayton,0.145
+14.0,Colgate,7.0,Florida,0.101
+14.0,Colgate,7.0,Texas,0.11
+14.0,Colgate,7.0,Washington St.,0.156
+14.0,Colgate,8.0,Florida Atlantic,0.153
+14.0,Colgate,8.0,Mississippi St.,0.132
+14.0,Colgate,8.0,Nebraska,0.12
+14.0,Colgate,8.0,Utah St.,0.157
+14.0,Colgate,9.0,Michigan St.,0.106
+14.0,Colgate,9.0,Northwestern,0.126
+14.0,Colgate,9.0,TCU,0.109
+14.0,Colgate,9.0,Texas A&M,0.125
+14.0,Colgate,10.0,Boise St.,0.143
+14.0,Colgate,10.0,Colorado,0.122
+14.0,Colgate,10.0,Colorado St.,0.148
+14.0,Colgate,10.0,Drake,0.16
+14.0,Colgate,10.0,Nevada,0.121
+14.0,Colgate,10.0,Virginia,0.16
+14.0,Colgate,11.0,Duquesne,0.241
+14.0,Colgate,11.0,New Mexico,0.082
+14.0,Colgate,11.0,North Carolina St.,0.182
+14.0,Colgate,11.0,Oregon,0.152
+14.0,Colgate,12.0,Grand Canyon,0.157
+14.0,Colgate,12.0,James Madison,0.146
+14.0,Colgate,12.0,McNeese St.,0.142
+14.0,Colgate,12.0,UAB,0.325
+14.0,Colgate,13.0,College of Charleston,0.253
+14.0,Colgate,13.0,Samford,0.186
+14.0,Colgate,13.0,Vermont,0.338
+14.0,Colgate,13.0,Yale,0.257
+14.0,Colgate,14.0,Akron,0.405
+14.0,Colgate,14.0,Morehead St.,0.405
+14.0,Colgate,14.0,Oakland,0.403
+14.0,Colgate,15.0,Long Beach St.,0.556
+14.0,Colgate,15.0,Saint Peter's,0.576
+14.0,Colgate,15.0,South Dakota St.,0.497
+14.0,Colgate,15.0,Western Kentucky,0.44
+14.0,Colgate,16.0,Grambling St.,0.722
+14.0,Colgate,16.0,Howard,0.777
+14.0,Colgate,16.0,Longwood,0.493
+14.0,Colgate,16.0,Montana St.,0.696
+14.0,Colgate,16.0,Stetson,0.655
+14.0,Colgate,16.0,Wagner,0.783
+14.0,Morehead St.,1.0,Connecticut,0.033
+14.0,Morehead St.,1.0,Houston,0.019
+14.0,Morehead St.,1.0,North Carolina,0.107
+14.0,Morehead St.,1.0,Purdue,0.04
+14.0,Morehead St.,2.0,Arizona,0.071
+14.0,Morehead St.,2.0,Iowa St.,0.051
+14.0,Morehead St.,2.0,Marquette,0.088
+14.0,Morehead St.,2.0,Tennessee,0.089
+14.0,Morehead St.,3.0,Baylor,0.116
+14.0,Morehead St.,3.0,Creighton,0.164
+14.0,Morehead St.,3.0,Illinois,0.11
+14.0,Morehead St.,3.0,Kentucky,0.167
+14.0,Morehead St.,4.0,Alabama,0.113
+14.0,Morehead St.,4.0,Auburn,0.062
+14.0,Morehead St.,4.0,Duke,0.114
+14.0,Morehead St.,4.0,Kansas,0.154
+14.0,Morehead St.,5.0,Gonzaga,0.127
+14.0,Morehead St.,5.0,Saint Mary's,0.14
+14.0,Morehead St.,5.0,San Diego St.,0.175
+14.0,Morehead St.,5.0,Wisconsin,0.137
+14.0,Morehead St.,6.0,BYU,0.125
+14.0,Morehead St.,6.0,Clemson,0.237
+14.0,Morehead St.,6.0,South Carolina,0.192
+14.0,Morehead St.,6.0,Texas Tech,0.162
+14.0,Morehead St.,7.0,Dayton,0.199
+14.0,Morehead St.,7.0,Florida,0.142
+14.0,Morehead St.,7.0,Texas,0.153
+14.0,Morehead St.,7.0,Washington St.,0.214
+14.0,Morehead St.,8.0,Florida Atlantic,0.21
+14.0,Morehead St.,8.0,Mississippi St.,0.183
+14.0,Morehead St.,8.0,Nebraska,0.167
+14.0,Morehead St.,8.0,Utah St.,0.215
+14.0,Morehead St.,9.0,Michigan St.,0.148
+14.0,Morehead St.,9.0,Northwestern,0.174
+14.0,Morehead St.,9.0,TCU,0.153
+14.0,Morehead St.,9.0,Texas A&M,0.174
+14.0,Morehead St.,10.0,Boise St.,0.197
+14.0,Morehead St.,10.0,Colorado,0.17
+14.0,Morehead St.,10.0,Colorado St.,0.203
+14.0,Morehead St.,10.0,Drake,0.218
+14.0,Morehead St.,10.0,Nevada,0.168
+14.0,Morehead St.,10.0,Virginia,0.219
+14.0,Morehead St.,11.0,Duquesne,0.318
+14.0,Morehead St.,11.0,New Mexico,0.115
+14.0,Morehead St.,11.0,North Carolina St.,0.246
+14.0,Morehead St.,11.0,Oregon,0.208
+14.0,Morehead St.,12.0,Grand Canyon,0.215
+14.0,Morehead St.,12.0,James Madison,0.201
+14.0,Morehead St.,12.0,McNeese St.,0.196
+14.0,Morehead St.,12.0,UAB,0.415
+14.0,Morehead St.,13.0,College of Charleston,0.333
+14.0,Morehead St.,13.0,Samford,0.251
+14.0,Morehead St.,13.0,Vermont,0.429
+14.0,Morehead St.,13.0,Yale,0.337
+14.0,Morehead St.,14.0,Akron,0.5
+14.0,Morehead St.,14.0,Colgate,0.595
+14.0,Morehead St.,14.0,Oakland,0.498
+14.0,Morehead St.,15.0,Long Beach St.,0.647
+14.0,Morehead St.,15.0,Saint Peter's,0.666
+14.0,Morehead St.,15.0,South Dakota St.,0.592
+14.0,Morehead St.,15.0,Western Kentucky,0.536
+14.0,Morehead St.,16.0,Grambling St.,0.792
+14.0,Morehead St.,16.0,Howard,0.837
+14.0,Morehead St.,16.0,Longwood,0.588
+14.0,Morehead St.,16.0,Montana St.,0.77
+14.0,Morehead St.,16.0,Stetson,0.736
+14.0,Morehead St.,16.0,Wagner,0.841
+14.0,Oakland,1.0,Connecticut,0.033
+14.0,Oakland,1.0,Houston,0.019
+14.0,Oakland,1.0,North Carolina,0.108
+14.0,Oakland,1.0,Purdue,0.04
+14.0,Oakland,2.0,Arizona,0.071
+14.0,Oakland,2.0,Iowa St.,0.052
+14.0,Oakland,2.0,Marquette,0.088
+14.0,Oakland,2.0,Tennessee,0.089
+14.0,Oakland,3.0,Baylor,0.117
+14.0,Oakland,3.0,Creighton,0.165
+14.0,Oakland,3.0,Illinois,0.111
+14.0,Oakland,3.0,Kentucky,0.167
+14.0,Oakland,4.0,Alabama,0.114
+14.0,Oakland,4.0,Auburn,0.062
+14.0,Oakland,4.0,Duke,0.115
+14.0,Oakland,4.0,Kansas,0.155
+14.0,Oakland,5.0,Gonzaga,0.128
+14.0,Oakland,5.0,Saint Mary's,0.14
+14.0,Oakland,5.0,San Diego St.,0.176
+14.0,Oakland,5.0,Wisconsin,0.138
+14.0,Oakland,6.0,BYU,0.126
+14.0,Oakland,6.0,Clemson,0.238
+14.0,Oakland,6.0,South Carolina,0.193
+14.0,Oakland,6.0,Texas Tech,0.163
+14.0,Oakland,7.0,Dayton,0.2
+14.0,Oakland,7.0,Florida,0.143
+14.0,Oakland,7.0,Texas,0.154
+14.0,Oakland,7.0,Washington St.,0.215
+14.0,Oakland,8.0,Florida Atlantic,0.211
+14.0,Oakland,8.0,Mississippi St.,0.184
+14.0,Oakland,8.0,Nebraska,0.168
+14.0,Oakland,8.0,Utah St.,0.217
+14.0,Oakland,9.0,Michigan St.,0.149
+14.0,Oakland,9.0,Northwestern,0.175
+14.0,Oakland,9.0,TCU,0.154
+14.0,Oakland,9.0,Texas A&M,0.175
+14.0,Oakland,10.0,Boise St.,0.198
+14.0,Oakland,10.0,Colorado,0.17
+14.0,Oakland,10.0,Colorado St.,0.204
+14.0,Oakland,10.0,Drake,0.219
+14.0,Oakland,10.0,Nevada,0.169
+14.0,Oakland,10.0,Virginia,0.22
+14.0,Oakland,11.0,Duquesne,0.319
+14.0,Oakland,11.0,New Mexico,0.116
+14.0,Oakland,11.0,North Carolina St.,0.248
+14.0,Oakland,11.0,Oregon,0.21
+14.0,Oakland,12.0,Grand Canyon,0.216
+14.0,Oakland,12.0,James Madison,0.202
+14.0,Oakland,12.0,McNeese St.,0.197
+14.0,Oakland,12.0,UAB,0.416
+14.0,Oakland,13.0,College of Charleston,0.334
+14.0,Oakland,13.0,Samford,0.252
+14.0,Oakland,13.0,Vermont,0.43
+14.0,Oakland,13.0,Yale,0.339
+14.0,Oakland,14.0,Akron,0.502
+14.0,Oakland,14.0,Colgate,0.597
+14.0,Oakland,14.0,Morehead St.,0.502
+14.0,Oakland,15.0,Long Beach St.,0.649
+14.0,Oakland,15.0,Saint Peter's,0.668
+14.0,Oakland,15.0,South Dakota St.,0.594
+14.0,Oakland,15.0,Western Kentucky,0.538
+14.0,Oakland,16.0,Grambling St.,0.793
+14.0,Oakland,16.0,Howard,0.838
+14.0,Oakland,16.0,Longwood,0.59
+14.0,Oakland,16.0,Montana St.,0.772
+14.0,Oakland,16.0,Stetson,0.738
+14.0,Oakland,16.0,Wagner,0.842
+15.0,Long Beach St.,1.0,Connecticut,0.018
+15.0,Long Beach St.,1.0,Houston,0.01
+15.0,Long Beach St.,1.0,North Carolina,0.061
+15.0,Long Beach St.,1.0,Purdue,0.022
+15.0,Long Beach St.,2.0,Arizona,0.04
+15.0,Long Beach St.,2.0,Iowa St.,0.029
+15.0,Long Beach St.,2.0,Marquette,0.05
+15.0,Long Beach St.,2.0,Tennessee,0.05
+15.0,Long Beach St.,3.0,Baylor,0.067
+15.0,Long Beach St.,3.0,Creighton,0.097
+15.0,Long Beach St.,3.0,Illinois,0.063
+15.0,Long Beach St.,3.0,Kentucky,0.098
+15.0,Long Beach St.,4.0,Alabama,0.065
+15.0,Long Beach St.,4.0,Auburn,0.035
+15.0,Long Beach St.,4.0,Duke,0.066
+15.0,Long Beach St.,4.0,Kansas,0.09
+15.0,Long Beach St.,5.0,Gonzaga,0.074
+15.0,Long Beach St.,5.0,Saint Mary's,0.081
+15.0,Long Beach St.,5.0,San Diego St.,0.103
+15.0,Long Beach St.,5.0,Wisconsin,0.08
+15.0,Long Beach St.,6.0,BYU,0.072
+15.0,Long Beach St.,6.0,Clemson,0.145
+15.0,Long Beach St.,6.0,South Carolina,0.114
+15.0,Long Beach St.,6.0,Texas Tech,0.095
+15.0,Long Beach St.,7.0,Dayton,0.119
+15.0,Long Beach St.,7.0,Florida,0.083
+15.0,Long Beach St.,7.0,Texas,0.09
+15.0,Long Beach St.,7.0,Washington St.,0.129
+15.0,Long Beach St.,8.0,Florida Atlantic,0.126
+15.0,Long Beach St.,8.0,Mississippi St.,0.108
+15.0,Long Beach St.,8.0,Nebraska,0.099
+15.0,Long Beach St.,8.0,Utah St.,0.13
+15.0,Long Beach St.,9.0,Michigan St.,0.086
+15.0,Long Beach St.,9.0,Northwestern,0.103
+15.0,Long Beach St.,9.0,TCU,0.089
+15.0,Long Beach St.,9.0,Texas A&M,0.103
+15.0,Long Beach St.,10.0,Boise St.,0.118
+15.0,Long Beach St.,10.0,Colorado,0.1
+15.0,Long Beach St.,10.0,Colorado St.,0.122
+15.0,Long Beach St.,10.0,Drake,0.132
+15.0,Long Beach St.,10.0,Nevada,0.099
+15.0,Long Beach St.,10.0,Virginia,0.133
+15.0,Long Beach St.,11.0,Duquesne,0.202
+15.0,Long Beach St.,11.0,New Mexico,0.066
+15.0,Long Beach St.,11.0,North Carolina St.,0.151
+15.0,Long Beach St.,11.0,Oregon,0.125
+15.0,Long Beach St.,12.0,Grand Canyon,0.13
+15.0,Long Beach St.,12.0,James Madison,0.121
+15.0,Long Beach St.,12.0,McNeese St.,0.117
+15.0,Long Beach St.,12.0,UAB,0.278
+15.0,Long Beach St.,13.0,College of Charleston,0.214
+15.0,Long Beach St.,13.0,Samford,0.154
+15.0,Long Beach St.,13.0,Vermont,0.29
+15.0,Long Beach St.,13.0,Yale,0.217
+15.0,Long Beach St.,14.0,Akron,0.353
+15.0,Long Beach St.,14.0,Colgate,0.444
+15.0,Long Beach St.,14.0,Morehead St.,0.353
+15.0,Long Beach St.,14.0,Oakland,0.351
+15.0,Long Beach St.,15.0,Saint Peter's,0.521
+15.0,Long Beach St.,15.0,South Dakota St.,0.442
+15.0,Long Beach St.,15.0,Western Kentucky,0.386
+15.0,Long Beach St.,16.0,Grambling St.,0.675
+15.0,Long Beach St.,16.0,Howard,0.736
+15.0,Long Beach St.,16.0,Longwood,0.438
+15.0,Long Beach St.,16.0,Montana St.,0.646
+15.0,Long Beach St.,16.0,Stetson,0.603
+15.0,Long Beach St.,16.0,Wagner,0.743
+15.0,Saint Peter's,1.0,Connecticut,0.017
+15.0,Saint Peter's,1.0,Houston,0.01
+15.0,Saint Peter's,1.0,North Carolina,0.057
+15.0,Saint Peter's,1.0,Purdue,0.02
+15.0,Saint Peter's,2.0,Arizona,0.037
+15.0,Saint Peter's,2.0,Iowa St.,0.026
+15.0,Saint Peter's,2.0,Marquette,0.046
+15.0,Saint Peter's,2.0,Tennessee,0.047
+15.0,Saint Peter's,3.0,Baylor,0.062
+15.0,Saint Peter's,3.0,Creighton,0.09
+15.0,Saint Peter's,3.0,Illinois,0.059
+15.0,Saint Peter's,3.0,Kentucky,0.091
+15.0,Saint Peter's,4.0,Alabama,0.06
+15.0,Saint Peter's,4.0,Auburn,0.032
+15.0,Saint Peter's,4.0,Duke,0.061
+15.0,Saint Peter's,4.0,Kansas,0.084
+15.0,Saint Peter's,5.0,Gonzaga,0.068
+15.0,Saint Peter's,5.0,Saint Mary's,0.075
+15.0,Saint Peter's,5.0,San Diego St.,0.096
+15.0,Saint Peter's,5.0,Wisconsin,0.074
+15.0,Saint Peter's,6.0,BYU,0.067
+15.0,Saint Peter's,6.0,Clemson,0.135
+15.0,Saint Peter's,6.0,South Carolina,0.106
+15.0,Saint Peter's,6.0,Texas Tech,0.088
+15.0,Saint Peter's,7.0,Dayton,0.111
+15.0,Saint Peter's,7.0,Florida,0.076
+15.0,Saint Peter's,7.0,Texas,0.083
+15.0,Saint Peter's,7.0,Washington St.,0.12
+15.0,Saint Peter's,8.0,Florida Atlantic,0.117
+15.0,Saint Peter's,8.0,Mississippi St.,0.101
+15.0,Saint Peter's,8.0,Nebraska,0.091
+15.0,Saint Peter's,8.0,Utah St.,0.121
+15.0,Saint Peter's,9.0,Michigan St.,0.08
+15.0,Saint Peter's,9.0,Northwestern,0.096
+15.0,Saint Peter's,9.0,TCU,0.083
+15.0,Saint Peter's,9.0,Texas A&M,0.095
+15.0,Saint Peter's,10.0,Boise St.,0.11
+15.0,Saint Peter's,10.0,Colorado,0.093
+15.0,Saint Peter's,10.0,Colorado St.,0.113
+15.0,Saint Peter's,10.0,Drake,0.123
+15.0,Saint Peter's,10.0,Nevada,0.092
+15.0,Saint Peter's,10.0,Virginia,0.123
+15.0,Saint Peter's,11.0,Duquesne,0.189
+15.0,Saint Peter's,11.0,New Mexico,0.061
+15.0,Saint Peter's,11.0,North Carolina St.,0.141
+15.0,Saint Peter's,11.0,Oregon,0.116
+15.0,Saint Peter's,12.0,Grand Canyon,0.12
+15.0,Saint Peter's,12.0,James Madison,0.112
+15.0,Saint Peter's,12.0,McNeese St.,0.108
+15.0,Saint Peter's,12.0,UAB,0.262
+15.0,Saint Peter's,13.0,College of Charleston,0.2
+15.0,Saint Peter's,13.0,Samford,0.144
+15.0,Saint Peter's,13.0,Vermont,0.273
+15.0,Saint Peter's,13.0,Yale,0.203
+15.0,Saint Peter's,14.0,Akron,0.334
+15.0,Saint Peter's,14.0,Colgate,0.424
+15.0,Saint Peter's,14.0,Morehead St.,0.334
+15.0,Saint Peter's,14.0,Oakland,0.332
+15.0,Saint Peter's,15.0,Long Beach St.,0.479
+15.0,Saint Peter's,15.0,South Dakota St.,0.421
+15.0,Saint Peter's,15.0,Western Kentucky,0.367
+15.0,Saint Peter's,16.0,Grambling St.,0.656
+15.0,Saint Peter's,16.0,Howard,0.719
+15.0,Saint Peter's,16.0,Longwood,0.417
+15.0,Saint Peter's,16.0,Montana St.,0.627
+15.0,Saint Peter's,16.0,Stetson,0.583
+15.0,Saint Peter's,16.0,Wagner,0.726
+15.0,South Dakota St.,1.0,Connecticut,0.023
+15.0,South Dakota St.,1.0,Houston,0.013
+15.0,South Dakota St.,1.0,North Carolina,0.076
+15.0,South Dakota St.,1.0,Purdue,0.028
+15.0,South Dakota St.,2.0,Arizona,0.05
+15.0,South Dakota St.,2.0,Iowa St.,0.036
+15.0,South Dakota St.,2.0,Marquette,0.062
+15.0,South Dakota St.,2.0,Tennessee,0.063
+15.0,South Dakota St.,3.0,Baylor,0.083
+15.0,South Dakota St.,3.0,Creighton,0.119
+15.0,South Dakota St.,3.0,Illinois,0.079
+15.0,South Dakota St.,3.0,Kentucky,0.121
+15.0,South Dakota St.,4.0,Alabama,0.081
+15.0,South Dakota St.,4.0,Auburn,0.044
+15.0,South Dakota St.,4.0,Duke,0.082
+15.0,South Dakota St.,4.0,Kansas,0.112
+15.0,South Dakota St.,5.0,Gonzaga,0.091
+15.0,South Dakota St.,5.0,Saint Mary's,0.1
+15.0,South Dakota St.,5.0,San Diego St.,0.127
+15.0,South Dakota St.,5.0,Wisconsin,0.099
+15.0,South Dakota St.,6.0,BYU,0.089
+15.0,South Dakota St.,6.0,Clemson,0.176
+15.0,South Dakota St.,6.0,South Carolina,0.14
+15.0,South Dakota St.,6.0,Texas Tech,0.117
+15.0,South Dakota St.,7.0,Dayton,0.146
+15.0,South Dakota St.,7.0,Florida,0.102
+15.0,South Dakota St.,7.0,Texas,0.111
+15.0,South Dakota St.,7.0,Washington St.,0.158
+15.0,South Dakota St.,8.0,Florida Atlantic,0.154
+15.0,South Dakota St.,8.0,Mississippi St.,0.133
+15.0,South Dakota St.,8.0,Nebraska,0.121
+15.0,South Dakota St.,8.0,Utah St.,0.159
+15.0,South Dakota St.,9.0,Michigan St.,0.107
+15.0,South Dakota St.,9.0,Northwestern,0.127
+15.0,South Dakota St.,9.0,TCU,0.11
+15.0,South Dakota St.,9.0,Texas A&M,0.127
+15.0,South Dakota St.,10.0,Boise St.,0.145
+15.0,South Dakota St.,10.0,Colorado,0.123
+15.0,South Dakota St.,10.0,Colorado St.,0.149
+15.0,South Dakota St.,10.0,Drake,0.161
+15.0,South Dakota St.,10.0,Nevada,0.122
+15.0,South Dakota St.,10.0,Virginia,0.162
+15.0,South Dakota St.,11.0,Duquesne,0.243
+15.0,South Dakota St.,11.0,New Mexico,0.082
+15.0,South Dakota St.,11.0,North Carolina St.,0.184
+15.0,South Dakota St.,11.0,Oregon,0.153
+15.0,South Dakota St.,12.0,Grand Canyon,0.158
+15.0,South Dakota St.,12.0,James Madison,0.148
+15.0,South Dakota St.,12.0,McNeese St.,0.143
+15.0,South Dakota St.,12.0,UAB,0.328
+15.0,South Dakota St.,13.0,College of Charleston,0.255
+15.0,South Dakota St.,13.0,Samford,0.187
+15.0,South Dakota St.,13.0,Vermont,0.34
+15.0,South Dakota St.,13.0,Yale,0.259
+15.0,South Dakota St.,14.0,Akron,0.408
+15.0,South Dakota St.,14.0,Colgate,0.503
+15.0,South Dakota St.,14.0,Morehead St.,0.408
+15.0,South Dakota St.,14.0,Oakland,0.406
+15.0,South Dakota St.,15.0,Long Beach St.,0.558
+15.0,South Dakota St.,15.0,Saint Peter's,0.579
+15.0,South Dakota St.,15.0,Western Kentucky,0.443
+15.0,South Dakota St.,16.0,Grambling St.,0.724
+15.0,South Dakota St.,16.0,Howard,0.779
+15.0,South Dakota St.,16.0,Longwood,0.496
+15.0,South Dakota St.,16.0,Montana St.,0.698
+15.0,South Dakota St.,16.0,Stetson,0.658
+15.0,South Dakota St.,16.0,Wagner,0.785
+15.0,Western Kentucky,1.0,Connecticut,0.029
+15.0,Western Kentucky,1.0,Houston,0.016
+15.0,Western Kentucky,1.0,North Carolina,0.094
+15.0,Western Kentucky,1.0,Purdue,0.035
+15.0,Western Kentucky,2.0,Arizona,0.062
+15.0,Western Kentucky,2.0,Iowa St.,0.045
+15.0,Western Kentucky,2.0,Marquette,0.077
+15.0,Western Kentucky,2.0,Tennessee,0.078
+15.0,Western Kentucky,3.0,Baylor,0.102
+15.0,Western Kentucky,3.0,Creighton,0.145
+15.0,Western Kentucky,3.0,Illinois,0.097
+15.0,Western Kentucky,3.0,Kentucky,0.147
+15.0,Western Kentucky,4.0,Alabama,0.1
+15.0,Western Kentucky,4.0,Auburn,0.054
+15.0,Western Kentucky,4.0,Duke,0.1
+15.0,Western Kentucky,4.0,Kansas,0.136
+15.0,Western Kentucky,5.0,Gonzaga,0.112
+15.0,Western Kentucky,5.0,Saint Mary's,0.123
+15.0,Western Kentucky,5.0,San Diego St.,0.155
+15.0,Western Kentucky,5.0,Wisconsin,0.121
+15.0,Western Kentucky,6.0,BYU,0.11
+15.0,Western Kentucky,6.0,Clemson,0.212
+15.0,Western Kentucky,6.0,South Carolina,0.17
+15.0,Western Kentucky,6.0,Texas Tech,0.143
+15.0,Western Kentucky,7.0,Dayton,0.177
+15.0,Western Kentucky,7.0,Florida,0.125
+15.0,Western Kentucky,7.0,Texas,0.136
+15.0,Western Kentucky,7.0,Washington St.,0.191
+15.0,Western Kentucky,8.0,Florida Atlantic,0.187
+15.0,Western Kentucky,8.0,Mississippi St.,0.162
+15.0,Western Kentucky,8.0,Nebraska,0.148
+15.0,Western Kentucky,8.0,Utah St.,0.192
+15.0,Western Kentucky,9.0,Michigan St.,0.131
+15.0,Western Kentucky,9.0,Northwestern,0.154
+15.0,Western Kentucky,9.0,TCU,0.135
+15.0,Western Kentucky,9.0,Texas A&M,0.154
+15.0,Western Kentucky,10.0,Boise St.,0.175
+15.0,Western Kentucky,10.0,Colorado,0.15
+15.0,Western Kentucky,10.0,Colorado St.,0.18
+15.0,Western Kentucky,10.0,Drake,0.194
+15.0,Western Kentucky,10.0,Nevada,0.149
+15.0,Western Kentucky,10.0,Virginia,0.195
+15.0,Western Kentucky,11.0,Duquesne,0.287
+15.0,Western Kentucky,11.0,New Mexico,0.101
+15.0,Western Kentucky,11.0,North Carolina St.,0.22
+15.0,Western Kentucky,11.0,Oregon,0.185
+15.0,Western Kentucky,12.0,Grand Canyon,0.191
+15.0,Western Kentucky,12.0,James Madison,0.179
+15.0,Western Kentucky,12.0,McNeese St.,0.174
+15.0,Western Kentucky,12.0,UAB,0.38
+15.0,Western Kentucky,13.0,College of Charleston,0.301
+15.0,Western Kentucky,13.0,Samford,0.225
+15.0,Western Kentucky,13.0,Vermont,0.393
+15.0,Western Kentucky,13.0,Yale,0.306
+15.0,Western Kentucky,14.0,Akron,0.464
+15.0,Western Kentucky,14.0,Colgate,0.56
+15.0,Western Kentucky,14.0,Morehead St.,0.464
+15.0,Western Kentucky,14.0,Oakland,0.462
+15.0,Western Kentucky,15.0,Long Beach St.,0.614
+15.0,Western Kentucky,15.0,Saint Peter's,0.633
+15.0,Western Kentucky,15.0,South Dakota St.,0.557
+15.0,Western Kentucky,16.0,Grambling St.,0.767
+15.0,Western Kentucky,16.0,Howard,0.816
+15.0,Western Kentucky,16.0,Longwood,0.553
+15.0,Western Kentucky,16.0,Montana St.,0.744
+15.0,Western Kentucky,16.0,Stetson,0.707
+15.0,Western Kentucky,16.0,Wagner,0.821
+16.0,Grambling St.,1.0,Connecticut,0.009
+16.0,Grambling St.,1.0,Houston,0.005
+16.0,Grambling St.,1.0,North Carolina,0.031
+16.0,Grambling St.,1.0,Purdue,0.011
+16.0,Grambling St.,2.0,Arizona,0.02
+16.0,Grambling St.,2.0,Iowa St.,0.014
+16.0,Grambling St.,2.0,Marquette,0.025
+16.0,Grambling St.,2.0,Tennessee,0.025
+16.0,Grambling St.,3.0,Baylor,0.033
+16.0,Grambling St.,3.0,Creighton,0.049
+16.0,Grambling St.,3.0,Illinois,0.032
+16.0,Grambling St.,3.0,Kentucky,0.05
+16.0,Grambling St.,4.0,Alabama,0.033
+16.0,Grambling St.,4.0,Auburn,0.017
+16.0,Grambling St.,4.0,Duke,0.033
+16.0,Grambling St.,4.0,Kansas,0.046
+16.0,Grambling St.,5.0,Gonzaga,0.037
+16.0,Grambling St.,5.0,Saint Mary's,0.041
+16.0,Grambling St.,5.0,San Diego St.,0.053
+16.0,Grambling St.,5.0,Wisconsin,0.04
+16.0,Grambling St.,6.0,BYU,0.036
+16.0,Grambling St.,6.0,Clemson,0.075
+16.0,Grambling St.,6.0,South Carolina,0.059
+16.0,Grambling St.,6.0,Texas Tech,0.048
+16.0,Grambling St.,7.0,Dayton,0.061
+16.0,Grambling St.,7.0,Florida,0.042
+16.0,Grambling St.,7.0,Texas,0.045
+16.0,Grambling St.,7.0,Washington St.,0.067
+16.0,Grambling St.,8.0,Florida Atlantic,0.065
+16.0,Grambling St.,8.0,Mississippi St.,0.055
+16.0,Grambling St.,8.0,Nebraska,0.05
+16.0,Grambling St.,8.0,Utah St.,0.067
+16.0,Grambling St.,9.0,Michigan St.,0.044
+16.0,Grambling St.,9.0,Northwestern,0.052
+16.0,Grambling St.,9.0,TCU,0.045
+16.0,Grambling St.,9.0,Texas A&M,0.052
+16.0,Grambling St.,10.0,Boise St.,0.061
+16.0,Grambling St.,10.0,Colorado,0.051
+16.0,Grambling St.,10.0,Colorado St.,0.063
+16.0,Grambling St.,10.0,Drake,0.068
+16.0,Grambling St.,10.0,Nevada,0.05
+16.0,Grambling St.,10.0,Virginia,0.069
+16.0,Grambling St.,11.0,Duquesne,0.109
+16.0,Grambling St.,11.0,New Mexico,0.033
+16.0,Grambling St.,11.0,North Carolina St.,0.079
+16.0,Grambling St.,11.0,Oregon,0.065
+16.0,Grambling St.,12.0,Grand Canyon,0.067
+16.0,Grambling St.,12.0,James Madison,0.062
+16.0,Grambling St.,12.0,McNeese St.,0.06
+16.0,Grambling St.,12.0,UAB,0.157
+16.0,Grambling St.,13.0,College of Charleston,0.116
+16.0,Grambling St.,13.0,Samford,0.081
+16.0,Grambling St.,13.0,Vermont,0.164
+16.0,Grambling St.,13.0,Yale,0.118
+16.0,Grambling St.,14.0,Akron,0.208
+16.0,Grambling St.,14.0,Colgate,0.278
+16.0,Grambling St.,14.0,Morehead St.,0.208
+16.0,Grambling St.,14.0,Oakland,0.207
+16.0,Grambling St.,15.0,Long Beach St.,0.325
+16.0,Grambling St.,15.0,Saint Peter's,0.344
+16.0,Grambling St.,15.0,South Dakota St.,0.276
+16.0,Grambling St.,15.0,Western Kentucky,0.233
+16.0,Grambling St.,16.0,Howard,0.574
+16.0,Grambling St.,16.0,Longwood,0.273
+16.0,Grambling St.,16.0,Montana St.,0.468
+16.0,Grambling St.,16.0,Stetson,0.423
+16.0,Grambling St.,16.0,Wagner,0.582
+16.0,Howard,1.0,Connecticut,0.007
+16.0,Howard,1.0,Houston,0.004
+16.0,Howard,1.0,North Carolina,0.023
+16.0,Howard,1.0,Purdue,0.008
+16.0,Howard,2.0,Arizona,0.015
+16.0,Howard,2.0,Iowa St.,0.01
+16.0,Howard,2.0,Marquette,0.018
+16.0,Howard,2.0,Tennessee,0.019
+16.0,Howard,3.0,Baylor,0.025
+16.0,Howard,3.0,Creighton,0.037
+16.0,Howard,3.0,Illinois,0.024
+16.0,Howard,3.0,Kentucky,0.038
+16.0,Howard,4.0,Alabama,0.024
+16.0,Howard,4.0,Auburn,0.013
+16.0,Howard,4.0,Duke,0.025
+16.0,Howard,4.0,Kansas,0.034
+16.0,Howard,5.0,Gonzaga,0.028
+16.0,Howard,5.0,Saint Mary's,0.031
+16.0,Howard,5.0,San Diego St.,0.04
+16.0,Howard,5.0,Wisconsin,0.03
+16.0,Howard,6.0,BYU,0.027
+16.0,Howard,6.0,Clemson,0.057
+16.0,Howard,6.0,South Carolina,0.044
+16.0,Howard,6.0,Texas Tech,0.036
+16.0,Howard,7.0,Dayton,0.046
+16.0,Howard,7.0,Florida,0.031
+16.0,Howard,7.0,Texas,0.034
+16.0,Howard,7.0,Washington St.,0.05
+16.0,Howard,8.0,Florida Atlantic,0.049
+16.0,Howard,8.0,Mississippi St.,0.042
+16.0,Howard,8.0,Nebraska,0.038
+16.0,Howard,8.0,Utah St.,0.051
+16.0,Howard,9.0,Michigan St.,0.033
+16.0,Howard,9.0,Northwestern,0.04
+16.0,Howard,9.0,TCU,0.034
+16.0,Howard,9.0,Texas A&M,0.04
+16.0,Howard,10.0,Boise St.,0.046
+16.0,Howard,10.0,Colorado,0.038
+16.0,Howard,10.0,Colorado St.,0.047
+16.0,Howard,10.0,Drake,0.052
+16.0,Howard,10.0,Nevada,0.038
+16.0,Howard,10.0,Virginia,0.052
+16.0,Howard,11.0,Duquesne,0.083
+16.0,Howard,11.0,New Mexico,0.025
+16.0,Howard,11.0,North Carolina St.,0.06
+16.0,Howard,11.0,Oregon,0.049
+16.0,Howard,12.0,Grand Canyon,0.051
+16.0,Howard,12.0,James Madison,0.047
+16.0,Howard,12.0,McNeese St.,0.045
+16.0,Howard,12.0,UAB,0.122
+16.0,Howard,13.0,College of Charleston,0.089
+16.0,Howard,13.0,Samford,0.061
+16.0,Howard,13.0,Vermont,0.128
+16.0,Howard,13.0,Yale,0.09
+16.0,Howard,14.0,Akron,0.163
+16.0,Howard,14.0,Colgate,0.223
+16.0,Howard,14.0,Morehead St.,0.163
+16.0,Howard,14.0,Oakland,0.162
+16.0,Howard,15.0,Long Beach St.,0.264
+16.0,Howard,15.0,Saint Peter's,0.281
+16.0,Howard,15.0,South Dakota St.,0.221
+16.0,Howard,15.0,Western Kentucky,0.184
+16.0,Howard,16.0,Grambling St.,0.426
+16.0,Howard,16.0,Longwood,0.218
+16.0,Howard,16.0,Montana St.,0.396
+16.0,Howard,16.0,Stetson,0.353
+16.0,Howard,16.0,Wagner,0.508
+16.0,Longwood,1.0,Connecticut,0.023
+16.0,Longwood,1.0,Houston,0.013
+16.0,Longwood,1.0,North Carolina,0.078
+16.0,Longwood,1.0,Purdue,0.028
+16.0,Longwood,2.0,Arizona,0.051
+16.0,Longwood,2.0,Iowa St.,0.036
+16.0,Longwood,2.0,Marquette,0.063
+16.0,Longwood,2.0,Tennessee,0.064
+16.0,Longwood,3.0,Baylor,0.084
+16.0,Longwood,3.0,Creighton,0.121
+16.0,Longwood,3.0,Illinois,0.08
+16.0,Longwood,3.0,Kentucky,0.123
+16.0,Longwood,4.0,Alabama,0.082
+16.0,Longwood,4.0,Auburn,0.044
+16.0,Longwood,4.0,Duke,0.083
+16.0,Longwood,4.0,Kansas,0.113
+16.0,Longwood,5.0,Gonzaga,0.093
+16.0,Longwood,5.0,Saint Mary's,0.102
+16.0,Longwood,5.0,San Diego St.,0.129
+16.0,Longwood,5.0,Wisconsin,0.1
+16.0,Longwood,6.0,BYU,0.091
+16.0,Longwood,6.0,Clemson,0.179
+16.0,Longwood,6.0,South Carolina,0.142
+16.0,Longwood,6.0,Texas Tech,0.119
+16.0,Longwood,7.0,Dayton,0.148
+16.0,Longwood,7.0,Florida,0.104
+16.0,Longwood,7.0,Texas,0.113
+16.0,Longwood,7.0,Washington St.,0.16
+16.0,Longwood,8.0,Florida Atlantic,0.157
+16.0,Longwood,8.0,Mississippi St.,0.135
+16.0,Longwood,8.0,Nebraska,0.123
+16.0,Longwood,8.0,Utah St.,0.161
+16.0,Longwood,9.0,Michigan St.,0.108
+16.0,Longwood,9.0,Northwestern,0.129
+16.0,Longwood,9.0,TCU,0.112
+16.0,Longwood,9.0,Texas A&M,0.129
+16.0,Longwood,10.0,Boise St.,0.147
+16.0,Longwood,10.0,Colorado,0.125
+16.0,Longwood,10.0,Colorado St.,0.151
+16.0,Longwood,10.0,Drake,0.163
+16.0,Longwood,10.0,Nevada,0.124
+16.0,Longwood,10.0,Virginia,0.164
+16.0,Longwood,11.0,Duquesne,0.246
+16.0,Longwood,11.0,New Mexico,0.084
+16.0,Longwood,11.0,North Carolina St.,0.186
+16.0,Longwood,11.0,Oregon,0.156
+16.0,Longwood,12.0,Grand Canyon,0.161
+16.0,Longwood,12.0,James Madison,0.15
+16.0,Longwood,12.0,McNeese St.,0.145
+16.0,Longwood,12.0,UAB,0.332
+16.0,Longwood,13.0,College of Charleston,0.259
+16.0,Longwood,13.0,Samford,0.19
+16.0,Longwood,13.0,Vermont,0.344
+16.0,Longwood,13.0,Yale,0.263
+16.0,Longwood,14.0,Akron,0.412
+16.0,Longwood,14.0,Colgate,0.507
+16.0,Longwood,14.0,Morehead St.,0.412
+16.0,Longwood,14.0,Oakland,0.41
+16.0,Longwood,15.0,Long Beach St.,0.562
+16.0,Longwood,15.0,Saint Peter's,0.583
+16.0,Longwood,15.0,South Dakota St.,0.504
+16.0,Longwood,15.0,Western Kentucky,0.447
+16.0,Longwood,16.0,Grambling St.,0.727
+16.0,Longwood,16.0,Howard,0.782
+16.0,Longwood,16.0,Montana St.,0.701
+16.0,Longwood,16.0,Stetson,0.661
+16.0,Longwood,16.0,Wagner,0.788
+16.0,Montana St.,1.0,Connecticut,0.01
+16.0,Montana St.,1.0,Houston,0.006
+16.0,Montana St.,1.0,North Carolina,0.035
+16.0,Montana St.,1.0,Purdue,0.012
+16.0,Montana St.,2.0,Arizona,0.022
+16.0,Montana St.,2.0,Iowa St.,0.016
+16.0,Montana St.,2.0,Marquette,0.028
+16.0,Montana St.,2.0,Tennessee,0.028
+16.0,Montana St.,3.0,Baylor,0.038
+16.0,Montana St.,3.0,Creighton,0.055
+16.0,Montana St.,3.0,Illinois,0.036
+16.0,Montana St.,3.0,Kentucky,0.056
+16.0,Montana St.,4.0,Alabama,0.037
+16.0,Montana St.,4.0,Auburn,0.019
+16.0,Montana St.,4.0,Duke,0.037
+16.0,Montana St.,4.0,Kansas,0.052
+16.0,Montana St.,5.0,Gonzaga,0.042
+16.0,Montana St.,5.0,Saint Mary's,0.046
+16.0,Montana St.,5.0,San Diego St.,0.059
+16.0,Montana St.,5.0,Wisconsin,0.045
+16.0,Montana St.,6.0,BYU,0.041
+16.0,Montana St.,6.0,Clemson,0.085
+16.0,Montana St.,6.0,South Carolina,0.066
+16.0,Montana St.,6.0,Texas Tech,0.054
+16.0,Montana St.,7.0,Dayton,0.069
+16.0,Montana St.,7.0,Florida,0.047
+16.0,Montana St.,7.0,Texas,0.051
+16.0,Montana St.,7.0,Washington St.,0.075
+16.0,Montana St.,8.0,Florida Atlantic,0.073
+16.0,Montana St.,8.0,Mississippi St.,0.062
+16.0,Montana St.,8.0,Nebraska,0.056
+16.0,Montana St.,8.0,Utah St.,0.076
+16.0,Montana St.,9.0,Michigan St.,0.049
+16.0,Montana St.,9.0,Northwestern,0.059
+16.0,Montana St.,9.0,TCU,0.051
+16.0,Montana St.,9.0,Texas A&M,0.059
+16.0,Montana St.,10.0,Boise St.,0.068
+16.0,Montana St.,10.0,Colorado,0.057
+16.0,Montana St.,10.0,Colorado St.,0.071
+16.0,Montana St.,10.0,Drake,0.077
+16.0,Montana St.,10.0,Nevada,0.057
+16.0,Montana St.,10.0,Virginia,0.077
+16.0,Montana St.,11.0,Duquesne,0.122
+16.0,Montana St.,11.0,New Mexico,0.037
+16.0,Montana St.,11.0,North Carolina St.,0.089
+16.0,Montana St.,11.0,Oregon,0.073
+16.0,Montana St.,12.0,Grand Canyon,0.075
+16.0,Montana St.,12.0,James Madison,0.07
+16.0,Montana St.,12.0,McNeese St.,0.068
+16.0,Montana St.,12.0,UAB,0.174
+16.0,Montana St.,13.0,College of Charleston,0.129
+16.0,Montana St.,13.0,Samford,0.091
+16.0,Montana St.,13.0,Vermont,0.183
+16.0,Montana St.,13.0,Yale,0.132
+16.0,Montana St.,14.0,Akron,0.23
+16.0,Montana St.,14.0,Colgate,0.304
+16.0,Montana St.,14.0,Morehead St.,0.23
+16.0,Montana St.,14.0,Oakland,0.228
+16.0,Montana St.,15.0,Long Beach St.,0.354
+16.0,Montana St.,15.0,Saint Peter's,0.373
+16.0,Montana St.,15.0,South Dakota St.,0.302
+16.0,Montana St.,15.0,Western Kentucky,0.256
+16.0,Montana St.,16.0,Grambling St.,0.532
+16.0,Montana St.,16.0,Howard,0.604
+16.0,Montana St.,16.0,Longwood,0.299
+16.0,Montana St.,16.0,Stetson,0.454
+16.0,Montana St.,16.0,Wagner,0.612
+16.0,Stetson,1.0,Connecticut,0.012
+16.0,Stetson,1.0,Houston,0.007
+16.0,Stetson,1.0,North Carolina,0.041
+16.0,Stetson,1.0,Purdue,0.015
+16.0,Stetson,2.0,Arizona,0.027
+16.0,Stetson,2.0,Iowa St.,0.019
+16.0,Stetson,2.0,Marquette,0.033
+16.0,Stetson,2.0,Tennessee,0.034
+16.0,Stetson,3.0,Baylor,0.045
+16.0,Stetson,3.0,Creighton,0.066
+16.0,Stetson,3.0,Illinois,0.043
+16.0,Stetson,3.0,Kentucky,0.067
+16.0,Stetson,4.0,Alabama,0.044
+16.0,Stetson,4.0,Auburn,0.023
+16.0,Stetson,4.0,Duke,0.044
+16.0,Stetson,4.0,Kansas,0.061
+16.0,Stetson,5.0,Gonzaga,0.05
+16.0,Stetson,5.0,Saint Mary's,0.055
+16.0,Stetson,5.0,San Diego St.,0.071
+16.0,Stetson,5.0,Wisconsin,0.054
+16.0,Stetson,6.0,BYU,0.049
+16.0,Stetson,6.0,Clemson,0.1
+16.0,Stetson,6.0,South Carolina,0.078
+16.0,Stetson,6.0,Texas Tech,0.065
+16.0,Stetson,7.0,Dayton,0.082
+16.0,Stetson,7.0,Florida,0.056
+16.0,Stetson,7.0,Texas,0.061
+16.0,Stetson,7.0,Washington St.,0.089
+16.0,Stetson,8.0,Florida Atlantic,0.087
+16.0,Stetson,8.0,Mississippi St.,0.074
+16.0,Stetson,8.0,Nebraska,0.067
+16.0,Stetson,8.0,Utah St.,0.09
+16.0,Stetson,9.0,Michigan St.,0.059
+16.0,Stetson,9.0,Northwestern,0.07
+16.0,Stetson,9.0,TCU,0.061
+16.0,Stetson,9.0,Texas A&M,0.07
+16.0,Stetson,10.0,Boise St.,0.081
+16.0,Stetson,10.0,Colorado,0.068
+16.0,Stetson,10.0,Colorado St.,0.084
+16.0,Stetson,10.0,Drake,0.091
+16.0,Stetson,10.0,Nevada,0.068
+16.0,Stetson,10.0,Virginia,0.091
+16.0,Stetson,11.0,Duquesne,0.143
+16.0,Stetson,11.0,New Mexico,0.045
+16.0,Stetson,11.0,North Carolina St.,0.105
+16.0,Stetson,11.0,Oregon,0.086
+16.0,Stetson,12.0,Grand Canyon,0.089
+16.0,Stetson,12.0,James Madison,0.083
+16.0,Stetson,12.0,McNeese St.,0.08
+16.0,Stetson,12.0,UAB,0.203
+16.0,Stetson,13.0,College of Charleston,0.152
+16.0,Stetson,13.0,Samford,0.107
+16.0,Stetson,13.0,Vermont,0.212
+16.0,Stetson,13.0,Yale,0.154
+16.0,Stetson,14.0,Akron,0.264
+16.0,Stetson,14.0,Colgate,0.345
+16.0,Stetson,14.0,Morehead St.,0.264
+16.0,Stetson,14.0,Oakland,0.262
+16.0,Stetson,15.0,Long Beach St.,0.397
+16.0,Stetson,15.0,Saint Peter's,0.417
+16.0,Stetson,15.0,South Dakota St.,0.342
+16.0,Stetson,15.0,Western Kentucky,0.293
+16.0,Stetson,16.0,Grambling St.,0.577
+16.0,Stetson,16.0,Howard,0.647
+16.0,Stetson,16.0,Longwood,0.339
+16.0,Stetson,16.0,Montana St.,0.546
+16.0,Stetson,16.0,Wagner,0.655
+16.0,Wagner,1.0,Connecticut,0.006
+16.0,Wagner,1.0,Houston,0.004
+16.0,Wagner,1.0,North Carolina,0.022
+16.0,Wagner,1.0,Purdue,0.008
+16.0,Wagner,2.0,Arizona,0.014
+16.0,Wagner,2.0,Iowa St.,0.01
+16.0,Wagner,2.0,Marquette,0.018
+16.0,Wagner,2.0,Tennessee,0.018
+16.0,Wagner,3.0,Baylor,0.024
+16.0,Wagner,3.0,Creighton,0.036
+16.0,Wagner,3.0,Illinois,0.023
+16.0,Wagner,3.0,Kentucky,0.036
+16.0,Wagner,4.0,Alabama,0.024
+16.0,Wagner,4.0,Auburn,0.012
+16.0,Wagner,4.0,Duke,0.024
+16.0,Wagner,4.0,Kansas,0.033
+16.0,Wagner,5.0,Gonzaga,0.027
+16.0,Wagner,5.0,Saint Mary's,0.03
+16.0,Wagner,5.0,San Diego St.,0.038
+16.0,Wagner,5.0,Wisconsin,0.029
+16.0,Wagner,6.0,BYU,0.026
+16.0,Wagner,6.0,Clemson,0.055
+16.0,Wagner,6.0,South Carolina,0.043
+16.0,Wagner,6.0,Texas Tech,0.035
+16.0,Wagner,7.0,Dayton,0.045
+16.0,Wagner,7.0,Florida,0.03
+16.0,Wagner,7.0,Texas,0.033
+16.0,Wagner,7.0,Washington St.,0.049
+16.0,Wagner,8.0,Florida Atlantic,0.048
+16.0,Wagner,8.0,Mississippi St.,0.04
+16.0,Wagner,8.0,Nebraska,0.037
+16.0,Wagner,8.0,Utah St.,0.049
+16.0,Wagner,9.0,Michigan St.,0.032
+16.0,Wagner,9.0,Northwestern,0.038
+16.0,Wagner,9.0,TCU,0.033
+16.0,Wagner,9.0,Texas A&M,0.038
+16.0,Wagner,10.0,Boise St.,0.044
+16.0,Wagner,10.0,Colorado,0.037
+16.0,Wagner,10.0,Colorado St.,0.046
+16.0,Wagner,10.0,Drake,0.05
+16.0,Wagner,10.0,Nevada,0.037
+16.0,Wagner,10.0,Virginia,0.05
+16.0,Wagner,11.0,Duquesne,0.081
+16.0,Wagner,11.0,New Mexico,0.024
+16.0,Wagner,11.0,North Carolina St.,0.058
+16.0,Wagner,11.0,Oregon,0.047
+16.0,Wagner,12.0,Grand Canyon,0.049
+16.0,Wagner,12.0,James Madison,0.045
+16.0,Wagner,12.0,McNeese St.,0.044
+16.0,Wagner,12.0,UAB,0.118
+16.0,Wagner,13.0,College of Charleston,0.086
+16.0,Wagner,13.0,Samford,0.06
+16.0,Wagner,13.0,Vermont,0.124
+16.0,Wagner,13.0,Yale,0.088
+16.0,Wagner,14.0,Akron,0.159
+16.0,Wagner,14.0,Colgate,0.217
+16.0,Wagner,14.0,Morehead St.,0.159
+16.0,Wagner,14.0,Oakland,0.158
+16.0,Wagner,15.0,Long Beach St.,0.257
+16.0,Wagner,15.0,Saint Peter's,0.274
+16.0,Wagner,15.0,South Dakota St.,0.215
+16.0,Wagner,15.0,Western Kentucky,0.179
+16.0,Wagner,16.0,Grambling St.,0.418
+16.0,Wagner,16.0,Howard,0.492
+16.0,Wagner,16.0,Longwood,0.212
+16.0,Wagner,16.0,Montana St.,0.388
+16.0,Wagner,16.0,Stetson,0.345
